@@ -38,7 +38,7 @@ class LSCNsClassifier(nn.Module):
         A = self.convA(embeds) # (bs, num_filters, seq_len)
         B = self.convB(embeds) # (bs, num_filters, seq_len)
         out = torch.cat(A, B, 1) # (bs, 2 * num_filters, seq_len)
-        out = out.transpose(0, 1) # (bs, seq_len, 2 * num_filters)
+        out = out.transpose(1, 2) # (bs, seq_len, 2 * num_filters)
         out, _ = self.lstm(out) # (bs, seq_len, lstm_hidden)
         # Get the output of the last time step since this is many-to-one
         out = out[:, -1, :] # (bs, lstm_hidden) ? not sure need to check this
