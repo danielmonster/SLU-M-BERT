@@ -1,0 +1,1129 @@
+id,phones,label,intent,text,data-type,file
+0,"['ʒ', 'ə', 'v', 'œ', 'ɛ', 's', 'k', 'ɔ', 't', 'ɪ', 'm', 'a', 'tɕ', 'i', 'n', 'ɪ']",8,PlayMusic,je veux écouter Maximilli,smart-speaker-fr-far,344.wav
+1,"['tʂ', 'ə', 'm', 'iː', 'dʲ', 'ɪ', 'a', 'ɴ', 'iː', 'uə']",8,PlayMusic,je veux écouter Sade,smart-speaker-fr-far,0.wav
+2,"['ʒ', 'ə', 'v', 'u', 'ɪ', 'dʲ', 'e', 'p', 'ʁ', 'ɥ', 'ɪ', 's', 't', 'ɒ', 'ɾ', 'f', 'ɔ', 'ɡ', 'ɔ', 'j', 'a', 'ʃ']",8,PlayMusic,je veux écouter Krzysztof Antkowiak,smart-speaker-fr-far,346.wav
+3,"['ʒ', 'ə', 'm', 'ə', 'v', 'ɪ', 'ɡ', 'u', 'pʲ', 'iː', 'ɪ', 't͡ʃʲ', 'ɻ̩', 'ɛ', 'ʁ', 'm', 'ɛ', 'l', 'd', 'uə', 'm', 'ɪ', 'ɾ']",8,PlayMusic,je veux écouter The Supermen Lovers,smart-speaker-fr-far,347.wav
+4,"['ʒ', 'ə', 'h', 'œ', 'u', 'pʲ', 'ɪ', 'pʲ', 'ɛ', 's', 'a']",8,PlayMusic,je veux écouter P3,smart-speaker-fr-far,340.wav
+5,"['ʒ', 'ə', 'b̞', 'œ', 'ɯ', 'ɪ', 'k', 'ʌ', 'ɴ', 'k̟ʲ', 'iː', 'l']",8,PlayMusic,je veux écouter Campino,smart-speaker-fr-far,341.wav
+6,"['d', 'i', 'n', 'ɪ', 's', 'u', 'pʲ', 'ɪ', 'x', 's', 'ɛ', 'tʰ', 'ɯ', 'z', 'a', 't', 'k', 'ɔ', 'n', 'u', 'a', 'b̞', 'a']",8,PlayMusic,je veux écouter Sakurako Ohara,smart-speaker-fr-far,342.wav
+7,"['ʒ', 'ə', 'b̞', 'œ', 'ɪ', 'k', 'uə', 'tʲ', 'ɛ', 'ɔ', 'n', 'a', 'tɕ', 'i']",8,PlayMusic,je veux écouter Lior Narkis,smart-speaker-fr-far,343.wav
+8,"['ʒ', 'œ', 'v', 'uə', 'ð', 'ɪ', 'ʊ', 'm', 't', 'ɪ', 'ŋ', 'k', 'ʊ', 't', 'a', 's', 'k', 'ə', 'uə', 'ɾ', 'a', 's', 't']",8,PlayMusic,je veux écouter Kodak Black,smart-speaker-fr-far,810.wav
+9,"['t͡ʃʲ', 'ə', 'iː', 'm', 'ə', 'ð', 'iː', 'n', 'ɪ', 'ʁ', 'a', 'ɪ', 'l', 'ə', 'ð', 'ə', 'm', 'a', 'lʲ']",8,PlayMusic,je veux écouter Bryson Tiller,smart-speaker-fr-far,811.wav
+10,"['ʂ', 'ɻ̩', 'n', 'ɨ', 'k', 'ɪ', 'tɕ', 'i', 'n', 'tʂ', 'ɻ̩', 'n', 's', 'a', 'n', 'ʂ', 'uː', 'p', 'a', 'ɾ', 'a', 'n', 's']",8,PlayMusic,je veux écouter Justin Timberlake,smart-speaker-fr-far,812.wav
+11,"['tʂ', 'iː', 'j', 'e', 'ɪ', 'tʂ', 'j', 'e', 'j', 'iː', 'd', 'u', 'ɴ', 'g', 'j', 'e', 'j', 'e', 't̪', 'ɪ', 'tʂ', 'o', 'j', 'e', 'a']",8,PlayMusic,je veux écouter Manuel Turizo,smart-speaker-fr-far,813.wav
+12,"['ʒ', 'ə', 'v', 'u', 'iː', 'x', 'pʲ', 'iː', 'm', 'a', 'n', 'j', 'ɔ̃', 'ә', 'm', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Mani Hoffman,smart-speaker-fr-far,348.wav
+13,"['ʒ', 'ɻ̩', 'm', 'ɪ', 'pʲ', 'e', 'k', 'ʊ', 'tʲ', 'ɛ', 'm', 'iː', 'ɕ', 'i', 'p', 'uə', 'ɾ', 'ʌ']",8,PlayMusic,je veux écouter Mystikal,smart-speaker-fr-far,349.wav
+14,"['tʂ', 'ə', 'l', 'ɪ', 'ә', 'dʲ', 'iː', 'm', 'iː', 'ʒ', 'ɛ', 'ʀ', 'ɔ', 't']",8,PlayMusic,je veux écouter Wiz Khalifa,smart-speaker-fr-far,816.wav
+15,"['tʂ', 'ə', 'm', 'ɪ', 't̪ʰ', 'iː', 'ʁ', 'ɪ', 'ɛ', 'l', 'ɔ']",8,PlayMusic,je veux écouter Tove Lo,smart-speaker-fr-far,817.wav
+16,"['ʒ', 'ə', 'ʁ', 'uə', 'v', 'i', 'pʲ', 'ɪ', 'z', 'ɡ̤', 'a', 'k']",8,PlayMusic,je veux écouter Kevcody,smart-speaker-fr-far,595.wav
+17,"['tɕ', 'ɪ', 'n']",8,PlayMusic,je veux écouter ZLATAN,smart-speaker-fr-far,719.wav
+18,['ɪ'],8,PlayMusic,je veux écouter Day,smart-speaker-fr-far,718.wav
+19,"['ɪ', 'ɕː', 'i']",8,PlayMusic,je veux écouter CJaye,smart-speaker-fr-far,717.wav
+20,"['s', 'ɪ', 'a', 's']",8,PlayMusic,je veux écouter Cœur De Pirate,smart-speaker-fr-far,716.wav
+21,"['ts', 'ɪ']",8,PlayMusic,je veux écouter Macky,smart-speaker-fr-far,715.wav
+22,"['b̞', 'ɪ', 'd', 'ɪ', 'x', 't', 'ɪ', 's']",8,PlayMusic,je veux écouter Juice,smart-speaker-fr-far,714.wav
+23,"['ʌ', 's', 'k', 'iː', 'k', 'a', 'k', 'uə']",8,PlayMusic,je veux écouter Kajo,smart-speaker-fr-far,713.wav
+24,"['ʁ', 'ɛ', 'ɪ', 'l', 'a', 'ɡ', 'uː', 'p', 'uə']",8,PlayMusic,je veux écouter Slaydro,smart-speaker-fr-far,712.wav
+25,"['d', 'ɪ', 'ə', 'pʲ', 'ɪ', 'ɾʲ', 'ɪ', 's', 't', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Lester Williams,smart-speaker-fr-far,711.wav
+26,"['ɪ', 's', 'ɪ', 'tɕ', 'ɕ', 'ɪ', 's']",8,PlayMusic,je veux écouter Miss Li,smart-speaker-fr-far,710.wav
+27,"['tʂ', 'ɨ', 'b̤', 'iː', 'l', 'i', 'k͡p̚', 'm', 'iː', 'd̪', 'e', 'k͡p̚', 'u', 'g', 'i', 'ij', 'j', 'a', 'n', 't̪', 'a']",8,PlayMusic,je veux écouter William Singe,smart-speaker-fr-far,915.wav
+28,"['ʒ', 'ə', 'm', 'ɪ', 'z', 'ɪ', 'k', 'ɪ', 't', 'ə', 'k', 'ʁ', 'i', 'ɡ', 'ʁ', 'ɔ', 'ə', 'ɾ', 'a', 'n', 't', 'ə', 'ɾ', 'ə']",8,PlayMusic,je veux écouter Kris Kross Amsterdam,smart-speaker-fr-far,914.wav
+29,"['ʃ', 'ə', 'ɪ', 't͡ʃ', 'ɪ', 't', 'ɪ', 'k', 'a']",8,PlayMusic,je veux écouter Kyle,smart-speaker-fr-far,606.wav
+30,"['ʒ', 'ɛ', 'b̞', 'ə', 'ɪ', 'k', 'uə', 't', 'ɪ', 'b', 'lʲ', 'ɔ', 'p', 'a', 'ts']",8,PlayMusic,je veux écouter BloodPop®,smart-speaker-fr-far,917.wav
+31,"['ʒ', 'ə', 'ʁ', 'ɪ', 'ʊ', 't', 'tʲ', 'ɪ', 'n', 'tɕ', 'ɪ', 't͡ʃʲ']",8,PlayMusic,je veux écouter Café Quijano,smart-speaker-fr-far,594.wav
+32,"['v', 'ə', 'iː', 't', 'ɪ', 'tʲ', 'ɒ', 'ʁ', 'lʲ', 'e', 'j', 'd', 'a', 's', 't', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Sergey Lazarev,smart-speaker-fr-far,736.wav
+33,"['ʒ', 'ə', 'ɾ', 'ə', 'ð', 'ɪ', 'm', 'u', 't', 'e', 'p', 'l', 'ɔ', 'ɾ', 'p', 'ɔ', 'ɾ', 'ɛ', 't͡ʃʲ', 'i', 'b̞', 'ɪ']",8,PlayMusic,je veux écouter BlocBoy JB,smart-speaker-fr-far,916.wav
+34,"['ʒ', 'ə', 'm', 'ʏ', 'pʲ', 'ɪ', 's', 't͡ʃʲ', 'iː', 'ɔ']",8,PlayMusic,je veux écouter Jay Rock,smart-speaker-fr-far,1061.wav
+35,"['u', 'ɪ', 'k', 'uə', 'tʂ', 'ɪ', 's', 'l', 'a', 'ɴ', 'i']",8,PlayMusic,je veux écouter Kehlani,smart-speaker-fr-far,911.wav
+36,"['ʂ', 'ə', 'ɪ', 's', 't', 'ɪ', 'n', 'ɪ', 's', 'k', 'a', 'ɪ', 's', 'a']",8,PlayMusic,je veux écouter Calum Scott,smart-speaker-fr-far,1063.wav
+37,"['ʂ', 'ɻ̩', 'm', 'ɪ', 'pʲ', 'ɛ', 'iː']",8,PlayMusic,je veux écouter Timeflies,smart-speaker-fr-far,1062.wav
+38,"['ʒ', 'ə', 'm', 'ɪ', 'ɡ', 'u', 't', 'ɛ', 'a', 'ʃ', 'ɔ']",8,PlayMusic,je veux écouter IAmChino,smart-speaker-fr-far,1065.wav
+39,"['ʂ', 'ə', 'm', 'ɪ', 'n', 'ð', 'ɪ', 'ɔ', 'ð', 'a']",8,PlayMusic,je veux écouter Bausa,smart-speaker-fr-far,1064.wav
+40,"['ʒ', 'ə', 't', 'ɛ', 'k', 'ʌ', 'p', 'œ', 'ɾ', 'ə', 'ɛ', 's', 'ɛ', 's', 't', 'a', 'ɔ̃', 'n', 'ʊ', 'ɕ', 'ɔ', 'b̞', 'ə', 'ɾ', 'uə']",8,PlayMusic,je veux écouter Çağatay Ulusoy,smart-speaker-fr-far,619.wav
+41,"['ʒ', 'ə', 'lʲ', 'ə', 'u', 'ɪ', 'ʒ', 'a', 'ʌ', 'm', 'ɔ', 't']",8,PlayMusic,je veux écouter Rich The Kid,smart-speaker-fr-far,910.wav
+42,"['ʒ', 'ə', 'l', 'uə', 'ɪ', 'k', 'ɔ', 'm', 'ŋ̟', 'ð', 'ɪ', 'd', 'iː', 'zʲ', 'i', 'ɾ', 'ɪ', 'x']",8,PlayMusic,je veux écouter Disciples,smart-speaker-fr-far,913.wav
+43,"['ʒ', 'ə', 'b̞', 'ɪ', 'zʲ', 'ɪ', 'k', 'ɔ̃', 'ŋ̟', 'ɟ', 'a']",8,PlayMusic,je veux écouter Bic Runga,smart-speaker-fr-far,298.wav
+44,"['ʒ', 'ə', 'b̞', 'ɛ', 'k', 'u', 'tʲ', 'ɪ', 'ʒ', 'iː', 'tɕ', 'œ']",8,PlayMusic,je veux écouter Jussi Björling,smart-speaker-fr-far,299.wav
+45,"['t͡ʃʲ', 'ə', 'v', 'ɪ', 'dʲ', 'ɪ', 'ʁ', 'a', 'tɕʰ', 'uː']",8,PlayMusic,je veux écouter ra:tio,smart-speaker-fr-far,296.wav
+46,"['tɕ', 'ə', 'b̞', 'ɛ', 'k̟ʲ', 'iː', 'd', 'iː', 's', 'uə', 'tɕ', 'ʏ', 'ʌ', 'n', 'dʲ', 'iː', 'o', 'k', 'ɔ', 'ð', 'ɒ', 'ð', 'ə', 'a', 'bʲ', 'ɪ', 'ɡ', 'iː', 'tɕ', 'a']",8,PlayMusic,je veux écouter Binomio de Oro de América,smart-speaker-fr-far,297.wav
+47,"['ʒ', 'ə', 'b̞', 'ɪ', 'tʲ', 'ɪ', 'w', 'i']",8,PlayMusic,je veux écouter Kuizz,smart-speaker-fr-far,294.wav
+48,"['ʒ', 'ʏ', 'ɛ', 'v', 'u', 't', 'ɪ', 'm', 'a', 'l', 'a', 's', 'a', 'tɕ', 'ɪ']",8,PlayMusic,je veux écouter Maja Francis,smart-speaker-fr-far,295.wav
+49,"['ʒ', 'ʏ', 'v', 'ɛ', 'ɪ', 'ɴ', 'tʲ', 'ɪ', 'l', 'œ', 'ʁ', 'j', 'a', 'tʂʰ', 'a']",8,PlayMusic,je veux écouter Gloria Prince,smart-speaker-fr-far,292.wav
+50,"['ʒ', 'y', 'ð', 'ɛ', 'k', 'ɔ', 't', 'ɛ', 'm', 'ə', 'ɡ', 'ɔ', 'tɕʰ', 'ɪ', 'ɕ']",8,PlayMusic,je veux écouter Le Youth,smart-speaker-fr-far,293.wav
+51,"['tɕ', 'ɪ', 'u', 'pʲ', 'iː', 'n', 'a', 'l', 'a', 'ʃ', 'ɛ']",8,PlayMusic,je veux écouter Nanasheme,smart-speaker-fr-far,290.wav
+52,"['ʒ', 'ʏ', 'v', 'uə', 'ɛ', 'ɔ', 'b̞', 'ɛ', 't', 'ʁ', 'ɒ', 'ɪ', 'ʌ', 's', 'k', 'a', 'n', 'd', 'j', 'a']",8,PlayMusic,je veux écouter Red Canzian,smart-speaker-fr-far,291.wav
+53,"['ɪ', 'iː', 'ts', 'iː', 'ə', 'ɕ', 'ɪ', 's', 'a']",8,PlayMusic,je veux écouter Ale Zurita,smart-speaker-fr-far,591.wav
+54,"['ɪ', 'dʲ', 'ɪ', 'v', 'iː']",8,PlayMusic,je veux écouter costee,smart-speaker-fr-far,590.wav
+55,"['ʒ', 'ə', 'ɪ', 'tʲ', 'ɪ', 's', 't', 's', 'a', 'm', 'ʊ', 'tʂ', 'a']",8,PlayMusic,je veux écouter FMK,smart-speaker-fr-far,593.wav
+56,"['d', 'ɪ', 'a']",8,PlayMusic,je veux écouter Renzo Luca,smart-speaker-fr-far,592.wav
+57,"['ʃ', 'ə', 'z', 'i', 'k', 'ə', 'pʲ', 'ɪ', 'ts', 'ɛ', 'p', 'ɔ', 'ʁ', 'n', 'i', 't', 'a', 'ʁ', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Summer All Stars,smart-speaker-fr-far,199.wav
+58,"['ʒ', 'ə', 'b̞', 'œ', 'ts', 'ɪ', 'k', 'ʊ', 'ŋ̟', 't', 'ɛ', 'k', 'a', 'ʁ', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Carmel,smart-speaker-fr-far,198.wav
+59,"['ʒ', 'ʏ', 'b̞', 'ɪ', 'd', 'ɪ', 'tɕ', 'iː', 'ɾʲ', 'iː', 'ð', 'a', 'uə']",8,PlayMusic,je veux écouter Kelela,smart-speaker-fr-far,597.wav
+60,"['ʒ', 'ə', 'm', 'ɪ', 't', 'ɪ', 'ɔ', 'ɪ', 'ð', 'ɪ']",8,PlayMusic,je veux écouter ODZ,smart-speaker-fr-far,596.wav
+61,"['ɪ', 'ʒ', 'ə', 'b̞', 'ə', 'z', 'ɪ', 'ɡ', 'ɔ', 'pʲ', 'ɪ', 'b̞', 'iː', 'ts', 'ɒ']",8,PlayMusic,je veux écouter Lil Saint,smart-speaker-fr-far,195.wav
+62,"['ʒ', 'ə', 'ɾ', 'ə', 'ɪ', 'k', 'ʌ', 'pʲ', 'ɪ', 's', 'f', 'a', 'ʁ', 'ʀ', 'ә', 'tɕʰ', 'ɪ', 'tɕ', 'iː', 'n', 'a']",8,PlayMusic,je veux écouter Sandrine Pinna,smart-speaker-fr-far,194.wav
+63,"['ʒ', 'ə', 'v', 'ə', 'lʲ', 'ɪ', 'ɡ', 'u', 'pʲ', 'ɪ', 'f', 'ɒ', 'ɕː', 'a']",8,PlayMusic,je veux écouter SpeXial,smart-speaker-fr-far,197.wav
+64,"['ʒ', 'ə', 'b̞', 'ə', 'lʲ', 'ɪ', 'ɡ', 'dʲ', 'iː', 'ɕ', 'y', 'p', 'ɒ', 'ɾ', 's', 'ɛ', 'ʀ', 'ʏ', 'ɔ']",8,PlayMusic,je veux écouter SuperStereo,smart-speaker-fr-far,196.wav
+65,"['ʒ', 'ə', 'ʒ', 'ə', 'ts', 'ɪ', 'y', 'n', 'pʲ', 'iː', 'ð', 'a', 'b̞', 'i']",8,PlayMusic,je veux écouter Dalida,smart-speaker-fr-far,191.wav
+66,"['ʒ', 'ə', 'n', 'ə', 'tɕ', 'i', 'iː', 'ð', 'ɪ', 'tɕ', 'i']",8,PlayMusic,je veux écouter White Sea,smart-speaker-fr-far,190.wav
+67,"['ʒ', 'ə', 'v', 'ə', 'ð', 'ɪ', 'uə', 'pʲ', 'ɪ', 'm', 'i', 'j', 'ʃ', 'a', 'ʊ', 'ә', 'ts', 'ɾ', 'ɪ']",8,PlayMusic,je veux écouter Min Xiong Lee,smart-speaker-fr-far,193.wav
+68,"['ʒ', 'ə', 'v', 'ʏ', 'ts', 'ɪ', 'k', 'ɔ', 'm', 't', 'ɪ', 'x', 'uə', 'a', 'ə', 'b̞', 'i', 'ɪ', 'tʲ', 'k̟ʲ', 'ɪ', 'ɡ']",8,PlayMusic,je veux écouter Wei Min Ying,smart-speaker-fr-far,192.wav
+69,"['ɪ', 'tʲ', 'iː', 't', 'ә', 'ð', 'ə', 'ð', 'ə', 'ɪ', 'a']",8,PlayMusic,je veux écouter Zbigniew Wodecki,smart-speaker-fr-far,270.wav
+70,"['ʒ', 'ə', 'b̞', 'ɪ', 't', 'iː', 'd', 'ʁ', 'a', 'p', 'ɪ', 'ɴ', 'a']",8,PlayMusic,je veux écouter Ezra Koenig,smart-speaker-fr-far,271.wav
+71,"['ʒ', 'ə', 'iː', 'ð', 'ɪ', 'y', 'n', 'a', 'ʁ', 'm', 'a', 'ʂ']",8,PlayMusic,je veux écouter Nathan Roberts,smart-speaker-fr-far,272.wav
+72,"['ʒ', 'ə', 'm', 'uː', 'l', 'i', 'ʊ', 'tɕ', 'iː', 'ɔ', 'a', 'ɴ', 'l', 'ɛ', 'ɔ', 'k̟ʲ', 'ə', 'n', 'ɔ', 'ʁ', 'x', 'a', 'f', 'uə', 'a', 'n']",8,PlayMusic,je veux écouter Los Corraleros De Majagual,smart-speaker-fr-far,273.wav
+73,"['ʀ', 'ɪ', 'ʁ', 'ə', 't̪', 'ɪ', 'dʲ', 'ə', 'n', 'p', 'm', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Unnsteinn Manuel,smart-speaker-fr-far,274.wav
+74,"['v', 'u', 'ɪ', 'ts', 'e', 'n', 'ɪ', 'tʲ', 'iː', 'm', 'a', 'n', 'e']",8,PlayMusic,je veux écouter Decibel,smart-speaker-fr-far,275.wav
+75,"['ð', 'ɪ', 's', 'ʁ', 'ɛ', 't', 'ɛ', 'ɪ', 'm', 'ɪ']",8,PlayMusic,je veux écouter Lou Reed,smart-speaker-fr-far,276.wav
+76,"['m', 'ɪ', 'ə', 'ɪ', 'm', 'ɪ', 't', 'ɾ', 'a', 'ɾ', 't', 'a', 's']",8,PlayMusic,je veux écouter JP Saxe,smart-speaker-fr-far,277.wav
+77,"['ʒ', 'ə', 'v', 'm', 'ə', 'pʲ', 'e', 'k', 'u', 't', 'ɛ', 'n', 'ɪ', 's', 'm', 'a', 'ʃ', 'ɪ', 'ɔ', 'k̟ʲ', 'ɪ']",8,PlayMusic,je veux écouter The Smashing Pumpkins,smart-speaker-fr-far,278.wav
+78,"['ʒ', 'ə', 'ts', 'ə', 'pʲ', 'ɪ', 'k', 'iː', 'tɕ', 'j', 'iː', 'ʁ', 'a', 'ɾ', 'm', 'a', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Roch Voisine,smart-speaker-fr-far,279.wav
+79,"['ʊ', 's', 'ə', 'ts', 'ɪ', 'ʃ', 'n', 'ð', 'ɾ', 'a']",8,PlayMusic,je veux écouter Yasemin Mori,smart-speaker-fr-far,738.wav
+80,"['m', 'ə']",8,PlayMusic,je veux écouter Bizzey,smart-speaker-fr-far,1067.wav
+81,"['ð', 'ɨ', 'm', 'ɪ', 'ə', 'n', 'ɪ', 'd', 'a']",8,PlayMusic,je veux écouter Kitok,smart-speaker-fr-far,524.wav
+82,"['ɨ', 'b̤', 'i', 'k͡p̚', 'u', 't̪ʰ', 'i', 'tʂ', 'ʌ', 'ɾ', 't̪', 'ɒ', 't̪', 'ә', 'k', 'ɛ', 'iː']",8,PlayMusic,je veux écouter Jordan Chan,smart-speaker-fr-far,525.wav
+83,"['ʊ', 'tɕ', 'uː', 'lʲ', 'ə', 's', 't', 'ɪ', 't', 'ɪ', 'n', 'a', 'l', 'a', 'l', 'a', 'dʲ', 'e', 'ə', 'n', 'uː', 'k']",8,PlayMusic,je veux écouter Lara Liang,smart-speaker-fr-far,526.wav
+84,"['b̞', 'ɤ', 'ɪ', 'k', 'ɔ', 'tʂ', 'ә', 'ʂ', 'ʏ']",8,PlayMusic,je veux écouter Shehyee,smart-speaker-fr-far,527.wav
+85,"['ʒ', 'i', 'm', 'ɪ', 'd', 'ɪ', 'iː', 'ɪ', 'ɕ', 'ʊ']",8,PlayMusic,je veux écouter El Reja,smart-speaker-fr-far,520.wav
+86,"['tɕ', 'ʏ', 'ʌ', 'ɪ', 'tɕ', 'ɪ', 'ts', 'uː', 'b̤', 'a', 'k', 'ɪ', 'ɕ', 'i', 'p', 'ɔ', 'l', 'i']",8,PlayMusic,je veux écouter The Brick Simphony,smart-speaker-fr-far,521.wav
+87,"['ts', 'ə', 'ð', 'ɪ', 'k', 'u', 't', 'ɪ', 'ij', 'j', 'ɔ', 'b̞', 'ɪ', 'n', 't']",8,PlayMusic,je veux écouter Leon Bridges,smart-speaker-fr-far,522.wav
+88,"['ts', 'ə', 'ɪ', 's', 'ɡ', 'ə', 'd', 'ɪ', 's', 't', 'a', 'n', 'tʂ', 'ɔ', 'm']",8,PlayMusic,je veux écouter Louis Armstrong,smart-speaker-fr-far,523.wav
+89,"['ts', 'ə', 'n', 't͡ʃʲ', 't']",8,PlayMusic,je veux écouter Michael Jackson,smart-speaker-fr-far,1014.wav
+90,"['ts', 'ɪ', 'a']",8,PlayMusic,je veux écouter Trey Songz,smart-speaker-fr-far,1015.wav
+91,"['ʒ', 'ə', 'i', 'ə', 'dʲ', 'ɪ', 'ɔ', 'ɴ', 'a', 'ð', 'ʃ', 'a', 'n', 'ɪ', 'ʊ']",8,PlayMusic,je veux écouter Ronald Cheng,smart-speaker-fr-far,599.wav
+92,"['ɪ', 'x', 'ʃ', 'ɻ̩', 'ɪ', 's', 'i', 'ɪ', 't', 'a', 'z', 'uː']",8,PlayMusic,je veux écouter Marc E. Bassy,smart-speaker-fr-far,1017.wav
+93,"['ɪ', 'ɡ̤', 'a', 't', 'i', 'n']",8,PlayMusic,je veux écouter Gabrielle Aplin,smart-speaker-fr-far,528.wav
+94,"['ɨ', 'ɪ', 'k', 'u', 'pʲ', 'ɪ', 'tɕ', 'ɪ', 'x', 'd', 'ɪ', 'f', 'ɪ', 's', 'd', 'a', 'ʁ', 'a', 'ɾ']",8,PlayMusic,je veux écouter Cyndi Lauper,smart-speaker-fr-far,529.wav
+95,"['ʒ', 'ə', 'p', 'ɒ', 'ɴ', 'k', 'ʌ', 'tʂ', 'ɛ', 'n', 'ɒ', 'ɡ', 'ɔ']",8,PlayMusic,je veux écouter Dzeko,smart-speaker-fr-far,994.wav
+96,"['d͡ʒ̤', 'ɪ', 'd', 'ɪ', 'tʲ', 'ɪ', 'ʌ', 'ɪ', 'k', 'o', 'ð']",8,PlayMusic,je veux écouter Jhene Aiko,smart-speaker-fr-far,1013.wav
+97,"['ʒ', 'ʏ', 'v', 'ɪ', 'l', 'ɪ', 'dʲ', 'iː', 'ð', 'a', 'ɡ', 'i', 'ɴ', 't͡ʃ', 'ɪ', 'a', 'uə']",8,PlayMusic,je veux écouter Landon Cube,smart-speaker-fr-far,1025.wav
+98,"['ʒ', 'y', 'x', 'œ', 'ɪ', 'iː', 'pʲ', 'ɪ', 't͡ʃʲ', 'ɒ', 'iː', 'm', 'iː', 's', 'ɔ', 'ð']",8,PlayMusic,je veux écouter Charlie Wilson,smart-speaker-fr-far,449.wav
+99,"['tʂ', 'y', 'ð', 'ɪ', 'v', 'u', 'ɛ', 'ʃ', 'ɻ̩', 'm', 'i', 'b̞', 'a']",8,PlayMusic,je veux écouter Shu-Bi-Dua,smart-speaker-fr-far,448.wav
+100,"['d', 'iː', 'ɪ', 'tʲ', 'ə', 'k', 'a', 'n', 'a', 'k', 'ʊ']",8,PlayMusic,je veux écouter Santa Cruz,smart-speaker-fr-far,443.wav
+101,"['t͡ʃʲ', 'y', 'm', 'ɪ', 'u', 'dʲ', 'ɪ', 'ɔ', 'd͡ʒ', 'a', 'ʊ']",8,PlayMusic,je veux écouter ProfJam,smart-speaker-fr-far,442.wav
+102,"['ʒ', 'ə', 'v', 'ɪ', 'zʲ', 'i', 'ɔ', 'dʲ', 'ɛ', 'iː', 'ɕː', 'i']",8,PlayMusic,je veux écouter iSHi,smart-speaker-fr-far,441.wav
+103,"['ʒ', 'ə', 'v', 'uə', 'ɪ', 'tʂ', 'ɪ', 's', 'k̟ʲ', 'ə', 'l', 'm', 'w', 'a']",8,PlayMusic,je veux écouter Kayuá,smart-speaker-fr-far,440.wav
+104,"['tʂ', 'ʌ', 'ð', 'œ', 'ɴ', 'ɪ', 'k', 'ә', 't', 'ɛ', 'd͡ʒ', 'ɛ', 'n', 'ɪ', 'k', 'y', 'ɾ', 'a']",8,PlayMusic,je veux écouter Jamie Cullum,smart-speaker-fr-far,447.wav
+105,"['ʒ', 'ə', 'b̤', 'ə', 'ð', 'ɪ', 'pʲ', 'ɪ', 'b̞', 'iː', 'ð', 'ʌ']",8,PlayMusic,je veux écouter Gripin,smart-speaker-fr-far,446.wav
+106,"['n', 'e', 's', 'ɛ', 'lʲ', 'j', 'e', 'm', 'u', 't̪ʰ', 'i', 'j', 'iː', 'ɟ', 'iː', 'd͡ʒ̤', 'ʏ', 'lʲ']",8,PlayMusic,je veux écouter Jiggy Dje,smart-speaker-fr-far,445.wav
+107,"['ʒ', 'ə', 'ð', 'ə', 'm', 'ɛ', 'ɡ', 'b̞', 'ɛ', 'ʒ', 'ɪ', 'tɕ', 'i', 's', 'a', 's', 'ʌ', 't', 'n', 'œ', 'f']",8,PlayMusic,je veux écouter Jussi 69,smart-speaker-fr-far,444.wav
+108,"['i', 'ð', 'a', 'ð', 'ɪ', 'y', 'n', 'dʲ', 'ɪ', 'm', 'ɔ', 'ɴ', 'ɪ', 'pʲ', 'ɪ', 'k', 'm', 'ɛ', 's', 'ə']",8,PlayMusic,je veux écouter Boy Peacemaker,smart-speaker-fr-far,108.wav
+109,"['ʒ', 'ə', 'm', 'a', 'b̞', 'ɪ', 'pʲ', 'ɛ', 'tɕ', 'iː', 'ʁ', 'ɪ', 'ɴ', 'iː']",8,PlayMusic,je veux écouter KIRINJI,smart-speaker-fr-far,109.wav
+110,"['ʒ', 'ə', 'b̞', 'ɛ', 'f', 'uə', 'dʲ', 'e', 'ʒ', 'a', 'm']",8,PlayMusic,je veux écouter El Chacal,smart-speaker-fr-far,1135.wav
+111,"['tʂ', 'ɨ', 'tʲ', 'ɪ', 'ɔ', 'i', 'a']",8,PlayMusic,je veux écouter Polina,smart-speaker-fr-far,102.wav
+112,"['ð', 'ɤ', 'ð', 'ɔ', 'ɪ', 'k', 'uə', 'v', 'ɛ', 'ɪ', 'ɾ', 'ɔ', 'm', 'i', 'ʊ']",8,PlayMusic,je veux écouter Epelit,smart-speaker-fr-far,103.wav
+113,"['ʒ', 'ə', 'ʌ', 'ɪ', 't', 'iː', 'tɕʰ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter Alan Silvestri,smart-speaker-fr-far,100.wav
+114,"['ʒ', 'ə', 'b̤', 'ɨ', 'ɪ', 'm', 'ɛ', 't', 'ɪ', 'k', 'a', 'lʲ', 'iː', 'v', 'ɛ', 'ʁ', 't', 'i', 'ɴ']",8,PlayMusic,je veux écouter The Libertines,smart-speaker-fr-far,101.wav
+115,"['ʒ', 'ə', 'v', 'uə', 'k', 'ɪ', 't', 'ɪ', 'ʁ', 'w', 'a', 'ɴ', 'd', 'iː']",8,PlayMusic,je veux écouter Wanted,smart-speaker-fr-far,106.wav
+116,"['ʒ', 'ə', 'm', 'a', 'dʲ', 'ɪ', 'tʲ', 'iː', 'f', 'ɪ', 'm', 'a']",8,PlayMusic,je veux écouter Kéfera,smart-speaker-fr-far,107.wav
+117,"['ə', 'ɪ', 's', 'k͡p̚', 'uə', 'tʂ', 'iː', 'ɪ', 'a', 'ʁ', 'a', 'm', 'a']",8,PlayMusic,je veux écouter Ewa Farna,smart-speaker-fr-far,104.wav
+118,"['ʒ', 'u', 'ɪ', 'ts', 'ɪ', 'iː', 'ʃ', 'a', 'm', 'y']",8,PlayMusic,je veux écouter Shabu,smart-speaker-fr-far,105.wav
+119,"['ʒ', 'ə', 'v', 'ɪ', 'u', 'n', 'ɪ', 'ʁ', 'ɒ', 'ɔ', 'b̞', 'a', 'zʲ']",8,PlayMusic,je veux écouter Ryan Riback,smart-speaker-fr-far,902.wav
+120,"['m', 'ʏ', 'v', 'ɪ', 'dʲ', 'iː', 'm', 'a', 'n', 'ɕ', 'j', 'a']",8,PlayMusic,je veux écouter Portugal. The Man,smart-speaker-fr-far,903.wav
+121,"['ʒ', 'ə', 'i', 'ʁ', 'i', 'iː', 'ʌ']",8,PlayMusic,je veux écouter Ivri Lider,smart-speaker-fr-far,39.wav
+122,"['ʒ', 'ə', 'ts', 'ɪ', 't', 'ɪ', 'k', 'b̞', 'ɔ', 'ð', 'ʊ', 'ŋ̟', 'ɾ', 'a']",8,PlayMusic,je veux écouter Beau Monga,smart-speaker-fr-far,38.wav
+123,"['ʒ', 'ə', 'ɪ', 'ɴ', 'ɪ', 'tɕ', 'i', 'a', 'd', 'ʌ']",8,PlayMusic,je veux écouter Kiiara,smart-speaker-fr-far,906.wav
+124,"['d', 'ɪ', 'v', 'ɛ', 'ɪ', 'n', 'ɪ', 'ʁ', 'v', 'uə', 'ð', 'ə', 's', 'a', 'ʊ', 'n']",8,PlayMusic,je veux écouter ROZES,smart-speaker-fr-far,907.wav
+125,"['ə', 'l', 'y', 'n', 'ɪ', 'a', 'ɕ', 'f', 'a']",8,PlayMusic,je veux écouter gnash,smart-speaker-fr-far,904.wav
+126,"['ʒ', 'ə', 'm', 'ɪ', 'n', 'pʲ', 'iː', 'tʲ', 'p', 'ɔ', 'ʁ', 'lʲ', 'i', 'tʲ', 'ɛ', 'ʁ', 'm', 'ʁ', 'ɛ', 'ɴ']",8,PlayMusic,je veux écouter Olivia O'Brien,smart-speaker-fr-far,905.wav
+127,"['ʒ', 'ə', 'ɪ', 'a', 'n', 'tʲ', 'ɪ', 'iː', 'uə', 'k', 'ɛ', 'm', 'a']",8,PlayMusic,je veux écouter Rytmeklubben,smart-speaker-fr-far,33.wav
+128,"['ʒ', 'ɻ̩', 'ɪ', 'u', 'dʲ', 'ɪ', 'n', 't', 'uə', 'd', 'uə', 'b̞', 'a', 'ʃ']",8,PlayMusic,je veux écouter ToTo H,smart-speaker-fr-far,32.wav
+129,"['ʒ', 'ə', 'b̞', 'ɛ', 'ә', 't', 'e', 'iː', 't͡ʃʲ', 'a', 'ʒ', 'm', 'iː', 's', 'uə', 'ɕː', 'i', 'a']",8,PlayMusic,je veux écouter Hikari Mitsushima,smart-speaker-fr-far,31.wav
+130,"['ʒ', 'ə', 'l', 'ɥ', 'ɪ', 'ʊ', 'dʲ', 'e', 'k', 'a', 'ɾ', 'a', 'i', 'ɴ', 'a', 'ð', 'ɒ']",8,PlayMusic,je veux écouter Kappa Jotta,smart-speaker-fr-far,30.wav
+131,"['ʒ', 'ə', 'v', 'ə', 'ɪ', 'd', 'e', 'ð', 'k̟ʲ', 'i', 'ɲ', 'ɪ', 'm', 'ɪ']",8,PlayMusic,je veux écouter Sting,smart-speaker-fr-far,37.wav
+132,"['ʂ', 'ɻ̩', 'v̞ʲ', 'ɪ', 'ɔ', 'n', 'd', 'ɪ', 'f', 'a', 'k', 'ɔ', 't', 'ɪ', 'l', 'zʲ']",8,PlayMusic,je veux écouter Paco de Lucía,smart-speaker-fr-far,36.wav
+133,"['ʒ', 'ə', 'l', 'uə', 'ð', 'ɪ', 'k', 'ɔ', 't', 'iː', 'x', 't͡ʃ', 'iː', 'd', 'ɪ', 'ɕ', 'x', 'ɒ', 'l']",8,PlayMusic,je veux écouter Sudirman,smart-speaker-fr-far,35.wav
+134,"['ʒ', 'ə', 'v', 'ɪ', 'p', 'uə', 't', 'e', 'm', 'a', 'k', 'ɔ̃', 'k', 'a', 'ts', 'ɒ']",8,PlayMusic,je veux écouter Marco Carta,smart-speaker-fr-far,34.wav
+135,"['ɪ', 'v̞ʲ', 'ɪ', 'd', 'i', 't͡ʃʲ', 'ɪ', 'tɕ', 'ɪ', 'v', 'i']",8,PlayMusic,je veux écouter Dj Kevin,smart-speaker-fr-far,641.wav
+136,"['ʒ', 'ə', 'tɕ', 'i', 'pʲ', 'ɪ', 'ɔ', 'x', 'd', 'iː', 'n', 'ə', 'ɪ', 'm', 'a', 'ʁ', 'a']",8,PlayMusic,je veux écouter Antony & Cleopatra,smart-speaker-fr-far,640.wav
+137,"['ʒ', 'ɪ', 'tʲ', 'ɪ', 't͡ʃʲ', 'a', 'l', 'ɪ', 'm', 'd͡ʒ', 'j', 'ɛ']",8,PlayMusic,je veux écouter Charlie Brown Jr.,smart-speaker-fr-far,643.wav
+138,"['ʒ', 'ə', 'ts', 'ɛ', 'lʲ', 'ɪ', 'ts', 'ɛ', 'm', 'ɪ', 'ʒ', 'ɔ', 'v']",8,PlayMusic,je veux écouter meyou.,smart-speaker-fr-far,642.wav
+139,"['ʒ', 'ə', 'ð', 'ə', 'ts', 'ɪ', 'ʊ', 'ə', 'm', 'uə', 'l', 'i', 'ʂ', 'ɔ']",8,PlayMusic,je veux écouter Mugisho,smart-speaker-fr-far,645.wav
+140,"['ʒ', 'ə', 'b̞', 'ʏ', 'i', 'k', 'ɔ', 't', 'ɛ', 'iː', 'dʲ', 'iː', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Gavin DeGraw,smart-speaker-fr-far,644.wav
+141,"['ʒ', 'ə', 'ʁ', 'ɪ', 'ð', 'u', 'd', 'e', 'ʒ', 'i', 't', 'ɛ', 's', 'ɪ']",8,PlayMusic,je veux écouter Chris MC,smart-speaker-fr-far,438.wav
+142,"['ʒ', 'ə', 'l', 'ɪ', 'v', 'u', 'dʲ', 'e', 'uə', 'a', 'ʁ', 'ɪ']",8,PlayMusic,je veux écouter Hodari,smart-speaker-fr-far,439.wav
+143,"['ə', 'ð', 'ɛ', 'u', 'dʲ', 'iː', 's̪', 'ɒ', 'ʂ', 'ɻ̩', 'p']",8,PlayMusic,je veux écouter Søren Huss,smart-speaker-fr-far,436.wav
+144,"['ʒ', 'ə', 'n', 'uə', 'ɪ', 'm', 'u', 't', 'tʲ', 'iː', 'm', 'a', 'ʁ', 'p', 'ɒ', 'ɕ', 'j']",8,PlayMusic,je veux écouter Fire EX.,smart-speaker-fr-far,437.wav
+145,"['b̞', 'ɪ', 'n', 'ɪ', 'm', 'ɔ', 'a', 'l']",8,PlayMusic,je veux écouter Mota JR,smart-speaker-fr-far,434.wav
+146,"['ʒ', 'ə', 'b̞', 'ɛ', 'n', 'ɪ', 'd', 'ɪ', 'm', 'a', 'n', 'tɕ', 'ɪ', 'x']",8,PlayMusic,je veux écouter Bendik,smart-speaker-fr-far,435.wav
+147,"['ʒ', 'ə', 'v', 'ɪ', 'lʲ', 'iː', 'tɕ', 'ɪ', 'm', 'e', 'ɾ', 'a']",8,PlayMusic,je veux écouter Petite Meller,smart-speaker-fr-far,432.wav
+148,"['iː', 'ɪ', 'ɕ', 'y', 'n', 'tʲ', 'ɪ', 'ɡ', 'ɔ̃', 'ʁ', 'a']",8,PlayMusic,je veux écouter Contra,smart-speaker-fr-far,433.wav
+149,"['ɪ', 't', 'ɪ', 'tɕ']",8,PlayMusic,je veux écouter Duki,smart-speaker-fr-far,984.wav
+150,"['ʒ', 'ə', 'b̞', 'ɛ', 'pʲ', 'ɛ', 't', 'a', 'n', 'p', 'a', 'ɾ']",8,PlayMusic,je veux écouter PENTAGON,smart-speaker-fr-far,431.wav
+151,"['tɕ', 'ə', 'ð', 'ɛ', 'm', 'ɪ', 'b̞', 'ɪ', 'æ']",8,PlayMusic,je veux écouter AJR,smart-speaker-fr-far,1002.wav
+152,"['ʒ', 'ə', 'v', 'œ', 'k', 'ɔ', 'tɕ', 'iː', 'm', 'ɛ', 'd', 'i', 'bʲ', 'ɛ']",8,PlayMusic,je veux écouter Mette Lindberg,smart-speaker-fr-far,339.wav
+153,"['ʒ', 'ə', 'b̞', 'œ', 'dʲ', 'ɪ', 'ɛ', 'uə']",8,PlayMusic,je veux écouter El Pro,smart-speaker-fr-far,338.wav
+154,"['pʲ', 'ɪ', 'a']",8,PlayMusic,je veux écouter AWS,smart-speaker-fr-far,335.wav
+155,"['ʒ', 'ə', 'k', 'ɪ', 'tʲ', 'ɪ', 'ʁ', 'ʊ', 'k', 'a', 'tɕ']",8,PlayMusic,je veux écouter O Room39,smart-speaker-fr-far,334.wav
+156,"['ʒ', 'ə', 'm', 'œ', 'ɪ', 'k', 'u', 'pʲ', 'ɪ', 'b̞', 'a', 'ts', 'iː']",8,PlayMusic,je veux écouter Bamse,smart-speaker-fr-far,337.wav
+157,"['ɾ', 'ɛ', 's', 'iː', 't', 'ɛ', 'f', 'ɪ', 's', 'i', 'tɕ', 'i']",8,PlayMusic,je veux écouter Classified,smart-speaker-fr-far,336.wav
+158,"['v', 'i', 'ts', 'ɪ', 'x', 'n', 'ɪ', 'tʲ', 'ɪ', 'ɾ', 'a']",8,PlayMusic,je veux écouter Megan McKenna,smart-speaker-fr-far,331.wav
+159,"['d', 'ɪ', 's', 'ɪ', 'ts', 'ɪ', 'ð', 'ɔ', 'n', 'ɪ']",8,PlayMusic,je veux écouter don milli,smart-speaker-fr-far,330.wav
+160,"['ɔ', 'ɔ̃', 'ʃ', 'ɻ̩', 'l', 'ʃ']",8,PlayMusic,je veux écouter Đức Phúc,smart-speaker-fr-far,333.wav
+161,"['ɪ', 'b̞', 'ɪ', 'k', 'ə', 'n', 'dʲ', 'ɪ', 'ə', 'ʁ', 'ɛ', 'ʃ', 'a']",8,PlayMusic,je veux écouter Rachid Taha,smart-speaker-fr-far,1131.wav
+162,"['n', 'ɨ', 'ɪ', 'v', 'o', 't', 'ə', 'ɪ', 't͡ʃʲ', 'ɛ', 's', 'ə', 'n', 't͡ʃʲ', 'i']",8,PlayMusic,je veux écouter DJ Snake,smart-speaker-fr-far,1120.wav
+163,"['ʒ', 'ə', 'n', 'ɪ', 'v', 'ə', 'b̞', 'ɪ', 'm', 'ɪ', 'uə', 'ɕː', 'ɻ̩']",8,PlayMusic,je veux écouter Fractures,smart-speaker-fr-far,744.wav
+164,"['ə', 'b̞', 'ɪ', 'm', 'a']",8,PlayMusic,je veux écouter Juanes,smart-speaker-fr-far,1000.wav
+165,"['ʒ', 'ə', 'b̞', 'ɪ', 'ɾ', 'ɪ', 'p', 'iː', 'dʲ', 'iː', 'ɕ', 'iː', 'k', 'ɒ', 'ɛ', 'ɕː', 'e', 'ɡ', 'a']",8,PlayMusic,je veux écouter Sultan + Shepard,smart-speaker-fr-far,745.wav
+166,"['ʒ', 'ə', 'ɪ', 'd', 'iː', 's', 'i', 'n', 'ɛ']",8,PlayMusic,je veux écouter Skrillex,smart-speaker-fr-far,854.wav
+167,"['p', 'ʀ', 'ɔ', 's', 'ə', 'm', 'ɪ', 't', 'ɪ', 's', 'ə', 'dʲ', 'ɪ', 't', 'ə', 'a', 'd͡ʒ', 'o', 's', 'ə', 'a', 'n']",8,PlayMusic,je veux écouter James Arthur,smart-speaker-fr-far,818.wav
+168,"['ʒ', 'ə', 'ɪ', 'ts', 'i', 'ɪ', 'l', 'ɪ']",8,PlayMusic,je veux écouter DNCE,smart-speaker-fr-far,856.wav
+169,"['ə', 'lʲ', 'ɛ', 's', 'uə', 'dʲ', 'ɪ', 'm', 'a', 'm', 'i', 'ɒ']",8,PlayMusic,je veux écouter OMI,smart-speaker-fr-far,1132.wav
+170,"['ʒ', 'ə', 'v', 'ɪ', 't', 'ɪ', 'iː', 'm', 'iː', 't', 'a', 'ɾ', 'm', 'a', 'ʌ']",8,PlayMusic,je veux écouter Iggy Azalea,smart-speaker-fr-far,850.wav
+171,"['ʒ', 'ɪ', 'ts', 'ɪ', 'a', 'm', 'a']",8,PlayMusic,je veux écouter Juan Magán,smart-speaker-fr-far,851.wav
+172,"['ʒ', 'iː', 'm', 'ɪ', 'ts', 'iː', 'ð', 'ʌ']",8,PlayMusic,je veux écouter Lil Pump,smart-speaker-fr-far,852.wav
+173,"['d', 'ə', 'n', 'œ', 'dʲ', 'ɪ', 'ɔ', 'd', 'iː', 'm', 'ɛ', 'ɾ', 'm', 'ɛ']",8,PlayMusic,je veux écouter Udo Lindenberg,smart-speaker-fr-far,345.wav
+174,"['tʂ', 'ɛ', 's', 'ɪ', 'k', 'ɪ', 'tʲ', 'ə', 'a', 'n', 'ts', 'ɪ', 'n', 'a', 'x', 'a', 'uː', 't', 'ɹ̩', 'ɾ']",8,PlayMusic,je veux écouter Anuel Aa,smart-speaker-fr-far,1130.wav
+175,"['ts', 'ɨ', 'ts', 'ɪ', 's', 'k', 'ɔ', 'd', 'ə', 'ɪ', 'd', 'ɪ', 'ɡ', 'a']",8,PlayMusic,je veux écouter Tyga,smart-speaker-fr-far,859.wav
+176,"['ɪ', 't', 'e', 'ð', 'a']",8,PlayMusic,je veux écouter LANY,smart-speaker-fr-far,1081.wav
+177,"['ʒ', 'ə', 'n', 'ɛ', 'u', 'pʲ', 'ɪ', 't͡ʃʲ', 'ɻ̩', 'ɕ', 'i', 'k', 'ʊ', 'm', 'ɪ']",8,PlayMusic,je veux écouter Magic System,smart-speaker-fr-far,748.wav
+178,"['tʂ', 'ə', 'b̞', 'ɪ', 'iː', 'tɕ', 'iː', 'b̞', 'ɪ', 'n', 'ɪ', 'n', 's', 'a', 'p', 'ɔ', 'ɴ', 'uː']",8,PlayMusic,je veux écouter Ben El Tavori,smart-speaker-fr-far,6.wav
+179,"['ts', 'ɪ', 'm', 'ɔ', 'lʲ', 'ɪ', 'n', 'ts', 'ɪ', 'ð', 'a', 'l', 'a']",8,PlayMusic,je veux écouter Dakota,smart-speaker-fr-far,900.wav
+180,"['ʒ', 'ə', 'b̞', 'ɛ', 'ә', 'ts', 'ɪ', 'd', 'i', 'ð', 'ɛ', 'a', 'ɴ', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Desiigner,smart-speaker-fr-far,848.wav
+181,"['ʒ', 'ə', 'n', 'ɛ', 'i', 'p', 'u', 's', 'ɪ', 'ʁ', 'ɔ', 'ts', 'uː']",8,PlayMusic,je veux écouter Osso,smart-speaker-fr-far,99.wav
+182,"['ʒ', 'ə', 'v', 'ɔ', 'ɾ', 'e', 'k', 'u', 't', 'e', 'zʲ', 'ɛ', 'ɕ', 'i', 'tʲ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter Cecilie Noer,smart-speaker-fr-far,98.wav
+183,"['m', 'ə', 'tɕ', 'iː', 'ә', 'ts', 'iː', 'ð', 'a', 'lʲ', 'ɛ']",8,PlayMusic,je veux écouter Little Mix,smart-speaker-fr-far,844.wav
+184,"['ʒ', 'ə', 'ɪ', 'pʲ', 'iː', 'ʒ', 'iː', 'zʲ', 'i', 'ʀ', 'ɛ']",8,PlayMusic,je veux écouter Jessie Reyez,smart-speaker-fr-far,1085.wav
+185,"['ʒ', 'ə', 'm', 'œ', 'pʲ', 'ɪ', 't', 'ə', 'n', 'd', 'ɪ', 'x', 'ə', 'm', 'uə', 'ʊ', 's', 't', 'ə', 's', 'tɕ', 'ɪ', 'n']",8,PlayMusic,je veux écouter Gustas Mio,smart-speaker-fr-far,91.wav
+186,"['ʒ', 'ə', 'm', 'ɪ', 'iː', 'tʲ', 'ɪ', 'k', 'uə', 'w', 'a']",8,PlayMusic,je veux écouter Akwasi,smart-speaker-fr-far,90.wav
+187,"['ʒ', 'ʌ', 'ʁ', 'ɛ', 't', 'pʲ', 'iː', 's', 'tʲ', 'iː', 'ð', 'ɛ', 'ɾ', 't', 'j', 'ɪ', 'd', 'u', 'ɕ', 'i']",8,PlayMusic,je veux écouter Dusty Springfield,smart-speaker-fr-far,93.wav
+188,"['ts', 'ɪ', 'v', 'œ', 'ɪ', 's', 'ə', 'n', 'ts', 'i', 'n', 'pʲ', 'ɪ', 'z', 'ə', 'n', 'b̞', 'a', 't͡ʃʲ', 'a', 'ɛ']",8,PlayMusic,je veux écouter Peter Manjarrés,smart-speaker-fr-far,92.wav
+189,"['ʒ', 'ə', 'ɪ', 's', 'n', 'tʲ', 'ɪ', 'a', 'ɪ', 'n', 'h', 'a', 'tʂ', 'ɛ', 'ʁ', 'ʊ', 'n', 'a']",8,PlayMusic,je veux écouter Ana Carolina,smart-speaker-fr-far,95.wav
+190,"['ʒ', 'ə', 'œ', 'iː', 's', 'ɪ', 't', 'ɪ', 'ɔ', 'd', 'i']",8,PlayMusic,je veux écouter Ozzy,smart-speaker-fr-far,94.wav
+191,"['ʒ', 'ə', 'pʲ', 'iː', 'tʲ', 'iː', 't', 'lʲ', 'm', 'a', 'ɾ', 'a', 'k', 'ʌ']",8,PlayMusic,je veux écouter Malaka,smart-speaker-fr-far,97.wav
+192,"['ʒ', 'ə', 'ɾ', 'ə', 'pʲ', 'ɪ', 's', 'pʲ', 'iː', 'z', 'a', 'ɾ', 'f', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Ida Corr,smart-speaker-fr-far,96.wav
+193,"['t͡ʃʲ', 'ə', 'lʲ', 'ɪ', 'iː', 'ts', 'ɪ', 'm', 'iː', 'j', 'a', 'ә', 'ɡ', 'e', 'm', 'a']",8,PlayMusic,je veux écouter Meghan Trainor,smart-speaker-fr-far,814.wav
+194,"['ʒ', 'ɻ̩', 'œ', 'd', 'ɪ', 'k', 'u', 'ɴ', 'ɪ', 'd', 'ɪ', 'l', 'ɕ', 'i', 't͡ʃʲ', 'ɛ']",8,PlayMusic,je veux écouter Milky Chance,smart-speaker-fr-far,1030.wav
+195,"['ɕ', 'ə', 'n', 'ɪ', 'u', 't', 'ɪ', 'n', 'ʒ', 'iː', 'ʂ', 'ɻ̩']",8,PlayMusic,je veux écouter 2 Chainz,smart-speaker-fr-far,815.wav
+196,"['t͡ʃʲ', 'y', 'ʁ', 'ɒ', 'ɪ', 'iː', 'tʂ', 'ɪ', 'ɛ', 'ʌ', 'ð', 'ɛ', 'ɪ', 'ɾ']",8,PlayMusic,je veux écouter SFB,smart-speaker-fr-far,1098.wav
+197,"['ʒ', 'ə', 'ɪ', 'pʲ', 'iː', 'ɔ', 'p', 'ә', 's', 'ɔ']",8,PlayMusic,je veux écouter Rob $tone,smart-speaker-fr-far,1066.wav
+198,"['t͡ʃʲ', 'ə', 'b̞', 'uə', 'iː', 't', 'ɛ', 'm', 'a', 'ð', 'ɒ', 'm', 'ɪ', 'ɾ', 'ə', 'm', 'ɔ']",8,PlayMusic,je veux écouter Maan On The Moon,smart-speaker-fr-far,740.wav
+199,"['ʒ', 'ə', 'ʁ', 'ə', 'a', 'iː', 'ɪ', 'b', 'a', 'ɪ', 'tɕ', 'iː', 'tɕ', 'd', 'iː']",8,PlayMusic,je veux écouter UrboyTJ,smart-speaker-fr-far,741.wav
+200,"['t͡ɕ', 'ə', 'm', 'ɪ', 'iː', 's̪', 'a']",8,PlayMusic,je veux écouter Fang Wu,smart-speaker-fr-far,742.wav
+201,"['t͡ʃʲ', 'ə', 'ɪ', 'n', 'v', 'ɪ', 'ð', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Oualid,smart-speaker-fr-far,743.wav
+202,"['tʂ', 'ə', 'ʒ', 'ɪ', 'dʲ', 'iː', 'm', 'a', 'tʲ', 'ɛ', 'ʁ', 'i', 'm', 'uə']",8,PlayMusic,je veux écouter Märkä-Simo,smart-speaker-fr-far,559.wav
+203,"['ʒ', 'ɻ̩', 'iː', 'tʂ', 'e', 't', 'a', 's', 'ʌ', 'ɴ', 'lʲ', 'ɛ']",8,PlayMusic,je veux écouter Ersan Er,smart-speaker-fr-far,558.wav
+204,"['t͡ʃʲ', 'ə', 'lʲ', 'ɪ', 'pʲ', 'ɛ', 'v', 'u', 'p', 'a', 'ɴ', 'ə', 'ð', 'e', 't', 'a', 'm', 'a']",8,PlayMusic,je veux écouter Quando Rondo,smart-speaker-fr-far,746.wav
+205,"['ɔ̃', 'ə', 'iː', 'm', 'ɪ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Motta,smart-speaker-fr-far,747.wav
+206,"['ʒ', 'ə', 'b̞', 'ɪ', 'a', 'n', 't', 'e', 'b̞', 'ɔ', 'ɡ', 'i']",8,PlayMusic,je veux écouter Momi,smart-speaker-fr-far,555.wav
+207,"['tʂ', 'ʌ', 'b̤', 'ɾ', 'ɪ', 'k', 'u', 'tʂ', 'e', 'k', 'a', 'ɟ', 'ɛ', 'b', 'a']",8,PlayMusic,je veux écouter Paulie Garand,smart-speaker-fr-far,554.wav
+208,"['ʒ', 'ə', 'm', 'ə', 'x', 'ɪ', 'pʲ', 'ɛ', 'k', 'u', 'b', 'iː', 'j', 'a', 'ɒ', 'a', 'm', 'uə']",8,PlayMusic,je veux écouter Scooby072,smart-speaker-fr-far,557.wav
+209,"['ʒ', 'ə', 'b̞', 'ɪ', 'pʲ', 'e', 'iː', 'ɕ', 'x', 'a']",8,PlayMusic,je veux écouter Elly Ekko,smart-speaker-fr-far,556.wav
+210,"['ʒ', 'ə', 'ɪ', 'dʲ', 'iː', 'a']",8,PlayMusic,je veux écouter Elams,smart-speaker-fr-far,551.wav
+211,"['ʒ', 'ə', 'b̞', 'ɪ', 'tɕ', 'ɒ', 'v', 'ɔ', 'b̞', 'ɛ']",8,PlayMusic,je veux écouter Dagobert,smart-speaker-fr-far,550.wav
+212,"['ʒ', 'ə', 'b̞', 'ɪ', 'ð', 'ɪ', 't͡ʃʲ', 's̪', 'ɔ']",8,PlayMusic,je veux écouter XPOSE,smart-speaker-fr-far,553.wav
+213,"['tʂ', 'ʏ', 'ʁ', 'ɪ', 'dʲ', 'iː', 'm', 'a', 'ʒ', 'ɔ', 'n', 'ɛ']",8,PlayMusic,je veux écouter Mansionair,smart-speaker-fr-far,552.wav
+214,"['ʒ', 'iː', 'm', 'œ', 'ɪ', 'k', 'uə', 'ɛ', 's', 'a', 'm', 'b̤', 'ɔ', 'l']",8,PlayMusic,je veux écouter Tumbles,smart-speaker-fr-far,238.wav
+215,"['d', 'y', 'ɾ', 'p', 'ʏ', 'ɾ', 'ɪ', 't͡ʃʲ', 'iː', 'ɯ', 'tʲ', 'ɪ', 'a', 'k̟ʲ', 'a']",8,PlayMusic,je veux écouter Thea,smart-speaker-fr-far,239.wav
+216,"['ʒ', 'ə', 'm', 'œ', 'k̟ʲ', 'i', 'tʲ', 'ɪ', 'ə', 'ð', 'ɛ']",8,PlayMusic,je veux écouter E-Z,smart-speaker-fr-far,234.wav
+217,"['ʒ', 'ə', 'ɪ', 'dʲ', 'ɪ', 'ɡ', 'iː', 'ʐ', 'ɔ', 'n', 'a']",8,PlayMusic,je veux écouter Iyeoka,smart-speaker-fr-far,235.wav
+218,"['tʂ', 'ə', 'ɪ', 'tʲ', 'u', 'ts', 'ɪ', 'a', 'm', 'e', 'ʀ', 'uː', 'ts', 'u', 'p', 'ɾ', 'ɛ', 'ð', 'ɛ', 'k', 'a']",8,PlayMusic,je veux écouter Andrew W.K.,smart-speaker-fr-far,236.wav
+219,"['ʒ', 'ə', 'b̞', 'œ', 'u', 't', 'iː', 'g', 'a', 'dʲ', 'ɛ']",8,PlayMusic,je veux écouter Villagers,smart-speaker-fr-far,237.wav
+220,"['l', 'ɪ', 'm', 'ɪ', 'v', 'ɪ', 'u', 'tʲ', 'ɪ', 'a', 'ɾ', 'iː', 'j', 'a']",8,PlayMusic,je veux écouter Olivia,smart-speaker-fr-far,230.wav
+221,"['ts', 'ə', 'm', 'ɪ', 'iː', 'pʲ', 'ɛ', 'a', 'tʂ', 'ɔ']",8,PlayMusic,je veux écouter Atip,smart-speaker-fr-far,231.wav
+222,"['ʒ', 'ə', 'm', 'ɪ', 'iː', 'y', 'a', 'ɡ']",8,PlayMusic,je veux écouter Julie Andrews,smart-speaker-fr-far,232.wav
+223,"['ts', 'u', 'ʁ', 'ɪ', 'ts', 'ɛ', 't', 'm', 'ɪ', 'm', 'ʊ', 's', 'a']",8,PlayMusic,je veux écouter Ido Shoam,smart-speaker-fr-far,233.wav
+224,"['ʒ', 'ə', 'v', 'ə', 'ts', 'ɪ', 'k', 'iː', 't', 'ə', 'ʃ', 'i', 'z', 'a', 't', 'a', 'ɾ', 'ə', 'ɡ', 'ɒ', 'm']",8,PlayMusic,je veux écouter Chris Stapleton,smart-speaker-fr-far,1050.wav
+225,"['ʒ', 'ə', 'v', 'uə', 'ɪ', 'ʊ', 'ð', 'ɪ', 'd', 'ɔ', 'n', 'd', 'ɪ', 'f', 'lʲ', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Dante Klein,smart-speaker-fr-far,1051.wav
+226,"['ʒ', 'ə', 'v', 'ə', 'ɪ', 'ɡ', 'ә', 'dʲ', 'iː', 't͡ʃʲ', 'a', 'n', 'l', 'ɛ', 'ʒ']",8,PlayMusic,je veux écouter James Blake,smart-speaker-fr-far,1052.wav
+227,"['ʒ', 'ə', 'ɾ', 'ə', 'n', 'ɪ', 'ɡ', 'ʊ', 'ŋ̟', 't', 'e', 't', 'e', 'iː']",8,PlayMusic,je veux écouter T.I.,smart-speaker-fr-far,1053.wav
+228,"['ʒ', 'ə', 'b̞', 'ə', 'e', 'k', 'ɔ', 'm', 't', 'e', 'n', 'ɛ', 'k', 'œ', 'ɾ']",8,PlayMusic,je veux écouter NEIKED,smart-speaker-fr-far,1054.wav
+229,"['ʐ', 'ə', 'ɪ', 'ð', 'ɪ', 'ŋ', 'ʊ', 'n', 't', 'ə', 'ʀ', 'a', 'ɪ', 'ɾ', 'ə', 'm', 'n', 'a', 'ɳ', 'ə', 'n', 't͡ʃʲ', 'a', 'ɾ']",8,PlayMusic,je veux écouter AlunaGeorge,smart-speaker-fr-far,1055.wav
+230,"['ʒ', 'ə', 'v', 'ə', 'ð', 'ɪ', 'k', 'ɔ', 't', 'ɛ', 'lʲ', 'iː', 's', 'ɒ']",8,PlayMusic,je veux écouter Lil Xan,smart-speaker-fr-far,1056.wav
+231,"['ʒ', 'ə', 'ɪ', 'd', 'ɪ', 'ʃ', 'ɔ']",8,PlayMusic,je veux écouter Vigiland,smart-speaker-fr-far,1057.wav
+232,"['ɕː', 'ə', 'ɪ', 'ts', 'ɪ', 'ɡ', 'a', 'ʁ', 'ɪ']",8,PlayMusic,je veux écouter Blackbear,smart-speaker-fr-far,1058.wav
+233,"['ʒ', 'ʏ', 'b̞', 'ɛ', 'ð', 'ɛ', 'ʒ', 'ɻ̩', 'n', 'ә', 'p', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Gemitaiz,smart-speaker-fr-far,1059.wav
+234,"['ʂ', 'ə', 'b̞', 'ɪ', 'u', 'n', 'pʲ', 'iː', 'ʁ', 'a', 'ə', 'd', 'ɔ', 'ð', 'a', 'ð']",8,PlayMusic,je veux écouter Rag'n'Bone Man,smart-speaker-fr-far,992.wav
+235,"['ʒ', 'ə', 'm', 'œ', 'y', 'n', 'dʲ', 'j', 'a', 'd', 'ɪ', 'a', 'ɒ', 'ʁ', 'j', 'a', 'ð', 'a']",8,PlayMusic,je veux écouter Andreya Triana,smart-speaker-fr-far,1.wav
+236,"['ʒ', 'ə', 'ɔ', 'pʲ', 'iː', 'ɒ', 'a', 'ɕ', 'i', 'ɪ', 's', 'a', 'ʁ', 'k̟ʲ', 'ɪ']",8,PlayMusic,je veux écouter Pidde P,smart-speaker-fr-far,614.wav
+237,"['d', 'ə', 'm', 'ʏ', 'pʲ', 'iː', 's', 'iː', 'tʲ', 'ɛ', 'k', 'ɒ', 'n', 'ɪ', 'tʲ', 'ʌ', 'ɪ', 'm', 'i', 'tʲ', 'ɛ', 'ʃ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Kyle Dixon & Michael Stein,smart-speaker-fr-far,146.wav
+238,"['m', 'ə', 'ɪ', 'd', 'iː', 's', 'ɪ', 'b̞', 'a', 'ɾ', 'ә', 'ɡ', 'a', 'b̞', 'ɪ', 'ʌ', 'ð', 'ʁ']",8,PlayMusic,je veux écouter Vanessa Williams,smart-speaker-fr-far,147.wav
+239,"['ʒ', 'ə', 'n', 'ə', 'm', 'ɪ', 't', 'iː', 'k', 'ə', 'p', 'ɾʲ', 'ɪ', 'ɴ', 'iː', 't', 'e', 'ɾ', 'ə', 'p', 'a', 'k', 'a', 'n']",8,PlayMusic,je veux écouter Little Dragon,smart-speaker-fr-far,144.wav
+240,"['tɕ', 'ə', 'ʁ', 'ə', 'm', 'ə', 'p', 'ɛ', 'p', 'ɪ', 'ɾ', 'ɔ', 'a', 'tʲ', 'iː', 'l', 'ɪ', 'ʒ', 'uː']",8,PlayMusic,je veux écouter Young Juju,smart-speaker-fr-far,145.wav
+241,"['h', 'œ', 'ɪ', 'ʁ', 'ʀ', 'ɛ', 'x', 'a']",8,PlayMusic,je veux écouter Ray Charles,smart-speaker-fr-far,142.wav
+242,"['ʒ', 'ə', 'm', 'œ', 'ɡ', 'dʲ', 'iː', 'd', 'ɪ', 's', 'tʲ', 'ɔ', 'ʁ', 'w', 'ɪ', 'x']",8,PlayMusic,je veux écouter Lili Pistorius,smart-speaker-fr-far,143.wav
+243,"['v', 'u', 'h', 'ɨ', 'ɪ', 'ɔ', 'pʲ', 'iː', 'ʂ', 'ɛ', 'ts', 'ɛ', 't̪', 'm', 'ɛ', 'n', 'ɪ']",8,PlayMusic,je veux écouter Justsesomali,smart-speaker-fr-far,140.wav
+244,"['ʒ', 'ə', 'm', 'ʏ', 's', 'ɪ', 't', 'ɪ', 'd', 'ə', 'tʰ', 'uə', 'n', 'uə', 'ʂ', 'ɻ̩', 'h', 'j', 'ɛ']",8,PlayMusic,je veux écouter Edu Chociay,smart-speaker-fr-far,141.wav
+245,"['ʒ', 'ʏ', 'd', 'ə', 'v', 'u', 'dʲ', 'ɪ', 'n', 'j']",8,PlayMusic,je veux écouter Hu Xia,smart-speaker-fr-far,612.wav
+246,"['ʒ', 'ə', 'ɪ', 'iː', 'ʀ', 'ʌ', 's', 'a', 'f', 'ʌ', 'm', 'ɔ']",8,PlayMusic,je veux écouter Rafa Pabön,smart-speaker-fr-far,613.wav
+247,"['ʒ', 'ə', 'ɪ', 'k', 'pʲ', 'ɛ', 'a', 'ɾ', 'a', 'v', 'a', 'b', 'ɹ̩', 'v', 'i', 'j', 'x', 'lʲ', 'i', 'n']",8,PlayMusic,je veux écouter Alexandra Babitzin,smart-speaker-fr-far,610.wav
+248,"['ʒ', 'ə', 'm', 'ə', 'v', 'iː', 'pʲ', 'iː', 'ts', 'ɪ', 'k', 'k̟ʲ', 'ɛ', 'm', 'a', 'x', 'd', 'ɹ̩']",8,PlayMusic,je veux écouter Kristian Kostov,smart-speaker-fr-far,611.wav
+249,"['l', 'ɪ', 'v', 'u', 'p', 'ʁ', 'iː', 'ð', 'a', 'ɕ', 'm']",8,PlayMusic,je veux écouter De La Soul,smart-speaker-fr-far,616.wav
+250,"['ʒ', 'ə', 'n', 'uː', 'pʲ', 'e', 'a', 'ɴ', 'ɛ']",8,PlayMusic,je veux écouter Hariel,smart-speaker-fr-far,617.wav
+251,"['ts', 'ɨ', 'ɪ', 'k', 'ɔ', 'iː', 'm', 'ɔ̃', 'ɕ', 'a', 'm']",8,PlayMusic,je veux écouter Luciana,smart-speaker-fr-far,148.wav
+252,"['ʒ', 'ə', 'b̤', 'ʏ', 'iː', 'k', 'ɔ', 't', 'ɪ', 't͡ʃʲ', 'a', 'b̞', 'a', 'ɾ', 'iː', 'm', 'u']",8,PlayMusic,je veux écouter Caballero,smart-speaker-fr-far,149.wav
+253,"['ʒ', 'ə', 'ʁ', 'ə', 'ɪ', 'k', 'u', 't', 'iː', 'd', 'iː', 's', 'i', 'dʲ', 'ɪ', 's', 'uə']",8,PlayMusic,je veux écouter Justin Jesso,smart-speaker-fr-far,1007.wav
+254,"['ts', 'ɪ', 'x', 'tʲ', 'ɪ', 'd', 'ɪ', 'f', 'ɔ', 'ts', 'ɹ̩', 'ɾ', 'ʂ', 'ə', 'n']",8,PlayMusic,je veux écouter Bipolar Sunshine,smart-speaker-fr-far,912.wav
+255,"['ʒ', 'ə', 'tɕ', 'iː', 'm', 'a', 'ɛ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Mariah Carey,smart-speaker-fr-far,1006.wav
+256,"['ʒ', 'ə', 'lʲ', 'iː', 'tʂ', 'ɪ', 's', 'k̟ʲ', 'j', 'ɪ', 'a', 'ʌ', 'ts', 'uə', 'ә']",8,PlayMusic,je veux écouter Steve Aoki,smart-speaker-fr-far,951.wav
+257,"['ʃ', 'ə', 'm', 'ɪ', 'ә', 'n', 'tɕ', 'ɪ', 'ɕ', 'ɔ', 'tʂ', 'ɔ']",8,PlayMusic,je veux écouter Snoop Dogg,smart-speaker-fr-far,1005.wav
+258,"['ʒ', 'ɻ̩', 'ʁ', 'ə', 'n', 'ð', 'ə', 'ʃ', 'ɻ̩']",8,PlayMusic,je veux écouter Shaggy,smart-speaker-fr-far,1082.wav
+259,"['t͡ʃʲ', 'ə', 'p', 'ɪ', 'u', 'tʂ', 'e', 'ɪ', 'ɴ', 'iː', 'k', 'o', 'l', 'ɪ']",8,PlayMusic,je veux écouter Remy Boyz,smart-speaker-fr-far,1004.wav
+260,"['ɥ', 'y', 'ɪ', 'j', 'ɛ']",8,PlayMusic,je veux écouter YG,smart-speaker-fr-far,948.wav
+261,"['ə', 'l', 'iː', 'v', 'u', 'ɪ', 'ʁ', 'w', 'a']",8,PlayMusic,je veux écouter Wolfine,smart-speaker-fr-far,949.wav
+262,"['ɡ', 'ɔ', 'ɥ', 'ɪ', 'u', 'iː', 'a', 'ʁ']",8,PlayMusic,je veux écouter Labrinth,smart-speaker-fr-far,946.wav
+263,"['u', 'l', 'ɥ', 'ɪ', 'u', 'ʁ', 'iː', 'j', 'a', 'n', 'a', 'ɒ']",8,PlayMusic,je veux écouter Jasmine Thompson,smart-speaker-fr-far,947.wav
+264,"['ɪ', 'v', 'uə', 'b', 'iː', 'ɛ', 'd', 'a', 'ɾ']",8,PlayMusic,je veux écouter Famous Dex,smart-speaker-fr-far,944.wav
+265,"['ɪ', 'm', 'i', 'b̞', 'a', 'd', 'iː', 'm', 'iː', 'ɪ', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Maggie Lindemann,smart-speaker-fr-far,945.wav
+266,"['ɥ', 'ɪ', 'v', 'uə', 'd', 'iː', 'a', 'iː', 'ð', 'ɛ']",8,PlayMusic,je veux écouter Harry Styles,smart-speaker-fr-far,942.wav
+267,"['l', 'ə', 'd', 'ɪ', 's̪', 'u', 'ɪ', 'm', 'a', 'p', 'ɛ']",8,PlayMusic,je veux écouter Zacari,smart-speaker-fr-far,943.wav
+268,"['ɪ', 't', 'ɪ', 'd', 'ɪ', 'a', 's', 't', 'a', 'ð']",8,PlayMusic,je veux écouter The Greatest Showman Ensemble,smart-speaker-fr-far,940.wav
+269,"['ɕ', 'ə', 'v', 'lʲ', 'e', 'ɡ', 'ɔ', 't', 'e', 'l', 'ə', 'ʊ', 'n', 'd', 'ʊ', 'ŋ̟', 'm', 'a', 'ʁ', 'k̟ʲ', 'j', 'l', 'x']",8,PlayMusic,je veux écouter Bruno Martini,smart-speaker-fr-far,941.wav
+270,"['pʲ', 'ɪ', 'k', 'ʌ', 'n', 'ɪ', 'a', 'ɾ', 'ə', 'a']",8,PlayMusic,je veux écouter Henning Wehland,smart-speaker-fr-far,768.wav
+271,"['ʒ', 'ə', 'l', 'ə', 'u', 'tʂ', 'ɛ', 'm', 'ɪ', 'ʒ', 'ɛ']",8,PlayMusic,je veux écouter Joker,smart-speaker-fr-far,689.wav
+272,"['ʒ', 'ə', 'n', 'ə', 'ts', 'ɪ', 'ʁ', 'ɪ', 'a', 'k̟ʲ', 'iː', 'a']",8,PlayMusic,je veux écouter Artigeardit,smart-speaker-fr-far,688.wav
+273,"['ʒ', 'iː', 'm', 'ɪ', 'm', 'iː', 'ɪ', 'ð', 'ə', 'm', 'ɪ', 'ɛ', 'm', 'a', 'n', 'ɾ']",8,PlayMusic,je veux écouter Watermät,smart-speaker-fr-far,685.wav
+274,"['i', 'b̞', 'iː', 'ɪ', 'ð', 'ɪ', 'n', 'ɪ', 'a']",8,PlayMusic,je veux écouter Loud,smart-speaker-fr-far,684.wav
+275,"['ʒ', 'ə', 'iː', 'ts', 'ɪ', 'm', 'ɪ', 'a']",8,PlayMusic,je veux écouter Mueka,smart-speaker-fr-far,687.wav
+276,"['ʒ', 'ə', 'n', 'iː', 'ɪ', 'm', 'iː', 'a']",8,PlayMusic,je veux écouter Xamã,smart-speaker-fr-far,686.wav
+277,"['ʒ', 'ʏ', 'b̞', 'ɪ', 'ʊ', 'mʲ', 'ɪ', 'ʌ', 'l', 'y', 'ɕ']",8,PlayMusic,je veux écouter St. Lucia,smart-speaker-fr-far,681.wav
+278,"['ɻ', 'ə', 'dʲ', 'iː', 'ɔ', 'p', 'ɔ']",8,PlayMusic,je veux écouter High Contrast,smart-speaker-fr-far,680.wav
+279,"['t͡ʃʲ', 'i', 'lʲ', 'iː', 'ɪ', 'd', 'ə', 'y', 'n', 'a', 'm', 'uə', 'ʒ', 'ɕ', 'a', 'ɒ', 'f', 'ɒ', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Magnus Carlsson,smart-speaker-fr-far,683.wav
+280,"['ʒ', 'ə', 'lʲ', 'ɪ', 'm', 'ɪ', 'd', 'ə', 'm', 'ɔ', 'ɛ']",8,PlayMusic,je veux écouter Yulien Oviedo,smart-speaker-fr-far,682.wav
+281,"['ʂ', 'ɻ̩', 'lʲ', 'ɪ', 'ɡ', 'ә', 'pʲ', 'e', 'm', 'ɪ', 'ð', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Motez,smart-speaker-fr-far,623.wav
+282,"['tɕ', 'ʊ', 'p', 'uə', 'ð', 'ɛ', 'k', 'u', 't', 'iː', 't͡ʃʲ', 'a', 'ɾ', 'd', 'ɪ', 't͡ʃʲ', 'ʊ', 'ɾ']",8,PlayMusic,je veux écouter John Legend,smart-speaker-fr-far,819.wav
+283,"['ʒ', 'y', 'lʲ', 'ɪ', 'tɕ', 'iː', 'ɔ', 'l', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Coez,smart-speaker-fr-far,1103.wav
+284,"['t͡ʃʲ', 'ə', 'd', 'ɪ', 's̪', 'ɪ', 'ɾ', 'k', 'ɛ', 'ð', 'ɛ', 'ɪ']",8,PlayMusic,je veux écouter Dastic,smart-speaker-fr-far,622.wav
+285,"['ʒ', 'ə', 'ɥ', 'iː', 't', 'iː', 'm', 'a', 'm']",8,PlayMusic,je veux écouter Maj Monet,smart-speaker-fr-far,133.wav
+286,"['tʂ', 'ə', 'v', 'iː', 'uə', 't', 'iː', 'a', 'ɾ', 'a', 'm', 'ɔ', 'm', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter ATMO Music,smart-speaker-fr-far,132.wav
+287,"['ʒ', 'ə', 'ts', 'ɥ', 'ɪ', 's', 'ɪ', 'tʲ', 'iː', 'n', 'ɤ̆', 't͡ʃʲ', 'ɛ']",8,PlayMusic,je veux écouter Nine Chen,smart-speaker-fr-far,131.wav
+288,"['ʒ', 'ə', 'm', 'ɪ', 'tʲ', 'iː', 'k̟ʲ', 'iː']",8,PlayMusic,je veux écouter Eini,smart-speaker-fr-far,130.wav
+289,"['ʒ', 'ə', 'œ', 'ɾʲ', 'ɪ', 'x', 'uː', 't', 'e', 'ɪ', 'k', 'ɔ', 'ɾ', 'ɛ', 'm', 'a']",8,PlayMusic,je veux écouter Scott Helman,smart-speaker-fr-far,137.wav
+290,"['œ', 'ɪ', 'iː', 'tʲ', 'ɪ', 'd', 'a', 'x', 'ɔ', 'ʁ', 'a', 'ɔ', 'lʲ', 'a', 'k', 'ɔ', 'ɾ', 'a']",8,PlayMusic,je veux écouter Barbora Poláková,smart-speaker-fr-far,136.wav
+291,"['ʒ', 'ə', 'œ', 'k', 'uə', 'pʲ', 'ɪ', 'ʂ', 'a', 's̪', 'm', 'a']",8,PlayMusic,je veux écouter Fasma,smart-speaker-fr-far,135.wav
+292,"['ʒ', 'ə', 'ɪ', 'dʲ', 'iː', 'ʃ', 'a']",8,PlayMusic,je veux écouter Chara,smart-speaker-fr-far,134.wav
+293,"['d', 'ə', 'm', 'ɪ', 'dʲ', 'iː', 'dʲ', 'iː', 'ʃ', 'ɒ']",8,PlayMusic,je veux écouter A.CHAL,smart-speaker-fr-far,494.wav
+294,"['ʒ', 'ə', 'bʲ', 'ɪ', 'z', 'ә', 't', 'ɪ', 'ʝ', 'a', 'ʁ', 'ɒ', 'ts', 'ɔ']",8,PlayMusic,je veux écouter Yung Fume,smart-speaker-fr-far,495.wav
+295,"['ʒ', 'ə', 'm', 'œ', 'ɪ', 'pʲ', 'iː', 'ə', 'a', 'ʁ', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Eves The Behavior,smart-speaker-fr-far,139.wav
+296,"['ʒ', 'ə', 'd', 'ə', 'k', 'u', 't', 'ɪ', 'iː', 'ɕ', 'ɛ', 'ts', 'a', 'v', 'j', 'ɔ']",8,PlayMusic,je veux écouter Michele Zarrillo,smart-speaker-fr-far,138.wav
+297,"['ʒ', 'ə', 'b̞', 'ɛ', 'l', 'k', 'ɔ', 'n', 'tʂ', 'ɛ', 'pʲ', 'ɪ', 'ɡ', 'iː', 'ɾ', 'ɪ']",8,PlayMusic,je veux écouter Peggy Lee,smart-speaker-fr-far,490.wav
+298,"['v', 'ɪ', 'i', 'z', 'ə', 'n', 'tʲ', 'ɪ', 'a', 'ɾ', 'e', 'k', 'ɔ', 'n', 'm', 'ʊ', 'ɪ', 'ɴ', 'ts', 'ɛ', 's̪']",8,PlayMusic,je veux écouter Alejandro Fuentes,smart-speaker-fr-far,491.wav
+299,"['d', 'ɪ', 'v', 'iː', 'p', 'a']",8,PlayMusic,je veux écouter Paulo,smart-speaker-fr-far,492.wav
+300,"['d', 'ʏ', 'm', 'ʏ', 'd', 'i', 't', 'ɪ', 'f', 'i', 'ɛ', 'v', 'w', 'a', 'ɔ', 'd']",8,PlayMusic,je veux écouter Fidel Rueda,smart-speaker-fr-far,493.wav
+301,"['t͡ʃʲ', 'ʊ', 'ɪ', 't', 'ɪ', 'ɕː', 'i']",8,PlayMusic,je veux écouter Blow,smart-speaker-fr-far,24.wav
+302,"['tɕ', 'ɔ', 'ɪ', 'x', 'ð', 'ɔ']",8,PlayMusic,je veux écouter Kizo,smart-speaker-fr-far,25.wav
+303,"['i', 's', 'ɹ̩', 'ts', 'u', 'f', 'ɔ', 'n', 'a', 'd', 'ә', 'd͡ʒ', 'ɪ', 'a', 't̪']",8,PlayMusic,je veux écouter eason and the duo band,smart-speaker-fr-far,26.wav
+304,"['ʒ', 'ə', 'ɪ', 'ɯ', 'tʲ', 'ɪ', 'ɛ', 'ɔ', 'a']",8,PlayMusic,je veux écouter DaVido,smart-speaker-fr-far,27.wav
+305,"['ʒ', 'ə', 'ɾ', 'ə', 'm', 'ɪ', 'k', 'ɪ', 'ɕ', 'ɻ̩', 'ʁ', 'ɒ', 'k', 'a', 'ә']",8,PlayMusic,je veux écouter Jordin Sparks,smart-speaker-fr-far,20.wav
+306,"['zʲ', 'y', 'ɪ', 'tʲ', 'iː', 'ɛ', 'tɕ', 'a', 'ʁ', 'ɪ', 's']",8,PlayMusic,je veux écouter Craig Cardiff,smart-speaker-fr-far,21.wav
+307,"['ʒ', 'a', 'tʲ', 'k', 'ɔ', 'i']",8,PlayMusic,je veux écouter GC,smart-speaker-fr-far,22.wav
+308,"['ʒ', 'ə', 'ɪ', 'm', 'a', 'ɔ', 't', 'ɛ']",8,PlayMusic,je veux écouter Marwo,smart-speaker-fr-far,23.wav
+309,"['l', 'ɨ', 'm', 'ɪ', 'n', 'dʲ', 'ɪ', 'a', 'p', 'ɔ', 'ts', 'a', 't', 'ə', 'ð']",8,PlayMusic,je veux écouter Afrojack,smart-speaker-fr-far,927.wav
+310,"['ʒ', 'ə', 'tʲ', 'ɪ', 'ts', 'a', 'ɪ', 'ə', 'o', 's', 'a', 'b̞', 'ə', 'a', 'd', 'a', 'ɾ']",8,PlayMusic,je veux écouter Reo Cragun,smart-speaker-fr-far,28.wav
+311,"['ə', 'ɪ', 'tɕ', 'ɪ', 'a', 'k', 'ʁ', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Mac Kregor,smart-speaker-fr-far,29.wav
+312,"['tʂ', 'ə', 'v', 'œ', 'd', 'iː', 's', 'iː', 'tʲ', 'iː', 'v', 'ɔ', 'm', 'ɹ̩', 'ts']",8,PlayMusic,je veux écouter POWERS,smart-speaker-fr-far,407.wav
+313,"['ʒ', 'ɛ', 'n', 'ə', 'v', 'ɪ', 'ɡ', 'uə', 'u', 't', 'e', 'tʲ', 'ɪ', 'i', 'f', 'ɔ']",8,PlayMusic,je veux écouter Eddy Flow,smart-speaker-fr-far,406.wav
+314,"['t͡ʃʲ', 'ə', 'l', 'uə', 'i', 'ɡ', 'u', 't', 'ɪ', 'a', 'ɾ', 'a', 'ɾ', 'a', 'm', 'a', 'ɕː', 'e']",8,PlayMusic,je veux écouter Alabama Shakes,smart-speaker-fr-far,405.wav
+315,"['tʂ', 'ə', 'ʒ', 'ɪ', 'ʌ', 'n', 'ɪ', 'i', 'tɕ', 'ɪ', 'x', 't͡ʃʲ', 'y', 'n']",8,PlayMusic,je veux écouter City Spud,smart-speaker-fr-far,404.wav
+316,"['ʒ', 'ə', 'v', 'ɪ', 'a', 'ɴ', 'd', 'ɪ', 'k', 'ɔ', 'n', 'ɪ', 'ɴ', 'ɪ', 't͡ʃʲ', 'ɪ']",8,PlayMusic,je veux écouter Golden Features,smart-speaker-fr-far,403.wav
+317,"['ʒ', 'ɻ̩', 'ts', 'ɪ', 'ʊ', 'n', 'tʲ', 'ɪ', 'k', 'ʊ', 'n', 'tʂ', 'ɪ', 'n', 'i', 'ʀ', 'ə', 'n', 'a']",8,PlayMusic,je veux écouter Anthony Gonzalez,smart-speaker-fr-far,402.wav
+318,"['t͡ʃʲ', 'ʏ', 'ts', 'ɪ', 'ʊ', 'ɴ', 'tʲ', 'iː', 'k̟ʲ', 'ɛ', 's', 'a', 'p', 'ɒ', 'ɴ', 't', 'ɔ', 'm']",8,PlayMusic,je veux écouter Kafu Banton,smart-speaker-fr-far,401.wav
+319,"['t͡ʃʲ', 'ə', 'ɪ', 'k', 'uə', 'tʲ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter Ealay,smart-speaker-fr-far,400.wav
+320,"['a', 'm', 'a']",8,PlayMusic,je veux écouter Cali Y El Dandee,smart-speaker-fr-far,933.wav
+321,"['ɪ', 'tɕ', 'a']",8,PlayMusic,je veux écouter Jennifer Lopez,smart-speaker-fr-far,932.wav
+322,"['ɪ', 'ɔ', 'a']",8,PlayMusic,je veux écouter Morat,smart-speaker-fr-far,931.wav
+323,"['d', 'ə', 'l', 'ɪ', 'ð', 'ɪ', 'n', 'iː', 'a', 'ð', 'ə', 'e']",8,PlayMusic,je veux écouter Nico & Vinz,smart-speaker-fr-far,930.wav
+324,"['ɪ', 'n', 'ə', 'a', 'ʊ', 'n']",8,PlayMusic,je veux écouter Emily Warren,smart-speaker-fr-far,937.wav
+325,"['ʒ', 'ə', 'n', 'œ', 'ɪ', 'k', 'ɔ', 'm', 't', 'ɪ', 'f', 'y', 'b̞', 'a', 'tɕʰ', 'j', 'a', 'ә']",8,PlayMusic,je veux écouter mansionz,smart-speaker-fr-far,629.wav
+326,"['s', 'uə', 'p', 'ɒ', 'ʒ', 'ɛ', 'k', 'ʌ', 'tɕ', 'iː', 'tʲ', 'a', 'ɾ', 'a', 'ɾ', 'ɛ', 'm', 'ɔ']",8,PlayMusic,je veux écouter Serebro,smart-speaker-fr-far,409.wav
+327,"['ʒ', 'ə', 's', 'i', 'a']",8,PlayMusic,je veux écouter Zola,smart-speaker-fr-far,408.wav
+328,"['t͡ʃʲ', 'ə', 'b̞', 'ɪ', 'y', 'm', 'tɕ', 'iː', 'm', 'a', 'm', 'a', 'k', 'a', 'n', 'iː']",8,PlayMusic,je veux écouter Mon Laferte,smart-speaker-fr-far,1069.wav
+329,"['ɪ', 'k͡p̚', 'u', 'dʲ', 'iː', 'ɕ', 'j', 'ɛ', 'b̞', 'a']",8,PlayMusic,je veux écouter Ciara,smart-speaker-fr-far,628.wav
+330,"['t͡ʃʲ', 'ə', 'tʲ', 'iː', 't͡ʃʲ', 'ɛ', 'ɪ', 'n', 'ɡ', 'a', 'ɾ']",8,PlayMusic,je veux écouter Jason Mraz,smart-speaker-fr-far,1028.wav
+331,"['ə', 'h', 'ə', 'ɪ', 'k', 'ʊ', 'dʲ', 'iː', 'ɪ', 'ʒ', 'a', 'm', 'i']",8,PlayMusic,je veux écouter LGND,smart-speaker-fr-far,758.wav
+332,"['ɪ', 't', 'ə', 'lʲ', 'ɪ', 'd', 'a', 'm', 'a', 'iː', 'x', 'ɪ', 'ʂ']",8,PlayMusic,je veux écouter Lana Del Rey,smart-speaker-fr-far,1018.wav
+333,['ɪ'],8,PlayMusic,je veux écouter -M-,smart-speaker-fr-far,379.wav
+334,"['ts', 'ɪ', 'tɕ', 'ɪ', 'pʲ', 'ɪ', 'tʲ', 'a', 's', 'lʲ', 'ɪ', 't', 'ɛ', 'ʁ', 't', 'a', 't', 'ɾ', 'ɔ']",8,PlayMusic,je veux écouter Kathryn Bernardo,smart-speaker-fr-far,378.wav
+335,"['ɪ', 'k', 'ɔ', 'n', 'zʲ', 'i', 'l', 'ɪ', 'ɡ', 'i', 'n', 'ɪ']",8,PlayMusic,je veux écouter DJ Luian,smart-speaker-fr-far,829.wav
+336,"['u', 'f', 'ʃ', 'ɪ', 't']",8,PlayMusic,je veux écouter Metro Boomin,smart-speaker-fr-far,828.wav
+337,"['ʒ', 'ə', 'm', 'ɛ', 'ts', 'ɪ', 'n', 'i', 'v', 'a', 'ɔ', 't͡ʃʲ', 'ɻ̩', 'ɾ', 'ts']",8,PlayMusic,je veux écouter Nile Rodgers,smart-speaker-fr-far,1060.wav
+338,"['ð', 'ɪ', 'n', 'ɪ', 'ɛ', 'l', 'a', 'ɪ', 'a']",8,PlayMusic,je veux écouter Set Mo,smart-speaker-fr-far,371.wav
+339,"['ʒ', 'ə', 'b̞', 'ɪ', 'u', 'ð', 'ɪ', 'iː', 'n', 's', 'uə', 'w', 'a']",8,PlayMusic,je veux écouter Yvng Swag,smart-speaker-fr-far,370.wav
+340,"['tɕ', 'ə', 't', 'ɪ', 'dʲ', 'ɪ', 'm', 'a', 'ð', 'o', 'ð', 'ɪ']",8,PlayMusic,je veux écouter Mahmood,smart-speaker-fr-far,373.wav
+341,"['ɪ', 'a']",8,PlayMusic,je veux écouter Flying Saucer Gang,smart-speaker-fr-far,372.wav
+342,"['ɪ', 'tʲ', 'lʲ', 'ɪ', 'm', 'ɪ', 'a']",8,PlayMusic,je veux écouter Nakor,smart-speaker-fr-far,375.wav
+343,"['ɪ', 'pʲ', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Greeny,smart-speaker-fr-far,374.wav
+344,"['ɪ', 'ts', 'ɪ', 'tɕ', 'ɪ']",8,PlayMusic,je veux écouter Michael Ball,smart-speaker-fr-far,377.wav
+345,"['ə', 's', 'ɪ', 'a', 'ɔ']",8,PlayMusic,je veux écouter Belén Ayuso,smart-speaker-fr-far,376.wav
+346,"['ɪ', 'ʃ', 'a', 'ʃ']",8,PlayMusic,je veux écouter Skip Marley,smart-speaker-fr-far,1019.wav
+347,"['ʒ', 'ə', 'm', 'ɪ', 'n', 'ɪ', 'ʁ', 'ɒ', 'l', 'ʌ']",8,PlayMusic,je veux écouter Raphaella,smart-speaker-fr-far,708.wav
+348,"['ʒ', 'ə', 'ɪ', 'ð', 'iː', 'tɕʰ', 'ɪ', 'a', 'u']",8,PlayMusic,je veux écouter Pi'Erre Bourne,smart-speaker-fr-far,709.wav
+349,"['ʒ', 'ə', 'v', 'œ', 'tʲ', 'ɪ', 'u', 'tɕ', 'ɪ', 'k', 'iː', 'n', 'a', 'ɔ']",8,PlayMusic,je veux écouter Kim Na Young,smart-speaker-fr-far,704.wav
+350,"['ʒ', 'ə', 'm', 'i', 'ɡ', 'u', 'dʲ', 'ɪ', 'a', 'ɴ', 'j', 'a', 'ts', 'a', 'ɾ', 'ɔ', 'ә', 'ɡ', 'a']",8,PlayMusic,je veux écouter Ania Dabrowska,smart-speaker-fr-far,705.wav
+351,"['d͡ʒ', 'ə', 'b̞', 'ɪ', 'd', 'iː', 'm', 'ɪ', 'n', 'd', 'a', 't͡ʃʲ', 'ɒ', 'ɕ', 'j']",8,PlayMusic,je veux écouter Winston Surfshirt,smart-speaker-fr-far,706.wav
+352,"['ʒ', 'ə', 'm', 'ɪ', 'ʒ', 'ә', 'tɕ', 'ɪ', 'dʲ', 'iː']",8,PlayMusic,je veux écouter Dimmi,smart-speaker-fr-far,707.wav
+353,"['ɪ', 'ʒ', 'ə', 'm', 'ə', 'ә', 'tɕ', 'iː', 'ɡ', 'æ']",8,PlayMusic,je veux écouter Theia,smart-speaker-fr-far,700.wav
+354,"['ʒ', 'ə', 'pʲ', 'iː', 'ʒ', 'ɪ', 'ʒ', 'ɻ̩', 'l', 'ɛ']",8,PlayMusic,je veux écouter Calogero,smart-speaker-fr-far,618.wav
+355,"['ʒ', 'ə', 'x', 'ə', 'ɪ', 'tɕ', 'd', 'y', 'n', 'ʁ', 'l', 'ɒ']",8,PlayMusic,je veux écouter Junior Lord,smart-speaker-fr-far,702.wav
+356,"['ʒ', 'ə', 'b̞', 'ɤ̆', 'dʲ', 'iː', 'l', 'a', 'tʲ', 'ә', 'k', 'l', 'ɔ', 'm', 'ɔ']",8,PlayMusic,je veux écouter Mad Clown,smart-speaker-fr-far,703.wav
+357,"['ʒ', 'ə', 'ʀ', 'ɪ', 'ts', 'iː', 'a', 'm', 'ɔ', 'ɴ', 'ij', 'j', 'a', 'd', 'ɔ', 'uə', 'ts', 'u', 'b̞', 'a', 'ʁ']",8,PlayMusic,je veux écouter Harmonia Do Samba,smart-speaker-fr-far,393.wav
+358,"['ʒ', 'ə', 'b̤', 'ɪ', 'y', 'u', 'pʲ', 'iː', 'a', 'ʁ', 'ә']",8,PlayMusic,je veux écouter Abdi,smart-speaker-fr-far,392.wav
+359,"['tʂ', 'ə', 'ɥ', 'ɪ', 'lʲ', 'iː', 'ɪ', 'x', 'a']",8,PlayMusic,je veux écouter Dim Out,smart-speaker-fr-far,88.wav
+360,"['ʒ', 'ə', 'v', 'ɪ', 'u', 'ɪ', 'iː']",8,PlayMusic,je veux écouter Eripe,smart-speaker-fr-far,89.wav
+361,"['ʒ', 'ə', 'm', 'ɪ', 'u', 'dʲ', 'e', 's', 'a', 'ɕ', 'i', 'l', 'ɪ', 's', 'ɒ', 'n']",8,PlayMusic,je veux écouter Gee Dixon,smart-speaker-fr-far,397.wav
+362,"['ʒ', 'ə', 'm', 'œ', 'k', 'u', 'b̞', 'iː', 'f', 'i', 'ɴ', 'b̞', 'a', 'ɾʲ', 'i']",8,PlayMusic,je veux écouter SEAN PAGES,smart-speaker-fr-far,396.wav
+363,"['ʒ', 'ʊ', 'b̤', 'ɪ', 'pʲ', 'iː', 'ʊ', 'ð', 'a', 'b̞', 'a', 'n', 's', 'i', 'm', 'ɪ']",8,PlayMusic,je veux écouter Valentino,smart-speaker-fr-far,395.wav
+364,"['ʒ', 'ə', 'b̞', 'ɪ', 'l', 'iː', 'm', 'ɔ', 'ʁ', 'œ']",8,PlayMusic,je veux écouter Möwe,smart-speaker-fr-far,394.wav
+365,"['ʒ', 'ʏ', 'm', 'ɪ', 'iː', 'dʲ', 'iː', 'd', 'ə', 'm', 'a', 'ɾ', 'ә', 'k', 'a', 'ɾ']",8,PlayMusic,je veux écouter Sebastian,smart-speaker-fr-far,82.wav
+366,"['ts', 'ə', 'ʀ', 'i', 'dʲ', 'iː', 'ð', 'ə', 'h', 'ɛ', 'a', 'n', 'ə', 'b̞', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter The Head and the Heart,smart-speaker-fr-far,83.wav
+367,"['m', 'ɪ', 'n', 'ɪ', 'b̞', 'a', 'l', 'ɪ', 's', 'ɡ', 'ɔ']",8,PlayMusic,je veux écouter Páll Óskar,smart-speaker-fr-far,80.wav
+368,"['ʒ', 'ə', 'lʲ', 'ɪ', 'tɕ', 'iː', 't̪ʰ', 'iː', 'b̞', 'uə', 'ɪ', 'a']",8,PlayMusic,je veux écouter Bebo Yau,smart-speaker-fr-far,81.wav
+369,"['tʂ', 'ʏ', 'ɪ', 'n', 'ts', 'ɪ', 'l', 'o', 'f', 'ʁ', 'a']",8,PlayMusic,je veux écouter Lo-Fang,smart-speaker-fr-far,86.wav
+370,"['ts', 'ɪ', 'ʁ', 'ɪ', 'dʲ', 'iː', 'a', 'l', 'ɪ']",8,PlayMusic,je veux écouter Moon Afflick,smart-speaker-fr-far,87.wav
+371,"['ʒ', 'ʏ', 's', 'i', 's', 'ə', 'n', 'tʲ', 'ɪ', 'ə', 'a', 'k̟ʲ', 'iː', 'ɔ', 'f', 'ð', 'ə', 'n', 'a', 'ʊ', 'h', 'ə', 'n', 'f', 'ɔ', 'ə', 'ð', 'ɛ']",8,PlayMusic,"je veux écouter Artists Of Then, Now & Forever",smart-speaker-fr-far,84.wav
+372,"['ts', 'ɪ', 'ʁ', 'ɪ', 'iː', 'ts', 'iː', 'm', 'a', 'l', 'a', 'm', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Vale Lambo,smart-speaker-fr-far,85.wav
+373,"['ɪ', 's', 'ɪ', 'n', 'ɪ', 'k', 'tɕ', 'a']",8,PlayMusic,je veux écouter Enrique Iglesias,smart-speaker-fr-far,797.wav
+374,"['ɛ', 'd', 'ɪ', 'ɛ', 'ɪ']",8,PlayMusic,je veux écouter Seeb,smart-speaker-fr-far,796.wav
+375,"['a', 's', 'ɪ', 'ts', 'ɪ', 'm', 'ɪ', 's', 'k', 'ɔ']",8,PlayMusic,je veux écouter SZA,smart-speaker-fr-far,795.wav
+376,"['ɪ', 's', 'ɪ', 's', 'ʊ', 'd', 'ɪ']",8,PlayMusic,je veux écouter Adele,smart-speaker-fr-far,794.wav
+377,"['ʏ', 'tɕ', 'i', 'd']",8,PlayMusic,je veux écouter Chris Brown,smart-speaker-fr-far,793.wav
+378,"['a', 's', 'a', 'ɪ', 's', 'e', 'ɕ', 'i', 'k', 'ɪ', 'ʐ', 'ɻ̩']",8,PlayMusic,je veux écouter Hailee Steinfeld,smart-speaker-fr-far,792.wav
+379,['ɪ'],8,PlayMusic,je veux écouter Yandel,smart-speaker-fr-far,791.wav
+380,"['ʒ', 'ə', 'v', 'uə', 'ɪ', 'a', 't', 'ɪ', 'tɕ', 'ɪ', 'tʲ', 'i', 'p', 'ɪ', 'a']",8,PlayMusic,je veux écouter Katy Perry,smart-speaker-fr-far,790.wav
+381,"['ɪ', 's', 't', 'ɔ']",8,PlayMusic,je veux écouter French Montana,smart-speaker-fr-far,799.wav
+382,"['ts', 'ɪ', 'a', 'ʁ']",8,PlayMusic,je veux écouter Alan Walker,smart-speaker-fr-far,798.wav
+383,"['ə', 'n', 'ə', 'ɪ', 's', 'm', 'a', 's', 'd', 'ɔ', 'ts', 'uː']",8,PlayMusic,je veux écouter Bartofso,smart-speaker-fr-far,572.wav
+384,"['ʒ', 'ɪ', 'tʲ', 'ɪ', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Majka,smart-speaker-fr-far,601.wav
+385,"['ʒ', 'ə', 'ð', 'ɨ', 'ɪ', 'k', 'u', 't', 'ɛ', 'p', 'ʁ', 'ɛ', 'z', 'a', 'ʒ', 'i']",8,PlayMusic,je veux écouter Preta Gil,smart-speaker-fr-far,607.wav
+386,"['uə', 'ʂ', 'ɻ̩', 'ɕː', 'ɻ̩', 'ɕ', 'ɔ', 'w', 'a']",8,PlayMusic,je veux écouter Dillon Cooper,smart-speaker-fr-far,586.wav
+387,"['ʌ', 'lʲ', 'i', 'iː', 'tʂ', 'e', 's̪', 't', 'ɒ']",8,PlayMusic,je veux écouter Şam,smart-speaker-fr-far,587.wav
+388,"['p', 'ɪ', 'ə', 'n', 't', 'ɛ', 'n', 'ɪ', 't']",8,PlayMusic,je veux écouter Mild,smart-speaker-fr-far,584.wav
+389,"['ts', 'ɔ', 'ʃ', 'i', 'n', 'ɪ', 'm', 'a', 'ʃ']",8,PlayMusic,je veux écouter Mario,smart-speaker-fr-far,585.wav
+390,"['v', 'ɪ', 'ʐ', 'ə', 'm', 'ɪ', 't', 'iː', 'i', 'x', 'uː', 'm', 't', 'ɪ', 's', 'i', 'n', 'a', 'l', 'ə', 'n', 'b', 'ɔ', 'lʲ', 'ɛ', 'ɡ', 'ɛ', 's']",8,PlayMusic,je veux écouter Snollebollekes,smart-speaker-fr-far,582.wav
+391,"['ɪ', 't', 'a', 'ɑ']",8,PlayMusic,je veux écouter TroyBoi,smart-speaker-fr-far,583.wav
+392,"['ʒ', 'ə', 'v', 'ə', 'z', 'ɪ', 'a', 'd', 'ɔ', 'ɡ', 'ɔ', 'tʂ', 'ɔ']",8,PlayMusic,je veux écouter Ado Kojo,smart-speaker-fr-far,580.wav
+393,"['ʒ', 'ə', 'b̞', 'ɪ', 'ts', 'ɪ', 'k', 'm', 'ɪ', 'iː', 'm', 'a', 'x', 't', 't̪', 'a', 'ɾ', 't͡ʃʲ', 'ʌ', 'p', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Marc Tatchapon,smart-speaker-fr-far,581.wav
+394,"['s', 'v', 'ɪ', 'k', 'ə', 'n', 'ɪ', 't', 'e']",8,PlayMusic,je veux écouter Friyie,smart-speaker-fr-far,1133.wav
+395,"['ə', 'ɪ', 't', 'a']",8,PlayMusic,je veux écouter Byklubben,smart-speaker-fr-far,588.wav
+396,"['tɕ', 'ʊ', 'uː', 'ɪ', 'zʲ', 'ə', 'ɛ', 'ʁ', 'ɪ', 'ʊ']",8,PlayMusic,je veux écouter Remoe,smart-speaker-fr-far,589.wav
+397,"['ʒ', 'ə', 'ɾ', 'ə', 's', 'ɪ', 'k', 'u', 't', 'e', 'ð', 't', 'a', 'ɾ', 'ɒ', 'ɳ', 'ә', 'ts', 'o', 'd', 'iː', 'b', 'a', 'ʁ', 'ʒ', 'ʊ']",8,PlayMusic,je veux écouter Talento de Barrio,smart-speaker-fr-far,245.wav
+398,"['ʒ', 'ə', 'b̞', 'u', 'ð', 'ɪ', 'k', 'u', 't', 'ɪ', 'ɛ', 's', 'ɒ', 'k', 'ɛ', 's', 'ʁ', 'ɒ', 'ɪ', 'b', 'l', 'œ', 'ð']",8,PlayMusic,je veux écouter FM95BLÖ,smart-speaker-fr-far,244.wav
+399,"['ʒ', 'ə', 'ʒ', 'ə', 'ɪ', 'ɡ', 'uə', 'lʲ', 'dʲ', 'ɪ', 's', 'b̞', 'ɪ', 'tʲ', 'ɴ', 'p', 'ʁ', 'w', 'a', 'ɾ']",8,PlayMusic,je veux écouter Peter von Poehl,smart-speaker-fr-far,247.wav
+400,"['ʁ', 'ʐ', 'ə', 'ð', 'ɛ', 'z', 'ɪ', 'ʊ', 'n', 'ð', 'ɪ', 'ð', 'ɔ', 't͡ʃʲ', 'ɛ', 'n', 'ʊ', 'ʁ', 'ʀ', 'uə']",8,PlayMusic,je veux écouter Dolcenera,smart-speaker-fr-far,246.wav
+401,"['ʒ', 'ə', 'v', 'œ', 'iː', 's', 'iː', 'tʲ', 'ɪ', 'ts', 'ɪ', 'x', 'b̞', 'ɨ', 'ɾ', 'm', 'a']",8,PlayMusic,je veux écouter V. Bozeman,smart-speaker-fr-far,241.wav
+402,"['d', 'iː', 'v', 'ɪ', 'd', 'iː', 'tʲ', 'ə', 'ts', 'ɪ', 'd͡ʒ', 'iː', 'd͡ʒ', 'a', 'ɪ', 'œ']",8,PlayMusic,je veux écouter The Flexican & Sef,smart-speaker-fr-far,240.wav
+403,"['ʒ', 'ə', 'v', 'ʏ', 'tʲ', 'ʊ', 'pʲ', 'ɪ', 's', 't', 'm', 'a', 'tɕ', 'j', 'ɛ', 'ɕ']",8,PlayMusic,je veux écouter Massief,smart-speaker-fr-far,243.wav
+404,"['d', 'ə', 'v', 'ɪ', 'ŋ̟', 'pʲ', 'iː', 'x', 'i', 'ɪ', 'd͡ʒ', 'ɛ', 'ʁ', 'd', 'ɛ', 'l', 'ʌ', 'n', 'ts']",8,PlayMusic,je veux écouter Jeff Bernat,smart-speaker-fr-far,242.wav
+405,"['ə', 'ts', 'i', 'ə', 'p', 'e', 'ə', 'a', 's', 't', 'uː', 'm', 'ɛ', 'ɔ', 'ð', 'uː', 'z', 'ə', 's', 'a']",8,PlayMusic,je veux écouter Landslagsbarnen,smart-speaker-fr-far,615.wav
+406,"['ʒ', 'ə', 'v', 'u', 'ts', 'i', 'k', 'uə', 'u', 't', 'iː', 'ts', 'ɒ', 'a', 'tʲ', 'ʁ', 'a', 'x', 'ɔ', 'm', 'ɛ']",8,PlayMusic,je veux écouter Fabian Römer,smart-speaker-fr-far,249.wav
+407,"['ʒ', 'ə', 'b̞', 'ə', 'lʲ', 'ɪ', 'k', 'ʊ', 'ŋ̟', 'dʲ', 'iː', 'ʁ', 'iː', 'b̞', 'a', 'm', 'i']",8,PlayMusic,je veux écouter Eva Ruiz,smart-speaker-fr-far,248.wav
+408,"['ʁ', 'ɪ', 'b̞', 'ɥ', 'ɪ', 'm', 'ɪ', 'tɕ', 'ɔ']",8,PlayMusic,je veux écouter John Newman,smart-speaker-fr-far,924.wav
+409,"['tʂ', 'ə', 'b̞', 'œ', 'k', 'u', 'tʂ', 'e', 'm', 'iː', 'm', 'a', 'iː']",8,PlayMusic,je veux écouter Lil Baby,smart-speaker-fr-far,970.wav
+410,"['d', 'ə', 'm', 'ɪ', 'y', 'n', 'iː', 'dʲ', 'iː', 'd', 'iː', 'ð', 'a', 'b̞', 'a', 'ɾ']",8,PlayMusic,je veux écouter Lady Gaga,smart-speaker-fr-far,925.wav
+411,"['p', 'o', 'ʂ', 'ɻ̩', 'v', 'ɪ', 's', 'ɪ', 'tɕ', 'iː', 'm', 'a', 't', 'a', 'd', 'a', 'p', 'o']",8,PlayMusic,je veux écouter Martin Masarov,smart-speaker-fr-far,519.wav
+412,"['ɪ', 'tɕ', 'ɪ', 'tʲ', 'ɪ', 'a', 'n', 'ɪ', 'x', 'm', 'a', 'ɪ']",8,PlayMusic,je veux écouter Frida Brygmann,smart-speaker-fr-far,518.wav
+413,"['l', 'ɨ', 'b̞', 'ɪ', 'l', 'u', 'pʲ', 'ɪ', 'x', 'ɪ', 'x', 'm', 'a', 'ɪ', 'tʲ', 'ə', 'm', 'a', 'ɾ', 'ð', 'a', 'f', 'a']",8,PlayMusic,je veux écouter Simone & Simaria,smart-speaker-fr-far,926.wav
+414,"['t͡ʃʲ', 'ɻ̩', 'ɪ', 'lʲ', 'ɛ', 'ɪ', 'ɕ', 'a']",8,PlayMusic,je veux écouter Usher,smart-speaker-fr-far,1009.wav
+415,"['ʒ', 'ə', 'm', 'œ', 'ɪ', 'tʲ', 'iː', 'a']",8,PlayMusic,je veux écouter Khea,smart-speaker-fr-far,1008.wav
+416,"['ʒ', 'ə', 'm', 'ʏ', 'dʲ', 'y', 'tʲ', 'iː', 'tʲ', 'ɪ', 'ə', 'm', 'a', 'm', 'a', 'l', 'ә', 'n', 'ʀ', 'i']",8,PlayMusic,je veux écouter Hayley Warner,smart-speaker-fr-far,511.wav
+417,"['ʒ', 'ə', 'ts', 'ɪ', 'u', 'dʲ', 'iː', 'a', 'ɾ', 'ʏ', 'ɡ', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Can Güngör,smart-speaker-fr-far,510.wav
+418,"['ɪ', 's', 'ɪ', 'ə', 'n', 'm', 'a', 'f', 'a', 'ð', 'ə', 'a', 'n', 'a', 'ɛ', 's', 'ɡ', 'ʊ']",8,PlayMusic,je veux écouter System Of A Down,smart-speaker-fr-far,513.wav
+419,"['ɪ', 'n', 'ɪ', 'ɕ', 'i', 'ɾ', 't', 'ʊ']",8,PlayMusic,je veux écouter Wanakin,smart-speaker-fr-far,512.wav
+420,"['t͡ʃʲ', 'ə', 'ɪ', 'tɕ', 'ɪ', 'i', 'k', 'ɔ', 'd', 'ɒ']",8,PlayMusic,je veux écouter Chris Cronauer,smart-speaker-fr-far,515.wav
+421,"['t͡ʃʲ', 'y', 'b', 'ɪ', 'tʲ', 'dʲ', 'iː', 'ɕ', 'i', 'm', 'a', 'ɛ']",8,PlayMusic,je veux écouter Jenny Berggren,smart-speaker-fr-far,514.wav
+422,"['tʂ', 'ə', 's', 'ɛ', 's', 'ɪ', 'tɕ', 'iː', 'v', 'ɒ', 'ʁ', 'ɔ', 'd͡ʒ', 'ɛ']",8,PlayMusic,je veux écouter Danko Jones,smart-speaker-fr-far,517.wav
+423,"['t͡ʃʲ', 'ə', 'ð', 'ɪ', 's', 'n', 't', 'ɪ', 'ʂ', 'a', 'm', 'a', 'n', 'x', 'ɪ', 't͡ʃ', 'ɻ̩', 'k', 'ɔ']",8,PlayMusic,je veux écouter Jan Malmsjö,smart-speaker-fr-far,516.wav
+424,"['ʒ', 'ɪ', 'n', 'dʲ', 'ə', 'm', 'ʏ', 'ʁ', 'ɪ', 'ɟ', 'ɪ']",8,PlayMusic,je veux écouter Muringa,smart-speaker-fr-far,458.wav
+425,"['d̪', 'i', 'j', 'e', 'ɛ', 'ɴ', 'j', 'e', 's', 'i', 'd', 'e']",8,PlayMusic,je veux écouter Hiro,smart-speaker-fr-far,459.wav
+426,"['ʃ', 'ə', 'l', 'ʏ', 'ɡ', 'ə', 'ts', 'iː', 'tʲ', 'iː', 'm', 'ts', 'p', 'a', 'tʲ', 'k', 'ɪ', 'm', 'ɔ']",8,PlayMusic,je veux écouter Enzo Avitabile,smart-speaker-fr-far,621.wav
+427,"['ʒ', 'ə', 'lʲ', 'ɥ', 'ɪ', 'ɡ', 'ə', 'ɾ', 'uə', 'tʲ', 'iː', 'a', 'tʂ', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter A*Class,smart-speaker-fr-far,620.wav
+428,"['ʒ', 'ə', 'k', 'uə', 'u', 'pʲ', 'iː', 'ʒ', 'a', 'd', 'uə']",8,PlayMusic,je veux écouter JoJo,smart-speaker-fr-far,627.wav
+429,"['ʒ', 'ʏ', 'n', 'ɪ', 'p', 'uə', 'pʲ', 'ɪ', 'x', 'ts', 'ɒ', 'ɾ', 'ә', 'b', 'ɔ']",8,PlayMusic,je veux écouter Fakkboiz,smart-speaker-fr-far,626.wav
+430,"['d', 'ə', 'n', 'ɪ', 'd', 'iː', 'ts', 'a', 'ә', 'ʁ', 'a']",8,PlayMusic,je veux écouter Salamandra,smart-speaker-fr-far,625.wav
+431,"['i', 'ɪ', 'ɔ', 'n', 't', 'ɪ', 'ɔ', 'ɡ', 'a']",8,PlayMusic,je veux écouter Yoga Lin,smart-speaker-fr-far,624.wav
+432,"['ʃ', 'ʏ', 'ð', 'ə', 'm', 'ə', 'n', 'tʂ', 'ə', 'v', 'ɪ', 't', 'a', 'ɪ', 'l', 'ɛ', 's']",8,PlayMusic,je veux écouter Dj Spike Miller,smart-speaker-fr-far,450.wav
+433,"['ʂ', 'ʌ', 'ɾ', 'm', 'e', 's', 'k', 'ʌ', 'n', 't', 'uə', 'ɾʲ', 'ɪ', 'tɕ', 'ɪ', 'a', 'ʁ']",8,PlayMusic,je veux écouter Emir,smart-speaker-fr-far,451.wav
+434,"['i', 'n', 'iː', 'ts', 'a', 'b̞', 'l', 'ɪ', 's', 'a', 'ɾ', 'ʂ']",8,PlayMusic,je veux écouter Sammi Sanchez,smart-speaker-fr-far,452.wav
+435,"['tʂ', 'œ', 'ə', 'n', 'l', 'ɪ', 'x', 'ɪ', 't', 'e', 'ə', 'n', 'ɪ', 'f', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Pei-Yu Hong,smart-speaker-fr-far,453.wav
+436,"['ʔ', 'i', 'j', 'a', 'k͡p̚', 'u', 'iː', 'tʂ', 'iː', 's̪', 'ɒ', 'p', 'a', 'o']",8,PlayMusic,je veux écouter Vicentico,smart-speaker-fr-far,454.wav
+437,"['d', 'ɪ', 'k', 'ʁ', 'i', 's', 'œ']",8,PlayMusic,je veux écouter Kris Wu,smart-speaker-fr-far,455.wav
+438,"['ʒ', 'ə', 'ɾ', 'ɹ̩', 'ʃ', 'ɪ', 'n', 't', 'ɛ', 'ʒ', 'y', 'k', 'ə', 'ð', 'a']",8,PlayMusic,je veux écouter Luck Ra,smart-speaker-fr-far,456.wav
+439,"['ʒ', 'ə', 'ʁ', 'ə', 'ɕ', 'k', 'u', 'pʲ', 'ɪ', 'ʃ', 'ɻ̩', 'l', 'ɛ', 'ʁ', 'ts']",8,PlayMusic,je veux écouter Jugglerz,smart-speaker-fr-far,457.wav
+440,"['ʂ', 'ɻ̩', 'm', 'ɪ', 'n', 't', 'ɪ', 'tɕ']",8,PlayMusic,je veux écouter Jerry Smith,smart-speaker-fr-far,1084.wav
+441,"['ʁ', 'ɪ', 't', 'ə', 'pʲ', 'ɪ', 'n', 'ɪ', 't͡ʃ']",8,PlayMusic,je veux écouter Disclosure,smart-speaker-fr-far,979.wav
+442,"['ʒ', 'ə', 'ʁ', 'ɪ', 'm', 'uə', 'dʲ', 'iː', 't͡ʃʲ', 'ɪ', 'ɾ', 's']",8,PlayMusic,je veux écouter iDubbbz,smart-speaker-fr-far,179.wav
+443,"['iː', 'ʂ', 'j', 'ɨ', 'm', 'j', 'e', 'iː', 'ɪ', 'd', 'j', 'i', 'e', 'ɴ', 'd', 'j', 'ɨ', 'k͡p̚', 'ɒ', 's̪', 'ә', 'l', 'o']",8,PlayMusic,je veux écouter dePresno,smart-speaker-fr-far,178.wav
+444,"['ʒ', 'ə', 'm', 'ɪ', 'i', 'tʲ', 'ɛ', 's', 'ɛ', 'ɾ', 'a', 'ʊ', 'j', 'a', 'v', 'iː']",8,PlayMusic,je veux écouter Czesław Mozil,smart-speaker-fr-far,177.wav
+445,"['d͡ʒ', 'ə', 'ʀ', 'ɪ', 'tɕ', 'tʲ', 'iː', 't', 'a', 'ɴ', 'ɛ', 'b̞', 'a', 'ʁ', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Daniel Kvammen,smart-speaker-fr-far,176.wav
+446,"['ʒ', 'ə', 'ʁ', 'ɪ', 'tʲ', 'iː', 'lʲ', 'iː', 'k', 'a', 'z', 'ɒ']",8,PlayMusic,je veux écouter Luz Casal,smart-speaker-fr-far,175.wav
+447,"['d͡ʒ', 'ʏ', 'ʃ', 'ɪ', 'd', 'ɪ', 'd', 'ɪ', 't͡ʃʲ', 'ɪ', 'ʃ', 'm', 'a', 'ɾ', 's', 'ɛ', 's', 'uə', 't', 'ɔ']",8,PlayMusic,je veux écouter DJ Smallz 732,smart-speaker-fr-far,174.wav
+448,"['ʒ', 'ə', 'v̞ʲ', 'ɪ', 'm', 'u', 'tɕ', 'iː', 'm', 'a', 'l']",8,PlayMusic,je veux écouter Palmy,smart-speaker-fr-far,173.wav
+449,"['ʒ', 'ə', 'ʁ', 'ɛ', 'dʲ', 'iː', 'z', 'ə', 'm', 'ɪ']",8,PlayMusic,je veux écouter The Brinks,smart-speaker-fr-far,172.wav
+450,"['ə', 'ɪ', 't', 'ɪ']",8,PlayMusic,je veux écouter Alee,smart-speaker-fr-far,171.wav
+451,"['ʒ', 'ə', 'm', 'ɪ', 'u', 'dʲ', 'ɪ', 'dʲ', 'iː', 'ɔ', 'n', 'ɛ', 'ʒ']",8,PlayMusic,je veux écouter Eric Benét,smart-speaker-fr-far,170.wav
+452,['ɪ'],8,PlayMusic,je veux écouter Sevn Alias,smart-speaker-fr-far,977.wav
+453,"['ʒ', 'ə', 'n', 'ɨ', 'ɪ', 'uə', 't', 'ɪ', 'i', 't', 'ɤ', 'ʁ', 'd', 'ɪ', 'a', 'm', 'a']",8,PlayMusic,je veux écouter Birdy Nam Nam,smart-speaker-fr-far,656.wav
+454,"['tɕ', 'ɪ', 'm', 'ɪ', 'u', 'tɕ', 'iː', 'ɕ', 'ʊ', 'tɕ', 'j', 'a', 'ʁ', 'ɒ']",8,PlayMusic,je veux écouter Sofia Reyes,smart-speaker-fr-far,975.wav
+455,"['ʒ', 'ɪ', 'ɾ', 'ɔ', 'tɕ', 'iː', 'b̞', 'iː', 'ɪ']",8,PlayMusic,je veux écouter Billie Eilish,smart-speaker-fr-far,974.wav
+456,"['s', 'u', 'b̤', 'ɪ', 'k͡p̚', 'u', 'tʂ', 'i', 'k͡p̚', 'ɔ', 'ә', 'ts', 'a', 'ɾ', 't͡ɕ', 'a', 'd', 'e']",8,PlayMusic,je veux écouter Paul McCartney,smart-speaker-fr-far,973.wav
+457,"['ʒ', 'ə', 'd', 'ɪ', 'u', 'pʲ', 'iː', 'a', 'l', 'tɕ', 'iː', 'ð', 'ɛ']",8,PlayMusic,je veux écouter Astrid S,smart-speaker-fr-far,972.wav
+458,"['s', 'a', 'b̤', 'œ', 'm', 'u', 'tʂ', 'i', 'e', 'lʲ', 'j', 'i', 'iː', 'ɴ', 't͡ɕ', 'i', 'k', 'i']",8,PlayMusic,je veux écouter Lil Dicky,smart-speaker-fr-far,971.wav
+459,"['d', 'ə', 'œ', 'p', 'o', 'dʲ', 'ɛ', 'n', 'a', 'ʊ', 'l', 'a', 'ʁ', 'ә']",8,PlayMusic,je veux écouter Lord Flacko,smart-speaker-fr-far,657.wav
+460,"['ʒ', 'ə', 'm', 'ə', 'e', 'lʲ', 'ɪ', 'ɡ', 'ә', 'pʲ', 'ɛ', 'ʁ', 'ɔ', 'n', 'ts']",8,PlayMusic,je veux écouter Brooks,smart-speaker-fr-far,1080.wav
+461,"['ʒ', 'ə', 'n', 'ʏ', 'tʲ', 'iː', 'x', 'ɔ', 't', 'e', 'ɡ', 'ʁ', 'm', 'a', 'm', 'ɔ', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Burna Boy,smart-speaker-fr-far,654.wav
+462,"['ʒ', 'ə', 'm', 'ə', 'ð', 'e', 'k', 'u', 't', 'e', 'p', 'o', 'l', 'uə', 'b̞', 'a', 'ɾ', 'ә', 'n', 'ɪ', 'ɾ', 'a']",8,PlayMusic,je veux écouter Cholo Valderrama,smart-speaker-fr-far,253.wav
+463,"['s', 'ɻ̩', 'tɕ', 'ɪ', 't', 'ə', 'ɪ', 'x', 'ɛ']",8,PlayMusic,je veux écouter Kai,smart-speaker-fr-far,978.wav
+464,"['m', 'ɨ', 'ɪ', 'n', 'ɪ', 'a', 'b', 'a', 'f', 'a', 'ʁ', 'ɹ̩', 'ɾ', 'ɪ', 's', 't', 'a', 'ɾ']",8,PlayMusic,je veux écouter Deee-Lite,smart-speaker-fr-far,182.wav
+465,"['ʒ', 'ə', 'm', 'ʏ', 'd', 'ɪ', 'x', 'm', 'ð', 'ɪ', 'ɕ', 'ɪ', 'ɛ', 'f', 'lʲ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter JFDR,smart-speaker-fr-far,183.wav
+466,"['ɪ', 's', 'ə', 'ɾ', 'ɪ', 'ә', 'pʲ', 'ɪ', 'b̞', 'uə', 'i', 'l', 'a', 'b̞', 'a']",8,PlayMusic,je veux écouter Boyinaband,smart-speaker-fr-far,180.wav
+467,"['ʒ', 'ə', 'b̞', 'ɪ', 'y', 'dʲ', 'iː', 'tɕ', 'ɛ', 'a', 'd', 'ə', 'n', 'ɪ']",8,PlayMusic,je veux écouter Dj Brasil Mix,smart-speaker-fr-far,181.wav
+468,"['ʒ', 'ə', 'n', 'ʏ', 'd', 'iː', 's', 'ɪ', 'tʲ', 'ɛ', 'tʲ', 'ɪ', 'p', 'a', 'ɾ', 'ɡ', 'a', 'ʁ', 'm', 'i', 't͡ʃʲ']",8,PlayMusic,je veux écouter Edyta Gorniak,smart-speaker-fr-far,186.wav
+469,"['v', 'n', 'ʏ', 'd', 'ɪ', 'd', 'iː', 'ɡ', 'a']",8,PlayMusic,je veux écouter Koys,smart-speaker-fr-far,187.wav
+470,"['ʒ', 'ə', 'n', 'ə', 'ɪ', 'n', 'ɪ', 'd', 'iː', 'ɕ', 'i', 'm', 'ʌ', 'ð', 'ɪ']",8,PlayMusic,je veux écouter VEECIOUS V,smart-speaker-fr-far,184.wav
+471,"['ʒ', 'ə', 'n', 'ə', 'ɪ', 'x', 'n', 'ɪ', 'ɒ', 'k̟ʲ', 'j', 'ɛ', 'a']",8,PlayMusic,je veux écouter Nguyen Ha,smart-speaker-fr-far,185.wav
+472,"['tɕ', 'ə', 'ð', 'ɪ', 'lʲ', 'iː', 'ɪ', 'm', 'ɒ', 'ʒ', 'ɒ']",8,PlayMusic,je veux écouter Frank Ocean,smart-speaker-fr-far,886.wav
+473,"['ʒ', 'ə', 'ɾ', 'ə', 'ɪ', 'dʲ', 'iː', 'ʁ', 'ʀ', 'ɔ', 'b̞', 'iː', 'n']",8,PlayMusic,je veux écouter Robin,smart-speaker-fr-far,652.wav
+474,"['ə', 'ɪ', 's', 'tʲ', 'ɪ', 'j', 'a', 'ts', 'ɤ̆']",8,PlayMusic,je veux écouter Ziana Zain,smart-speaker-fr-far,188.wav
+475,"['ʒ', 'ə', 'n', 'ə', 'iː', 'tʂ', 'ә']",8,PlayMusic,je veux écouter Carla Bruni,smart-speaker-fr-far,189.wav
+476,"['ʒ', 'ə', 'b̞', 'ɪ', 'tʲ', 'ɛ', 'a', 'ɾ', 'ə', 's', 'ɪ']",8,PlayMusic,je veux écouter Halsey,smart-speaker-fr-far,1122.wav
+477,"['n', 'u', 'ð', 'œ', 'pʲ', 'ɪ', 't', 'ɛ', 'k̟ʲ', 'i', 'b̞', 'a', 'n', 'ɛ', 'iː', 'm', 'a']",8,PlayMusic,je veux écouter Silvana Imam,smart-speaker-fr-far,658.wav
+478,"['ʒ', 'ə', 'ɾ', 'ə', 'ð', 'e', 'k', 'ә', 'tʂ', 'a', 'm', 'i']",8,PlayMusic,je veux écouter Amine,smart-speaker-fr-far,653.wav
+479,"['ʒ', 'ə', 'm', 'ɪ', 'l', 'ɪ', 'a', 'i']",8,PlayMusic,je veux écouter Khalid,smart-speaker-fr-far,1110.wav
+480,"['ʒ', 'ə', 'b̞', 'ɛ', 'u', 'ʋ', 't', 'ɛ', 'm', 'iː', 'z', 'i']",8,PlayMusic,je veux écouter Wisin,smart-speaker-fr-far,1123.wav
+481,"['ʒ', 'ə', 'm', 'e', 'lʲ', 'ɪ', 'k', 'ʊ', 'pʲ', 'ɪ', 'b̞', 'ɛ', 'ɾ', 'ʌ', 'ɳ', 'ɛ', 't', 'ʁ', 'ɒ', 'tʲ']",8,PlayMusic,je veux écouter Peven Everett,smart-speaker-fr-far,650.wav
+482,"['ʒ', 'ə', 'ɾ', 'ð', 'ɛ', 'k', 'uə', 't', 'ɛ', 'ʁ', 'm', 'ɪ', 'f', 'ɔ', 'ʁ', 'd', 'i']",8,PlayMusic,je veux écouter Luis Fonsi,smart-speaker-fr-far,1124.wav
+483,"['ʒ', 'ə', 'b̤', 'ə', 'e', 'ɡ', 'iː', 'tʲ', 'ɪ', 'ɡ', 'ɔ']",8,PlayMusic,je veux écouter God,smart-speaker-fr-far,651.wav
+484,"['ʒ', 'ə', 'm', 'ɪ', 'm', 'u', 'tʲ', 'ɛ', 'k', 'i', 'b', 'ɛ', 'ð', 'ә']",8,PlayMusic,je veux écouter Clean Bandit,smart-speaker-fr-far,1125.wav
+485,"['ʒ', 'ə', 'b̞', 'ɛ', 'd', 'iː', 'lʲ', 'ɪ', 't͡ʃʲ', 't', 'ʊ', 'n', 'ə', 'w', 'a', 'ɾ']",8,PlayMusic,je veux écouter Rich Homie Quan,smart-speaker-fr-far,1089.wav
+486,"['ə', 'ts', 'ɪ', 'a', 'ә', 'm', 'ɔ', 'z', 'ɔ', 'ɪ', 'ɟ', 'a']",8,PlayMusic,je veux écouter La Combo Tortuga,smart-speaker-fr-far,764.wav
+487,"['ʒ', 'ə', 'ɛ', 'o', 'tɕ', 'iː', 'n', 'ə', 'm', 'ɪ', 'l', 'ɪ', 'm', 'ɛ']",8,PlayMusic,je veux écouter The Lumineers,smart-speaker-fr-far,1088.wav
+488,"['ʒ', 'ə', 'ɪ', 'n', 'iː', 'm', 'ɔ']",8,PlayMusic,je veux écouter Kemzo,smart-speaker-fr-far,11.wav
+489,"['ʒ', 'ə', 'b̞', 'ə', 'ɪ', 'a', 'i']",8,PlayMusic,je veux écouter Salim,smart-speaker-fr-far,10.wav
+490,"['ɪ', 'ʒ', 'ə', 'b̞', 'ɪ', 'ʒ', 'ɪ', 'dʲ', 'ɪ', 'iː', 'n', 'a', 'ʂ', 'a']",8,PlayMusic,je veux écouter Barasuara,smart-speaker-fr-far,13.wav
+491,"['ʒ', 'ə', 'm', 'ɛ', 'ә', 'ts', 'ɪ', 'iː', 'v', 'a']",8,PlayMusic,je veux écouter Ifani,smart-speaker-fr-far,12.wav
+492,"['ʒ', 'ə', 'ʁ', 'ɛ', 'ts', 'ð']",8,PlayMusic,je veux écouter Billie,smart-speaker-fr-far,15.wav
+493,"['ʒ', 'ə', 'b̞', 'ɪ', 'u', 'tɕ', 'ɪ', 'uə', 'n', 'i', 'a', 'p', 'ɪ', 's̪', 'a']",8,PlayMusic,je veux écouter Tue & Tony På P3,smart-speaker-fr-far,14.wav
+494,"['ʒ', 'ə', 'm', 'ɪ', 'y', 'lʲ', 'iː', 'l', 'a', 'tɕ', 'i', 'ʌ']",8,PlayMusic,je veux écouter Laki Lan,smart-speaker-fr-far,17.wav
+495,"['ʒ', 'ə', 'm', 'ɪ', 'dʲ', 'iː', 'ð', 'ɪ', 'n', 'e']",8,PlayMusic,je veux écouter DJDS,smart-speaker-fr-far,16.wav
+496,"['ʒ', 'ə', 'b̞', 'ɛ', 'tʲ', 'ɪ', 'i', 'm', 'iː', 'ð', 'a']",8,PlayMusic,je veux écouter Eddie Meduza,smart-speaker-fr-far,19.wav
+497,"['ʒ', 'ə', 'm', 'ɛ', 'ts', 'iː', 'm', 'a', 'æ']",8,PlayMusic,je veux écouter Manu-L,smart-speaker-fr-far,18.wav
+498,"['ɪ', 't', 'u', 'n', 'ɪ', 'iː', 'm', 'iː', 'a']",8,PlayMusic,je veux écouter Henrique & Juliano,smart-speaker-fr-far,863.wav
+499,"['ə', 'ɪ', 's', 'u', 'ɪ', 'ɯ', 'ɟ', 'a', 'k', 'ɪ', 'ɔ', 'a']",8,PlayMusic,je veux écouter Gente De Zona,smart-speaker-fr-far,862.wav
+500,"['ʒ', 'ʐ', 'ə', 'v', 'ɪ', 'ð', 'ɪ', 'f', 'ʊ', 'ŋ̟']",8,PlayMusic,je veux écouter JP Cooper,smart-speaker-fr-far,865.wav
+501,"['ʒ', 'ə', 'm', 'ʏ', 'ɪ', 'ʊ', 'ð', 'ɪ', 'd', 'iː', 'ɔ', 'b', 'a', 't', 'a', 'ð', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter X Ambassadors,smart-speaker-fr-far,864.wav
+502,"['ʒ', 'ə', 'ɪ', 'pʲ', 'ɪ', 'ts', 'ɪ', 'ɡ', 'k̟ʲ', 'ɪ', 'ʁ', 'ɛ']",8,PlayMusic,je veux écouter Trippie Redd,smart-speaker-fr-far,867.wav
+503,"['ʒ', 'ə', 'b', 'uə', 'ɛ', 'ɪ', 'tʂ', 'iː', 'p', 'a', 'x', 't', 'iː', 'n', 'ɪ', 'ɡ', 'œ', 'ɾ']",8,PlayMusic,je veux écouter PARTYNEXTDOOR,smart-speaker-fr-far,866.wav
+504,"['ʒ', 'ɪ', 'lʲ', 'iː', 'zʲ', 'e', 'a', 'ɪ', 'l', 'a', 'ð', 'a']",8,PlayMusic,je veux écouter Sfera Ebbasta,smart-speaker-fr-far,884.wav
+505,"['t', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Maty Noyes,smart-speaker-fr-far,938.wav
+506,"['h', 'm', 'ə', 'ɛ', 't', 'ɛ', 'a', 'n', 'i', 'ɕ', 'i', 'g', 'ɔ', 'ɾ', 'ә', 'n']",8,PlayMusic,je veux écouter MC Gury,smart-speaker-fr-far,659.wav
+507,"['pʲ', 'iː', 's', 'ɪ', 'ɾ', 'iː', 'm', 'ɛ', 'l', 'i', 's', 'ə', 'ɪ']",8,PlayMusic,je veux écouter Miley Cyrus,smart-speaker-fr-far,883.wav
+508,"['d', 'ə', 'm', 'œ', 'ɯ', 'dʲ', 'iː', 'ʒ', 'ɒ', 'ʁ', 'e', 'ɾ', 'y']",8,PlayMusic,je veux écouter Jaymes Reunion,smart-speaker-fr-far,753.wav
+509,"['ʒ', 'ə', 'v', 'ʏ', 'v', 'ɪ', 'ʒ', 'a', 'ɪ', 'm', 'a', 'ɒ']",8,PlayMusic,je veux écouter Jeremih,smart-speaker-fr-far,881.wav
+510,"['ʁ', 'iː', 'n', 'ɪ', 's', 'iː', 'n', 'a', 'ʂ', 'a', 'm', 'ɛ', 'ʁ', 'ɔ']",8,PlayMusic,je veux écouter Nacho,smart-speaker-fr-far,880.wav
+511,"['d', 'iː', 'ɪ', 'ts', 'ɪ', 'f', 'i']",8,PlayMusic,je veux écouter Flume,smart-speaker-fr-far,887.wav
+512,"['ʐ', 'ə', 'ɪ', 's', 'a', 'ʃ', 'i', 's̪', 'u']",8,PlayMusic,je veux écouter Diplo,smart-speaker-fr-far,831.wav
+513,"['ʒ', 'ə', 'ɪ', 'd', 'iː', 'a', 'i', 'm']",8,PlayMusic,je veux écouter Maren Morris,smart-speaker-fr-far,885.wav
+514,"['m', 'u', 'ɪ', 's', 'iː', 'n', 'tʲ', 'ɪ', 'k', 'a', 'ŋ', 'j', 'a']",8,PlayMusic,je veux écouter Tangga,smart-speaker-fr-far,752.wav
+515,"['ʏ', 'b̞', 'ɪ', 's', 'i', 'd', 'ɪ', 's̪', 'ɔ', 'iː', 'l', 'a', 'd', 'ɛ']",8,PlayMusic,je veux écouter Tory Lanez,smart-speaker-fr-far,928.wav
+516,"['iː', 'ʒ', 'ə', 'b̞', 'œ', 'z', 'ɪ', 'ɡ', 'ә', 'pʲ', 'ɪ', 'ʃ', 'ɔ']",8,PlayMusic,je veux écouter JOHS,smart-speaker-fr-far,62.wav
+517,"['tʂ', 'ʒ', 'ə', 'b̞', 'ɪ', 'ɴ', 'iː', 'ɪ', 'ɛ']",8,PlayMusic,je veux écouter NF,smart-speaker-fr-far,888.wav
+518,"['ʒ', 'ə', 'ʁ', 'ɪ', 'ts', 'ə', 'v', 'iː', 'h', 'a', 'n', 'ɪ']",8,PlayMusic,je veux écouter BIA,smart-speaker-fr-far,1012.wav
+519,"['ʒ', 'ə', 'ɪ', 'iː', 'pʲ', 'ɪ', 'a', 'm', 'ɛ', 'tʲ', 'uː']",8,PlayMusic,je veux écouter Almighty,smart-speaker-fr-far,1032.wav
+520,"['ʒ', 'ə', 'l', 'ə', 'tʂ', 'e', 'ð', 'a', 'ʁ', 'ɪ', 'w', 'a']",8,PlayMusic,je veux écouter Don Omar,smart-speaker-fr-far,950.wav
+521,"['ʒ', 'ə', 'v̞ʲ', 'ɪ', 'v', 'iː', 'a', 'b', 'j', 'a']",8,PlayMusic,je veux écouter Sabyan,smart-speaker-fr-far,756.wav
+522,"['l', 'ɪ', 'v', 'iː', 'dʲ', 'iː', 'z', 'a', 'm', 'a', 'ð', 'a', 'ð']",8,PlayMusic,je veux écouter Dan Caplen,smart-speaker-fr-far,929.wav
+523,"['ʒ', 'ə', 'v', 'y', 'k', 'ʊ', 'n', 't', 'e', 'ʁ', 'a', 'lʲ', 'i', 'ʃ', 'uː', 'm', 'ɾ', 'a', 'b̞', 'uə']",8,PlayMusic,je veux écouter Rae Sremmurd,smart-speaker-fr-far,809.wav
+524,"['ʒ', 'i', 'lʲ', 'ɪ', 'ʒ', 'ɾ', 'ə', 'dʲ', 'iː', 'ɡ', 'ɪ', 'ɔ', 'f', 'ɔ', 't', 'a']",8,PlayMusic,je veux écouter Dodo,smart-speaker-fr-far,1128.wav
+525,"['ʒ', 'ʏ', 'ə', 'ɪ', 't̪ʰ', 'ɛ', 'pʲ', 'ɛ', 'ʁ', 'n', 'b̞', 'ɔ', 'ʁ', 's̪']",8,PlayMusic,je veux écouter Bernhoft,smart-speaker-fr-far,323.wav
+526,"['ʒ', 'ə', 'm', 'ə', 'd', 'ɪ', 'i', 'n', 'ɛ', 'tʂ', 'uə', 't', 'ɔ', 'ə', 'p', 'ɔ', 's', 'a', 't', 'ɪ']",8,PlayMusic,je veux écouter Xutos & Pontapés,smart-speaker-fr-far,320.wav
+527,"['ʒ', 'ə', 'n', 'ə', 'ɪ', 'ð', 'iː', 'tɕ', 'i', 'tɕ']",8,PlayMusic,je veux écouter TripL,smart-speaker-fr-far,321.wav
+528,"['ʒ', 'ə', 'ð', 'ə', 'ɡ', 'ɪ', 'ә', 't', 'ɛ', 'g', 'l', 'ɪ']",8,PlayMusic,je veux écouter GRiZ,smart-speaker-fr-far,326.wav
+529,"['t', 'ʏ', 'ð', 'ɪ', 'u', 'ð', 'ɛ', 'k̟ʲ', 'ɛ', 'b̞', 'a']",8,PlayMusic,je veux écouter Kaíva,smart-speaker-fr-far,327.wav
+530,"['ʒ', 'ə', 'v', 'ə', 'pʲ', 'ɪ', 'ɡ', 'u', 'dʲ', 'e', 'd͡ʒ', 'a', 'tɕ', 'j', 'a']",8,PlayMusic,je veux écouter Georgia,smart-speaker-fr-far,324.wav
+531,"['ʒ', 'ə', 'd', 'iː', 'u', 'pʲ', 'e', 'm', 'ɪ', 's̪', 'ɒ', 'ә', 'l', 'ɛ', 'ʃ']",8,PlayMusic,je veux écouter Leyton Lake,smart-speaker-fr-far,325.wav
+532,['ɪ'],8,PlayMusic,je veux écouter Phénomène Bizness,smart-speaker-fr-far,328.wav
+533,"['ɪ', 'd', 'ɪ', 'a', 'ɴ', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Andy Milonakis,smart-speaker-fr-far,329.wav
+534,"['ʒ', 'ə', 'ɪ', 'k', 'ɔ', 'pʲ', 'ɪ', 'm', 'a', 'k', 'ɔ']",8,PlayMusic,je veux écouter Macaco,smart-speaker-fr-far,759.wav
+535,"['ʂ', 'ɨ', 'ʌ', 'j', 'i', 'ɛ', 'tɕ', 'j', 'i', 't͡ɕ', 'j', 'i', 'e', 'm', 'u', 'ɴ', 'j', 'e', 't͡ɕ', 'ɒ', 'n', 'ʔ', 'iː', 's', 'j', 'i', 'r', 'ɒ', 'g', 'ә', 'ʂ', 'ә']",8,PlayMusic,je veux écouter Emir Can İğrek,smart-speaker-fr-far,201.wav
+536,"['ʒ', 'ə', 'ð', 'ə', 'ð', 'ɪ', 'u', 'd', 'ɪ', 'pʲ', 'ɛ', 'tɕ', 'i', 'f', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Kaitie Forbes,smart-speaker-fr-far,200.wav
+537,"['ʒ', 'w', 'a', 'iː', 'tɕ', 'ɪ', 'k', 'ɔ', 'ɾ', 'ʁ', 'ɛ', 'tɕ', 'ɪ', 'pʲ', 'ɛ', 'uə']",8,PlayMusic,je veux écouter GAMPER & DADONI,smart-speaker-fr-far,203.wav
+538,"['t͡ʃʲ', 'ə', 'ɾ', 'ð', 'ɪ', 'ɾʲ', 'ɪ', 't', 'e', 'y', 'a', 'tʲ', 'ɪ', 'tɕ', 'a', 'm', 'e', 's', 'n', 'a', 'ʁ', 'ʌ']",8,PlayMusic,je veux écouter Maricarmen Marin,smart-speaker-fr-far,202.wav
+539,"['t͡ʃʲ', 'ʌ', 'ɪ', 'tʲ', 'k', 'ɪ', 'ɕ', 'ɪ', 'ɕ', 'ɪ']",8,PlayMusic,je veux écouter Seeed,smart-speaker-fr-far,205.wav
+540,"['ʃ', 'ʌ', 'ʁ', 'ɒ', 'tʲ', 'ɪ', 'k', 'ʌ', 's', 'ɪ', 'w', 'a', 'ɒ', 't', 'a', 'ɪ', 'uə', 's', 'ɪ']",8,PlayMusic,je veux écouter Maycon e Vinicius,smart-speaker-fr-far,204.wav
+541,"['ʒ', 'ə', 'ɪ', 'tɕ', 'ɪ', 'x', 'ɪ', 's']",8,PlayMusic,je veux écouter Nick Murphy,smart-speaker-fr-far,207.wav
+542,"['ʒ', 'ɛ', 'ɾ', 'm', 'ɛ', 'tɕ', 'ɪ', 'ʁ', 'ɛ', 'k', 'iː', 'ð', 'ɪ', 'm', 'a', 'tɕ', 'i', 'x', 'ʊ']",8,PlayMusic,je veux écouter Enrico Ruggeri,smart-speaker-fr-far,206.wav
+543,"['u', 'ɪ', 'u', 'iː', 'ts', 'iː', 'l', 'ɪ', 'k', 'a', 'ɔ', 'l', 'a']",8,PlayMusic,je veux écouter Teresa Brewer,smart-speaker-fr-far,209.wav
+544,"['ts', 'ə', 'ɪ', 't͡ʃʲ', 's', 'a', 'ʂ', 'ɻ̩', 'ɪ', 's', 'a']",8,PlayMusic,je veux écouter Adventure Club,smart-speaker-fr-far,208.wav
+545,"['k', 'ʒ', 'ə', 'v', 'ə', 'n', 'ɛ', 'ә', 'ð', 'ɛ', 'tʂ', 'ʒ', 'ɻ̩', 'ɡ', 'iː', 'ð', 'ɪ']",8,PlayMusic,je veux écouter G-Eazy,smart-speaker-fr-far,779.wav
+546,"['ʒ', 'ə', 'ð', 'ɪ', 'n', 'e', 'ɡ', 'i', 'w', 'a']",8,PlayMusic,je veux écouter Kanye West,smart-speaker-fr-far,778.wav
+547,"['ɪ', 'd͡ʒ', 'a', 'k', 'iː']",8,PlayMusic,je veux écouter Jack Ü,smart-speaker-fr-far,889.wav
+548,"['v', 'ɪ', 'd', 'iː', 'p', 'o', 'ɪ', 'a', 't', 'ɔ', 'n']",8,PlayMusic,je veux écouter Köyhä Jonne,smart-speaker-fr-far,77.wav
+549,"['ts', 'ɪ', 's', 't', 'iː', 'pʲ', 'ɪ', 'x', 'ɛ', 'l', 'ɪ', 's', 't', 'ɹ̩']",8,PlayMusic,je veux écouter Heinis,smart-speaker-fr-far,76.wav
+550,"['l', 'ɪ', 'm', 'ɪ', 'ts', 'i', 'n', 'ɪ', 'x', 'a', 'ʊ', 'ɕ', 'ɪ', 't', 'ɤ']",8,PlayMusic,je veux écouter some chick,smart-speaker-fr-far,75.wav
+551,"['d', 'ɪ', 'm', 'ɪ', 'iː', 'ɛ', 'a', 'l', 'm', 'a', 'ʁ', 'ɒ', 'uə']",8,PlayMusic,je veux écouter Anne Marie,smart-speaker-fr-far,74.wav
+552,"['ə', 'b', 'u', 'lʲ', 'ɪ', 'iː']",8,PlayMusic,je veux écouter Beckie,smart-speaker-fr-far,73.wav
+553,"['ə', 'u', 'm', 'iː', 'x', 'ɔ', 'v', 'iː', 'n', 'a']",8,PlayMusic,je veux écouter 100 Kila,smart-speaker-fr-far,72.wav
+554,"['ə', 'l', 'ɪ', 'u', 'd', 'iː', 'ɕ', 'ɔ', 'ɪ', 't', 'a']",8,PlayMusic,je veux écouter Sharifah Aini,smart-speaker-fr-far,71.wav
+555,"['ts', 'u', 'b̞', 'ɪ', 'u', 'b', 'ɪ', 'd', 'a', 'l', 'a', 'b', 'a']",8,PlayMusic,je veux écouter The Rembrandts,smart-speaker-fr-far,70.wav
+556,"['v', 'ɪ', 'm', 'ə', 'pʲ', 'ɛ', 'k', 'ɔ', 'pʲ', 'ɛ', 'f', 'i', 'l']",8,PlayMusic,je veux écouter Fyfe,smart-speaker-fr-far,655.wav
+557,"['b̞', 'ɪ', 'pʲ', 'ɛ', 'lʲ', 'a', 's', 'ɯ']",8,PlayMusic,je veux écouter Leipe Dennis,smart-speaker-fr-far,79.wav
+558,"['ɪ', 'n', 'ɪ', 'd', 'iː', 'ð', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter Tali,smart-speaker-fr-far,78.wav
+559,"['ʒ', 'ə', 'b̞', 'ɛ', 'ә', 'dʲ', 'ɪ', 'm', 'ɪ', 'ʒ', 'œ', 'ð']",8,PlayMusic,je veux écouter Nisj,smart-speaker-fr-far,2.wav
+560,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'ɪ', 'k', 'ɔ', 't', 'iː', 'd͡ʒ', 'ɛ', 'n', 'p', 'l', 'a', 'm', 't']",8,PlayMusic,je veux écouter James Blunt,smart-speaker-fr-far,1042.wav
+561,"['ʃ', 'ə', 'ɾ', 'ə', 'ts', 'ɪ', 'k', 'ʊ', 't', 'ə', 'a', 'd', 'ɪ', 't', 'ʁ', 'a', 'ð', 'ə']",8,PlayMusic,je veux écouter Andy Grammer,smart-speaker-fr-far,1041.wav
+562,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'ɪ', 'k', 'ɔ', 'pʲ', 'iː', 'ɡ', 'a', 'ɾ', 'i']",8,PlayMusic,je veux écouter Ghali,smart-speaker-fr-far,1040.wav
+563,"['ʒ', 'ə', 'n', 'd', 'ə', 'z', 'ɪ', 'k', 'm', 'uː', 'n', 't', 'tʲ', 'ə', 'l', 'a', 't͡ʃʲ', 'ɔ', 'ə', 't', 'a']",8,PlayMusic,je veux écouter Lary Over,smart-speaker-fr-far,1047.wav
+564,"['ɪ', 'ʒ', 'ə', 'ð', 'œ', 'z', 'ɪ', 'ɡ', 'ɪ', 't', 'ɪ', 'ʒ', 'uə', 'ɒ', 'ɾ', 't', 'a', 'tʲ', 'ɒ', 's̪', 'ts']",8,PlayMusic,je veux écouter Joel Adams,smart-speaker-fr-far,1043.wav
+565,"['ʒ', 'ə', 'v', 'ʏ', 'ɡ', 'uə', 't', 'ɪ', 'k̟ʲ', 'iː', 'l', 'i', 'ɟ', 'æ', 'n', 'ts']",8,PlayMusic,je veux écouter Kevin Gates,smart-speaker-fr-far,1045.wav
+566,"['ʂ', 'ə', 'v', 'œ', 'y', 'v', 'uə', 'ɴ', 'iː', 'v', 'iː', 'a', 'n', 'ɛ', 'l']",8,PlayMusic,je veux écouter PNL,smart-speaker-fr-far,1044.wav
+567,"['ʒ', 'ə', 'v', 'ə', 'ð', 'e', 'x', 'ә', 'pʲ', 'ɛ', 'd', 'uə', 'l', 't', 'a', 'b', 'ɔ', 'ð', 'ɪ', 'x', 'm', 'a']",8,PlayMusic,je veux écouter Gusttavo Lima,smart-speaker-fr-far,1049.wav
+568,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'ɪ', 'k', 'u', 't', 'ɛ', 'd', 'a', 'n', 'ɛ', 'l', 's', 'a', 'n', 'd', 'o', 'b̞', 'a', 'ɾ']",8,PlayMusic,je veux écouter Danelle Sandoval,smart-speaker-fr-far,1048.wav
+569,"['ʊ', 'd', 'a', 'ɔ', 't', 'ɪ', 'ɔ', 'ɻ̩', 'n', 'ɪ', 'ʒ', 'ɛ']",8,PlayMusic,je veux écouter Sean Paul,smart-speaker-fr-far,805.wav
+570,"['ʂ', 'ə', 'p', 'uə', 'ɪ', 'n', 'ɪ', 't', 'iː', 'a', 'ɪ', 'd͡ʒ̤', 'a']",8,PlayMusic,je veux écouter Daya,smart-speaker-fr-far,804.wav
+571,"['ʒ', 'ə', 'b̞', 'ɛ', 'n', 'pʲ', 'e', 'l', 'iː']",8,PlayMusic,je veux écouter Eneli,smart-speaker-fr-far,669.wav
+572,"['ʒ', 'ə', 'ɛ', 'n', 'tʂ', 'iː', 'j', 'ɛ', 'a', 'k̟ʲ', 'ɛ']",8,PlayMusic,je veux écouter Michael Patrick Kelly,smart-speaker-fr-far,668.wav
+573,"['ə', 'k', 'iː', 'j', 'ɛ', 'ɒ', 'd', 'a', 'ә', 'm', 'a', 'm', 'iː', 'ɛ']",8,PlayMusic,je veux écouter AmsterdamSoundSystem,smart-speaker-fr-far,667.wav
+574,"['tʂ', 'ə', 'm', 'iː', 'n', 'iː']",8,PlayMusic,je veux écouter SAVEUS,smart-speaker-fr-far,666.wav
+575,"['tʂ', 'ʌ', 'ʂ', 'ɻ̩', 'm', 'iː', 'tɕ', 'ɪ', 'm', 'a', 'ʁ', 'ɪ', 'ɾ', 'e', 's', 'ɪ', 'a']",8,PlayMusic,je veux écouter Jorge Drexler,smart-speaker-fr-far,665.wav
+576,"['tʂ', 'ɻ̩', 'v', 'ɾʲ', 'ɪ', 'ɡ', 'y', 'tɕ', 'iː', 'p', 'a', 'b̞', 'ʁ', 'ɪ']",8,PlayMusic,je veux écouter Favorite,smart-speaker-fr-far,664.wav
+577,"['tʂ', 'ə', 'v̞ʲ', 'ɪ', 'iː', 'tʲ', 'iː', 'lʲ', 'iː', 'p', 'a', 'ʁ', 'x', 'm', 'ʌ', 'k', 'a', 'ɾ', 'd', 'ɛ']",8,PlayMusic,je veux écouter Spark Master Tape,smart-speaker-fr-far,663.wav
+578,"['v', 'ə', 'm', 'ə', 'ɪ', 'u', 't', 'e', 'tʂ', 'ɛ', 'l', 'ð', 'ɛ', 'ɾ', 't', 'a', 'b', 'uə', 'ɕ', 'e']",8,PlayMusic,je veux écouter Jason Anousheh,smart-speaker-fr-far,662.wav
+579,"['ʒ', 'ə', 'v', 'ɪ', 'v', 'e', 'ә', 't', 'ɛ', 'm', 'i', 'ð', 'ʌ']",8,PlayMusic,je veux écouter LIZOT,smart-speaker-fr-far,661.wav
+580,"['m', 'ɨ', 'ɛ', 's', 't', 'ɛ', 't', 'ɛ', 'ts', 'a', 'n', 'ɪ', 'ts', 'i', 'ә']",8,PlayMusic,je veux écouter Samy Ceezy,smart-speaker-fr-far,660.wav
+581,"['ts', 'ɪ', 'm', 'ɪ', 'm', 'tɕ', 'ɛ', 'ʁ', 'k̟ʲ', 'iː', 'l', 's', 'a', 'ɾ', 'a']",8,PlayMusic,je veux écouter RykkinnFella,smart-speaker-fr-far,769.wav
+582,"['tʂ', 'ə', 'b̞', 'ɪ', 'ә', 'tʲ', 'iː', 'n', 'ɔ', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Motive,smart-speaker-fr-far,692.wav
+583,"['tʂ', 'ə', 'b̞', 'ɪ', 'ɡ', 'tʲ', 'ɛ', 'n', 'ɡ', 'iː']",8,PlayMusic,je veux écouter Ruby,smart-speaker-fr-far,693.wav
+584,"['tʂ', 'ə', 'ʁ', 'ɪ', 'dʲ', 'ɪ', 'iː', 'm', 'a', 'p', 'a', 'ɾ']",8,PlayMusic,je veux écouter Petra,smart-speaker-fr-far,690.wav
+585,"['ʒ', 'ə', 'ð', 'ɪ', 'iː', 'a', 's', 'a']",8,PlayMusic,je veux écouter AKSAN,smart-speaker-fr-far,691.wav
+586,"['tʂ', 'ə', 'm', 'ɪ', 'n', 'v', 'ɪ', 'x', 'a']",8,PlayMusic,je veux écouter Misha,smart-speaker-fr-far,696.wav
+587,"['iː', 'b̤', 'ɪ', 'iː', 'tɕ', 'j', 'ɛ', 'ɡ', 'o', 's', 'ә']",8,PlayMusic,je veux écouter Rosana,smart-speaker-fr-far,697.wav
+588,"['tʂ', 'ə', 'b̞', 'ɛ', 'ә', 't', 'ɛ', 'ɡ', 'ɪ']",8,PlayMusic,je veux écouter GNG,smart-speaker-fr-far,694.wav
+589,"['a', 't͡ʃʲ', 'ɻ̩', 'b̞', 'ɪ', 'y', 'd', 'iː', 'lʲ', 'ɪ', 'tɕ', 'i']",8,PlayMusic,je veux écouter Tepki,smart-speaker-fr-far,695.wav
+590,"['ʒ', 'ə', 'b̞', 'ɪ', 'k', 'u', 'tɕ', 'iː', 's', 'a', 'lʲ', 'ɛ', 'tɕ', 'ɪ', 'b̞', 'a', 'l', 'ә']",8,PlayMusic,je veux écouter Tanya Stephens,smart-speaker-fr-far,698.wav
+591,"['t͡ʃʲ', 'ə', 'lʲ', 'ɪ', 'iː', 'dʲ', 'ɪ', 'a', 's', 'ɪ', 'ɔ', 'ә']",8,PlayMusic,je veux écouter Rachel Liang,smart-speaker-fr-far,699.wav
+592,"['ʃ', 'ə', 'ts', 'ɪ', 'tʲ', 'iː', 'v', 'ɔ']",8,PlayMusic,je veux écouter WOS,smart-speaker-fr-far,542.wav
+593,"['ʒ', 'ə', 'ʁ', 'ɪ', 'ð', 'ɪ', 'm', 'iː']",8,PlayMusic,je veux écouter Mudimbi,smart-speaker-fr-far,543.wav
+594,"['n', 'ə', 'ɪ', 'ɔ', 'lʲ', 'iː', 'ð', 'a', 'd']",8,PlayMusic,je veux écouter Hidra,smart-speaker-fr-far,540.wav
+595,"['ts', 'ɨ', 'ð', 'ɨ', 'ɛ', 'k', 'ɔ', 't', 'ɪ', 'a', 'ð', 'ɪ']",8,PlayMusic,je veux écouter Lazee,smart-speaker-fr-far,541.wav
+596,"['ʒ', 'ə', 'b̞', 'ɪ', 'ð', 'iː', 'd͡ʒ', 'ə', 'n', 'ɛ']",8,PlayMusic,je veux écouter John & Michel,smart-speaker-fr-far,546.wav
+597,"['ʒ', 'ə', 'm', 'ɪ', 'd', 'ɪ', 'ɔ', 'm', 'a', 'n', 'ɛ', 's', 't', 'ɒ', 'd', 'iː', 'ʒ']",8,PlayMusic,je veux écouter Tomas Andersson Wij,smart-speaker-fr-far,547.wav
+598,"['ɪ', 'ʀ', 'e', 'z', 'ʊ', 'n', 't', 'iː', 'ə', 'i', 'n', 'a', 'ʁ', 'ð', 'ə', 'ɾ', 'a']",8,PlayMusic,je veux écouter Enginarter,smart-speaker-fr-far,544.wav
+599,"['ʒ', 'ə', 'm', 'ɪ', 'l', 'd', 'ɪ', 'k', 'ʌ', 'ð', 'iː', 'a', 'k']",8,PlayMusic,je veux écouter Kob The X Factor,smart-speaker-fr-far,545.wav
+600,"['tʂ', 'ɨ', 'w', 'i', 'ʔ', 'u', 'tʂ', 'i', 'u', 's', 'i', 'r', 'ɒ', 'ɳ', 'ɒ', 't͡ɕ', 'i', 't͡ɕ', 'a']",8,PlayMusic,je veux écouter Joshua Radin,smart-speaker-fr-far,8.wav
+601,"['ʒ', 'ə', 'b̞', 'ɪ', 'ð', 'e', 'd', 'iː', 'ɕ', 'a', 'm', 'a', 'ʒ', 'ɛ', 'l', 'ʂ']",8,PlayMusic,je veux écouter Blixa Bargeld,smart-speaker-fr-far,548.wav
+602,"['ʒ', 'ə', 'ɪ', 'ð', 'iː', 'ʌ', 'ɔ', 'a', 'ɾ', 'ɹ̩', 's', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Sizarr,smart-speaker-fr-far,549.wav
+603,"['ɪ', 'ʒ', 'ə', 'v', 'ɪ', 'i', 'ɡ', 'u', 't', 'e', 'ɒ', 'ʁ', 'w', 'a', 'dʲ', 'ɪ']",8,PlayMusic,je veux écouter at Wendys,smart-speaker-fr-far,68.wav
+604,"['ʃ', 'ə', 'l', 'ɪ', 'x', 'd', 'e', 'k', 'a', 'ð', 'ɪ', 'x']",8,PlayMusic,je veux écouter K.A.R.D,smart-speaker-fr-far,598.wav
+605,"['i', 'n', 'ɪ', 'iː']",8,PlayMusic,je veux écouter Fall Out Boy,smart-speaker-fr-far,995.wav
+606,"['ʒ', 'ə', 'w', 'a', 'ʒ', 'ɪ', 'ɡ', 'ʌ', 'dʲ', 'e', 'ð', 'uə', 'ɴ', 'j', 'iː']",8,PlayMusic,je veux écouter Hozier,smart-speaker-fr-far,869.wav
+607,"['ʒ', 'ə', 'l', 'iː', 'f', 'ɔ', 'n', 't', 'iː', 'ə', 'pʲ', 'ɪ', 'tɕʰ', 'j', 'ɾ', 'ɔ']",8,PlayMusic,je veux écouter Brytiago,smart-speaker-fr-far,997.wav
+608,"['t͡ʃʲ', 'ə', 'ts', 'ɪ', 's', 'a', 'm', 'a', 'x']",8,PlayMusic,je veux écouter Aminé,smart-speaker-fr-far,996.wav
+609,"['a', 'k', 'ɾ', 'ʏ', 'ʁ', 'ɪ', 'ð', 'ə', 'n', 'ð', 'ɪ', 't͡ʃʲ', 'ɛ', 'ə', 'ɪ', 't͡ʃʲ', 'ɔ']",8,PlayMusic,je veux écouter Jesse & Joy,smart-speaker-fr-far,991.wav
+610,"['ʒ', 'ə', 'm', 'ɪ', 't', 'ɪ', 'tʲ', 'ɔ']",8,PlayMusic,je veux écouter Deorro,smart-speaker-fr-far,990.wav
+611,"['ʒ', 'ə', 'l', 'ə', 'lʲ', 'ɪ', 'x', 'ɛ', 't', 'ɛ', 'ɾ', 'ɒ', 'ɾ']",8,PlayMusic,je veux écouter Preme,smart-speaker-fr-far,993.wav
+612,"['ʒ', 'ə', 'ɪ', 'n', 'tɕ', 'ɛ', 'ʁ', 'a', 'ʊ', 's', 'n', 'ɪ', 'ð', 'ɛ']",8,PlayMusic,je veux écouter Carlos Vives,smart-speaker-fr-far,868.wav
+613,"['ʒ', 'ə', 'v', 'ə', 'a', 'pʲ', 'e', 'iː', 'ɕ', 'ɪ', 'n', 'ɪ', 'ʒ', 'i']",8,PlayMusic,je veux écouter Tinashe,smart-speaker-fr-far,999.wav
+614,"['ʒ', 'ə', 'l', 'ə', 'ts', 'ɪ', 'd', 'ə', 'm', 'ɪ', 'x', 'ɪ', 'g', 'ɔ']",8,PlayMusic,je veux écouter Luis Miguel,smart-speaker-fr-far,998.wav
+615,"['ts', 'u', 'b̞', 'a', 'ɪ', 'k', 'u', 'pʲ', 'iː', 'ʁ', 'a', 'ɪ', 'w']",8,PlayMusic,je veux écouter Raline,smart-speaker-fr-far,120.wav
+616,"['ts', 'ɔ', 'b', 'a', 'ɛ', 'k', 'u', 'tʲ', 'iː', 's̪', 'j', 'a', 'm', 'ɛ', 'iː']",8,PlayMusic,je veux écouter Pianomies,smart-speaker-fr-far,121.wav
+617,"['ts', 'ɪ', 'ð', 'ɔ', 'ɛ', 'k', 'u', 't', 'ɪ', 'a', 'ә', 'k', 'a', 'ʁ']",8,PlayMusic,je veux écouter Anh Khang,smart-speaker-fr-far,122.wav
+618,"['ts', 'ə', 'b̞', 'tʲ', 'ɪ', 'k', 'u', 'm', 'ɪ', 'b̞', 'a', 'm', 'i', 'm', 'a', 'k', 'ɔ', 'l', 'a', 'ɪ']",8,PlayMusic,je veux écouter Camila Queiroz,smart-speaker-fr-far,123.wav
+619,"['n', 'i', 'ð', 'ɔ', 'ɪ', 'ɔ', 'n', 'ɪ', 't', 'iː', 'w', 'a', 'ð', 'ɛ']",8,PlayMusic,je veux écouter Stu Larsen,smart-speaker-fr-far,124.wav
+620,"['ʊ', 'ʁ', 'ɔ', 'a', 't', 'ɪ', 'm', 'a', 'ʂ', 'ɻ̩', 'l', 'ɛ', 's', 'ɪ', 'x', 't']",8,PlayMusic,je veux écouter Saint Michel,smart-speaker-fr-far,125.wav
+621,"['ʒ', 'ə', 'n', 'iː', 'dʲ', 'ɪ', 'ә', 'tɕ', 'l', 'ɪ', 'ð', 'œ']",8,PlayMusic,je veux écouter Both,smart-speaker-fr-far,126.wav
+622,"['ʒ', 'ə', 'n', 'i', 'm', 'ɪ', 'm', 'a', 't', 'e', 'f', 'ɪ', 'ɡ', 'ə', 'lʲ', 'e', 'ɡ', 'ə', 'n', 'ɪ', 'ɾ', 'k', 'o', 'tʂʰ', 'ʁ', 'uː']",8,PlayMusic,je veux écouter Samuli Putro,smart-speaker-fr-far,127.wav
+623,"['ʒ', 'ə', 'n', 'ɪ', 'k', 'ә', 'pʲ', 'iː', 't', 'iː', 's', 'ɪ', 'n']",8,PlayMusic,je veux écouter Prins Póló,smart-speaker-fr-far,128.wav
+624,"['s', 'ə', 'l', 'ɪ', 'ts', 'iː', 'ɕː', 'iː', 'b̞', 'a', 'ð', 'ɪ', 'ð', 'ʌ']",8,PlayMusic,je veux écouter Chebaleba,smart-speaker-fr-far,129.wav
+625,"['ʐ', 'i', 'ʊ', 't', 'ə', 'ɪ', 'tʰ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Safri Duo,smart-speaker-fr-far,765.wav
+626,"['ɪ', 'b', 'a', 'ə', 's', 't', 'a', 's']",8,PlayMusic,je veux écouter Pabllo Vittar,smart-speaker-fr-far,1016.wav
+627,"['tɕ', 'uə', 'ʁ', 'ɪ', 'k', 'u', 'tʂ', 'e', 'd͡ʒ', 'ʌ', 'd', 'iː', 'j', 'a']",8,PlayMusic,je veux écouter Jon Bellion,smart-speaker-fr-far,1010.wav
+628,"['s', 'ɨ', 'b̤', 'i', 'k͡p̚', 'u', 't͡ɕ', 'i', 'tʂ', 'a', 'ɛ']",8,PlayMusic,je veux écouter Sky,smart-speaker-fr-far,1011.wav
+629,"['ʂ', 'ə', 'm', 'ɪ', 'tʲ', 'ɪ', 'n', 'tɕ', 'ɪ', 'ɕ', 'ɪ', 'a', 'm', 'ə', 'ɔ']",8,PlayMusic,je veux écouter Shadow Blow,smart-speaker-fr-far,414.wav
+630,"['ɪ', 'i', 'iː', 'a', 'ʊ', 'ɪ']",8,PlayMusic,je veux écouter Regula,smart-speaker-fr-far,415.wav
+631,"['ʒ', 'ə', 'k', 'ɪ', 'tɕ', 'ɕ', 'iː', 'ɪ', 'i', 'tɕ', 'ɪ']",8,PlayMusic,je veux écouter Akim And The Majistret,smart-speaker-fr-far,416.wav
+632,"['m', 'ɔ̃', 'ɕ', 'j', 'ɻ̩', 'ɪ', 's', 'a', 'd', 'ɪ', 'f', 'n', 'f', 'ɛ', 'a']",8,PlayMusic,je veux écouter Nabiha,smart-speaker-fr-far,417.wav
+633,"['t͡ʃʲ', 'ə', 'ð', 'ʏ', 'lʲ', 'ɛ', 'tʲ', 'iː', 'tʲ', 'ɛ', 't', 'ɔ', 'ʁ', 'uə', 'ɾ', 'ə', 's', 'ɪ']",8,PlayMusic,je veux écouter Cromo X,smart-speaker-fr-far,410.wav
+634,"['ʒ', 'ə', 'ɪ', 'tʲ', 'iː', 't', 'ɔ', 'tʲ', 'iː', 'm', 'a', 'ʁ', 'i', 't͡ɕ', 'a', 'p', 'a', 'ɾ']",8,PlayMusic,je veux écouter Marie Plassard,smart-speaker-fr-far,411.wav
+635,"['ʃ', 'ə', 'f', 'ɪ', 'tʲ', 'ɛ', 'ɪ', 'tʲ', 'ɪ', 's', 't', 'ʁ', 'a', 's', 'ɪ', 'h', 'a', 'n', 'ʁ', 'a', 'ɾ', 'ə', 'n', 'ɪ']",8,PlayMusic,je veux écouter Paloma Mami,smart-speaker-fr-far,412.wav
+636,"['ʒ', 'ə', 'ɪ', 'k', 'ʊ', 'a', 'd', 'iː', 'tɕʰ', 'iː']",8,PlayMusic,je veux écouter Davichi,smart-speaker-fr-far,413.wav
+637,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'ɪ', 'ɡ', 'u', 'ð', 'iː', 'ð', 'm', 'a', 'ʃ', 'ɪ', 'n', 'ɟ', 'ɾ', 'ɡ', 'e', 'ɾʲ', 'ɪ']",8,PlayMusic,je veux écouter Machine Gun Kelly,smart-speaker-fr-far,920.wav
+638,"['ʒ', 'ə', 'ts', 'ɪ', 'pʲ', 'iː', 'tʲ', 'ð', 'iː', 'tɕ', 'i', 'm', 'u', 'ɡ', 'iː', 'ɾ', 'uə', 'd͡ʒ', 'a', 'ʁ']",8,PlayMusic,je veux écouter Kymppilinja,smart-speaker-fr-far,498.wav
+639,"['ɨ', 'm', 'ɪ', 'm', 'ɛ']",8,PlayMusic,je veux écouter MNEK,smart-speaker-fr-far,922.wav
+640,"['t', 'uə', 'l', 'uː', 'm', 'iː', 'l', 'ə', 'uə', 'a', 'ɒ', 'ɛ', 'ә']",8,PlayMusic,je veux écouter Playboi Carti,smart-speaker-fr-far,923.wav
+641,"['ʒ', 'ə', 'ts', 'œ', 'ɪ', 'k', 'ɔ', 'pʲ', 'ɛ', 't', 'ɛ', 'ɾ', 'ɛ', 'x', 'i', 'n']",8,PlayMusic,je veux écouter TV Kids,smart-speaker-fr-far,418.wav
+642,"['ʒ', 'ə', 'ɾ', 'ə', 'pʲ', 'iː', 'k', 'a', 'ts', 'ɪ', 'iː', 'n', 't', 'a', 'f', 'ə', 'tɕ', 'j', 'ɪ', 'ʊ', 'ɾ', 'k', 'e', 'v', 'ɛ', 'k', 'a', 'lː', 'a', 'm', 'ɛ', 'ʂ', 'a']",8,PlayMusic,"je veux écouter Interpreti dello spettacolo ""Bella Ciao""",smart-speaker-fr-far,419.wav
+643,"['ʒ', 'ə', 'ts', 'ɪ', 'u', 'n', 'ɪ', 'lʲ', 'i', 'm', 'w', 'e']",8,PlayMusic,je veux écouter Lil Wayne,smart-speaker-fr-far,776.wav
+644,"['ʒ', 'ə', 'pʲ', 'ɪ', 'm', 'ә', 't', 'ɪ', 'zʲ', 'i', 'a', 'ts', 'uə', 'l', 'iː', 'ʃ', 'a', 'ts', 'uː', 'm', 'a', 'uə']",8,PlayMusic,je veux écouter Anthony Jasmin,smart-speaker-fr-far,499.wav
+645,"['ʒ', 'ə', 'm', 'ə', 'ɡ', 'ɪ', 'i', 't', 'ɛ', 'l', 'a', 'ɪ', 'a', 's', 't', 'ɛ', 'l', 'uː', 'ð']",8,PlayMusic,je veux écouter Lighthouse Family,smart-speaker-fr-far,319.wav
+646,"['ʒ', 'ə', 'v', 'ɪ', 'ts', 'ɪ', 'l', 'iː', 'b̞', 'a']",8,PlayMusic,je veux écouter Zyra,smart-speaker-fr-far,318.wav
+647,"['ʒ', 'ə', 'ʁ', 'ɪ', 'dʲ', 'iː', 'm', 'a', 'n', 'ɛ']",8,PlayMusic,je veux écouter Badem,smart-speaker-fr-far,313.wav
+648,"['tʂ', 'ə', 'v', 'ɪ', 'dʲ', 'iː', 'a', 'l', 'm', 'a', 'b̞', 'a']",8,PlayMusic,je veux écouter Alice Paba,smart-speaker-fr-far,312.wav
+649,"['ʒ', 'ə', 'b̞', 'e', 'd', 'ɪ', 'n', 'iː', 'x', 'ɔ', 'm', 'i', 'j', 'ɪ']",8,PlayMusic,je veux écouter Mikromusic,smart-speaker-fr-far,311.wav
+650,"['ts', 'ə', 'l', 'ɪ', 'tɕ', 'iː', 'm', 'a', 'ʁ', 'j', 'a', 'm', 'ɛ', 'ð', 'uə']",8,PlayMusic,je veux écouter Maria Hazell,smart-speaker-fr-far,310.wav
+651,"['ts', 'ɪ', 'ə', 'i', 'ə', 'n', 'ɪ', 'tʂ', 'ɔ', 'pʲ', 'ɪ', 'n', 'ɛ', 'tɕ', 'i', 's']",8,PlayMusic,je veux écouter TOR+ Saksit,smart-speaker-fr-far,317.wav
+652,"['tɕ', 'ə', 'l', 'lʲ', 'ɪ', 'ð', 'ə', 'ɴ', 'iː', 'm', 'i', 'ð', 'ʌ']",8,PlayMusic,je veux écouter Ryn Weaver,smart-speaker-fr-far,316.wav
+653,"['ʒ', 'ə', 'ð', 'ɪ', 'ɡ', 'pʲ', 'i', 'ɪ', 'm', 'ɟ', 'a', 'ʁ', 'ɔ']",8,PlayMusic,je veux écouter Young L.O.R.D.,smart-speaker-fr-far,315.wav
+654,"['t͡ʃʲ', 'ə', 'ʁ', 'ɪ', 'm', 'ɪ', 'iː', 'ɕ', 'a']",8,PlayMusic,je veux écouter Pixa,smart-speaker-fr-far,314.wav
+655,"['ts', 'u', 'ɪ', 'x', 'k', 'ɔ', 'tʂ', 'ə', 'b', 'ɔ', 'ɾ', 'ə', 'ɛ', 'ɒ', 's', 'i']",8,PlayMusic,je veux écouter Bonez MC,smart-speaker-fr-far,861.wav
+656,"['ʒ', 'ə', 'b̞', 'ə', 'z', 'ɪ', 'm', 'ð', 'ɪ', 'k', 'ɔ', 'ð', 'ɒ', 'a', 'ɕ', 'uə', 'ʌ']",8,PlayMusic,je veux écouter Conrad Sewell,smart-speaker-fr-far,921.wav
+657,"['ʒ', 'ə', 'v', 'ɛ', 'v', 'u', 'tʂ', 'e', 'tɕ', 'ɛ', 'z', 'a', 'ð', 'ɛ', 'ɔ']",8,PlayMusic,je veux écouter Jason Derulo,smart-speaker-fr-far,1126.wav
+658,"['ʒ', 'ə', 'm', 'ʏ', 'pʲ', 'iː', 's', 'ɪ', 't', 'ɪ', 'p', 'l', 'y', 'ts', 'ʊ']",8,PlayMusic,je veux écouter Plutónio,smart-speaker-fr-far,496.wav
+659,"['ʒ', 'ə', 'ɡ', 'u', 'ʁ', 'œ', 'd', 'ɪ', 'ɕ', 'i', 'm', 'a', 'ɡ', 'ɪ', 'a']",8,PlayMusic,je veux écouter Flo Rida,smart-speaker-fr-far,832.wav
+660,"['ɕ', 'y', 'd', 'a', 't͡ʃʲ', 'y', 'a', 'ʂ', 'ɛ']",8,PlayMusic,je veux écouter Arcangel,smart-speaker-fr-far,833.wav
+661,"['tɕ', 'ə', 'ɪ', 'ɕ', 'ə', 'm', 'ɛ', 's', 'i', 'n', 'ʂ', 'a', 'd', 'ə', 'a', 'ð']",8,PlayMusic,je veux écouter Natti Natasha,smart-speaker-fr-far,830.wav
+662,"['ʒ', 'ə', 'm', 'ə', 'ɪ', 'ɡ', 'ɪ', 'iː', 'tɕ', 'ɔ', 'ts', 'ə', 'b̞', 'a']",8,PlayMusic,je veux écouter Legião Urbana,smart-speaker-fr-far,497.wav
+663,"['ʒ', 'ɪ', 'ʊ', 'n', 'ɪ', 'a', 'ɪ', 't']",8,PlayMusic,je veux écouter Mike Posner,smart-speaker-fr-far,836.wav
+664,"['ɪ', 'tɕ', 'ɪ', 'm', 'a', 's', 'a']",8,PlayMusic,je veux écouter Macklemore,smart-speaker-fr-far,837.wav
+665,"['ʂ', 'ə', 'ð', 'ɪ', 'v', 'iː', 'k̟ʲ', 'ə', 'a']",8,PlayMusic,je veux écouter Lukas Graham,smart-speaker-fr-far,834.wav
+666,"['ʒ', 'ə', 'a', 'iː', 'ɪ', 'ɕ', 'ɪ', 'm', 'ɪ', 'ɕ', 'i', 'm', 'uə', 'ə', 'm', 'j', 'a', 'ð', 'ɒ']",8,PlayMusic,je veux écouter Willy William,smart-speaker-fr-far,835.wav
+667,"['ɪ', 'ʒ', 'ə', 'a', 'pʲ', 'iː', 'd', 'ɒ', 't͡ʃʲ', 'ɔ', 'z', 'ɪ', 'ʁ']",8,PlayMusic,je veux écouter Danny Ocean,smart-speaker-fr-far,838.wav
+668,"['ʒ', 'ə', 'ɪ', 'u', 'pʲ', 'iː', 'l', 'ɪ', 'a', 'ð', 'ɛ']",8,PlayMusic,je veux écouter Liam Payne,smart-speaker-fr-far,839.wav
+669,"['ʂ', 'ʏ', 'ɡ', 'm', 'ɪ', 'e', 't', 'a', 'o', 'b̞', 'a']",8,PlayMusic,je veux écouter Rita Ora,smart-speaker-fr-far,808.wav
+670,"['ʒ', 'ə', 'ð', 'ɪ', 'tʲ', 'ɛ', 'tɕʰ', 'i', 'm', 'ɛ', 'k', 'ɔ', 'ɛ', 'ʒ', 'i', 'k', 'ɔ', 'b', 'ʁ', 'uː']",8,PlayMusic,je veux écouter Kinokoteikoku,smart-speaker-fr-far,3.wav
+671,"['d', 'ə', 'œ', 'd', 'ɪ', 'k', 'a', 'tʰ', 'ʁ', 'v', 't', 'i', 'f', 'ʁ', 'i', 'd', 'ə', 'ɪ']",8,PlayMusic,je veux écouter 98º,smart-speaker-fr-far,725.wav
+672,"['ʃ', 'ɪ', 'd', 'ɪ', 'a', 't', 'z', 'ɔ', 'm', 'k', 'o', 'ʀ', 'ɔ', 't']",8,PlayMusic,je veux écouter Alejandro Vazquez,smart-speaker-fr-far,368.wav
+673,"['ts', 'ɛ', 's', 'ɪ', 't͡ʃʲ', 'i', 'tʲ', 'ʊ', 'd', 'iː', 'a', 'b̞', 'ɔ']",8,PlayMusic,je veux écouter Pedrito Vm,smart-speaker-fr-far,369.wav
+674,"['ʂ', 'ə', 'ɪ', 'tɕʰ', 'i', 'n', 'ɪ', 'v', 'ɪ', 'k', 'ɔ', 'a', 'ɾ']",8,PlayMusic,je veux écouter Willie Colón,smart-speaker-fr-far,366.wav
+675,"['ə', 'ɛ', 'k', 'ɔ', 't', 'ɪ', 'ɔ']",8,PlayMusic,je veux écouter Omulu,smart-speaker-fr-far,367.wav
+676,"['ʂ', 'ɻ̩', 'm', 'ɪ', 's', 'ɪ', 'ts', 'ɪ', 't͡ʃʲ', 'ɛ', 'ɔ', 't', 'ɪ']",8,PlayMusic,je veux écouter Jake Howden,smart-speaker-fr-far,364.wav
+677,"['ʒ', 'œ', 'b̞', 'ɪ', 'a', 'i', 'v', 'y', 'ɔ']",8,PlayMusic,je veux écouter Madeline Juno,smart-speaker-fr-far,365.wav
+678,"['ʒ', 'ʏ', 'b̞', 'œ', 'ɪ', 'ɛ', 'ʁ', 'ɛ', 'ʊ', 'k', 'uə', 'u']",8,PlayMusic,je veux écouter FDVM,smart-speaker-fr-far,362.wav
+679,"['ʂ', 'ə', 'm', 'ɪ', 't', 'e', 'ɡ', 'iː', 'x', 'ɛ']",8,PlayMusic,je veux écouter Bibio,smart-speaker-fr-far,363.wav
+680,"['a', 'ɪ', 'ə', 'lʲ', 'ɪ', 's', 'a', 'ɪ']",8,PlayMusic,je veux écouter Mauro Tejeiro,smart-speaker-fr-far,360.wav
+681,"['ʌ', 'i', 'tʂ', 'ʂ', 'ɻ̩', 'pʲ', 'a', 'ɾ', 'ɪ', 'n', 'ts', 'b̞', 'a', 'uə', 'a']",8,PlayMusic,je veux écouter The Tesca Country Clan,smart-speaker-fr-far,361.wav
+682,"['b', 'u', 'ɡ̤', 'e', 'dʲ', 'j', 'e', 's̪', 'u', 't̪', 'ɒ', 'p', 'ɒ', 'ʁ', 's', 'ɒ', 'n', 'ɛ', 'd͡ʒ', 'e']",8,PlayMusic,je veux écouter Parson James,smart-speaker-fr-far,959.wav
+683,"['s', 'ə', 'ʁ', 'ɪ', 'dʲ', 'iː', 'l', 'ə', 'm', 'ɛ', 'a', 'ʃ']",8,PlayMusic,je veux écouter Snakehips,smart-speaker-fr-far,952.wav
+684,"['ɪ', 'ts', 'ɪ', 'n', 'ɪ', 'z', 'ɪ', 'm', 'ɛ', 'v', 'ɪ', 'ʁ']",8,PlayMusic,je veux écouter Descemer Bueno,smart-speaker-fr-far,882.wav
+685,"['ɪ', 'ɔ']",8,PlayMusic,je veux écouter Philippe Heithier,smart-speaker-fr-far,380.wav
+686,"['ʒ', 'ə', 'm', 'ə', 'ts', 'ɪ', 'k', 'u', 'dʲ', 'e', 'k', 'a', 'ɾ', 's', 'iː']",8,PlayMusic,je veux écouter Cassie,smart-speaker-fr-far,381.wav
+687,"['ʒ', 'ə', 'v', 'ə', 'ts', 'ɪ', 'x', 'ɔ', 'm', 'dʲ', 'ɪ', 'ɾʲ', 'i', 'ɲ', 'a']",8,PlayMusic,je veux écouter Simian,smart-speaker-fr-far,382.wav
+688,"['ʒ', 'ə', 'v', 'ʏ', 'ts', 'iː', 'x', 'iː', 't', 'ɛ', 'k', 'iː', 'uə', 'l', 'a', 'ð', 'ɛ', 'ɳ', 'b', 'ɔ']",8,PlayMusic,je veux écouter Yo La Tengo,smart-speaker-fr-far,383.wav
+689,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'iː', 'y', 'pʲ', 'iː', 'g', 'a', 't͡ɕ', 'ɪ', 'x', 'p', 'a', 'ɾ', 'a', 'ɪ', 'n', 'tɕ', 'a', 'ð', 'a', 'uə', 'k']",8,PlayMusic,je veux écouter Gary Valenciano,smart-speaker-fr-far,384.wav
+690,"['ʒ', 'ə', 'v', 'uə', 'ts', 'i', 'k', 'u', 'tʲ', 'ɪ', 'k', 'u', 'ʁ', 'w', 'ɛ', 'ɾ', 'm', 'ɪ']",8,PlayMusic,je veux écouter Webb,smart-speaker-fr-far,385.wav
+691,"['ʒ', 'ə', 'ɡ', 'l', 'e', 'ɪ', 'θ', 'a', 'tʂ', 'o', 'ts', 'i', 'm', 'a', 'n', 'm', 'a', 'ɾ', 'ɛ', 'ɾ', 'ɔ', 'k', 'a', 'uə', 'a']",8,PlayMusic,je veux écouter Pato Siebenhaar,smart-speaker-fr-far,386.wav
+692,"['ʒ', 'ə', 'ts', 'ə', 'ts', 'ɪ', 'ð', 'ɪ', 'ə', 'a']",8,PlayMusic,je veux écouter Ayna,smart-speaker-fr-far,387.wav
+693,"['ʒ', 'ə', 'ð', 'ɪ', 'ʊ', 'ð', 'ɪ', 'ð', 'ɪ', 'ʁ', 'ɛ', 'ʌ']",8,PlayMusic,je veux écouter TY1,smart-speaker-fr-far,388.wav
+694,"['ʒ', 'ə', 'b̞', 'ə', 'z', 'ɪ', 'uə', 'ɴ', 'dʲ', 'iː', 'ts', 'a', 'ɾ', 'k', 'ɒ', 'ɾ']",8,PlayMusic,je veux écouter Sufle,smart-speaker-fr-far,389.wav
+695,"['ʒ', 'ə', 'l', 'ə', 'ɪ', 'ɔ', 'k', 'ɪ', 'l', 'a', 's̪', 't', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter Daft Punk,smart-speaker-fr-far,784.wav
+696,"['ʒ', 'ə', 'uə', 'tʂ', 'ɪ', 'tʲ', 'ɔ', 'a', 'l', 'a']",8,PlayMusic,je veux écouter Young Thug,smart-speaker-fr-far,785.wav
+697,"['ʒ', 'ə', 'ɪ', 'ɾʲ', 'e', 'd', 'iː', 'ɕː', 'ɻ̩']",8,PlayMusic,je veux écouter Big Sean,smart-speaker-fr-far,786.wav
+698,"['ʒ', 'ə', 'ʁ', 'uə', 'tʲ', 'e', 'm', 'ʃ', 'ɻ̩', 'a']",8,PlayMusic,je veux écouter Gucci Mane,smart-speaker-fr-far,787.wav
+699,"['ʒ', 'ə', 'v', 'ə', 'ð', 'ɪ', 'ɡ', 'u', 'ð', 'ɪ', 'd͡ʒ', 'ɔ', 'n', 'a', 'ð', 'l', 'ə', 'ɾ', 'ʁ']",8,PlayMusic,je veux écouter Jonas Blue,smart-speaker-fr-far,780.wav
+700,"['ʃ', 'ə', 'v', 'i', 'ʊ', 'dʲ', 'iː', 'b̞', 'iː', 'i', 'b̞', 'a', 'ʊ', 'ɾ']",8,PlayMusic,je veux écouter Fetty Wap,smart-speaker-fr-far,781.wav
+701,"['ʒ', 'ə', 'n', 'ʊ', 'pʲ', 'ɪ', 'tɕ', 'ɔ', 'ɪ', 'v', 'iː']",8,PlayMusic,je veux écouter Zion & Lennox,smart-speaker-fr-far,782.wav
+702,"['ʒ', 'ə', 'ɪ', 'tʲ', 'e', 'ɔ', 'm', 'i', 'n', 'ʃ', 'ʊ', 'ʒ']",8,PlayMusic,je veux écouter Robin Schulz,smart-speaker-fr-far,783.wav
+703,"['ʒ', 'ə', 'œ', 'ɔ', 'tʂ', 'e', 'd', 'iː', 't͡ʃʲ', 'e', 'ɴ', 'a', 'b̞', 'ɛ', 'ʊ', 'a']",8,PlayMusic,je veux écouter DJ Khaled,smart-speaker-fr-far,788.wav
+704,"['ʒ', 'ə', 'k', 'ɔ', 'tʲ', 'ɪ', 'i', 'k', 'uə', 'l', 'dʲ', 'i']",8,PlayMusic,je veux écouter Ellie Goulding,smart-speaker-fr-far,789.wav
+705,"['d', 'ə', 'ɪ', 'ts', 'ɪ', 'b', 'a', 's', 'k', 'a', 's̪', 'ɔ', 't', 'ʊ']",8,PlayMusic,je veux écouter Mark Ronson,smart-speaker-fr-far,860.wav
+706,"['ʒ', 'ɛ', 'ə', 'ɪ', 'x', 'ә', 'ts', 'ɪ', 'ɔ', 'ɪ', 'd', 'iː', 'v', 'a', 'n', 't', 'a', 'ʁ']",8,PlayMusic,je veux écouter Hotelli Vantaa,smart-speaker-fr-far,605.wav
+707,"['ʒ', 'ə', 'b̞', 'ə', 'ð', 'ɪ', 'ʊ', 'ð', 'ɪ', 'ʃ', 'i', 'ɾʲ', 'ɪ', 'n', 'd', 'a', 'v', 'ɪ']",8,PlayMusic,je veux écouter Shirin David,smart-speaker-fr-far,579.wav
+708,"['ʒ', 'ə', 'ɾ', 'ə', 'ð', 'ɪ', 'k', 'uə', 't', 'ɪ', 'a', 'm', 'a', 'ɴ', 'ә']",8,PlayMusic,je veux écouter Young Money,smart-speaker-fr-far,578.wav
+709,"['ʒ', 'ə', 'v', 'œ', 'ɪ', 'k', 'u', 't', 'ɛ', 'n', 'iː', 'j', 'b', 'ɛ', 'ʃ']",8,PlayMusic,je veux écouter Nils Bech,smart-speaker-fr-far,604.wav
+710,"['ʒ', 'ə', 'b̞', 'ə', 'lʲ', 'ɪ', 'ɡ', 'ð', 'ə', 'fʲ', 'ɛ', 'n', 'ɪ', 'ʂ', 'a']",8,PlayMusic,je veux écouter St. South,smart-speaker-fr-far,573.wav
+711,"['ʒ', 'ə', 'm', 'œ', 's', 'k', 'ɯ', 'pʲ', 'iː', 'ɪ', 'b', 'a', 'l', 'a', 'ɴ', 'a', 'm', 'ɪ', 'ɕ']",8,PlayMusic,je veux écouter BAD HABITS,smart-speaker-fr-far,571.wav
+712,"['ʒ', 'ə', 'm', 'ə', 'iː', 's', 'ɪ', 't', 'ɪ', 'd͡ʒ', 'a', 'ʂ', 'ɛ']",8,PlayMusic,je veux écouter Joyce Cheng,smart-speaker-fr-far,570.wav
+713,"['ʒ', 'ə', 'm', 'ə', 'ð', 'ɪ', 'k', 'uə', 't', 'ɛ', 't͡ʃʲ', 'ɛ', 'zʲ', 'ɪ', 'p', 'a', 't', 'ʁ', 'ə', 't͡ʃʲ', 'æ']",8,PlayMusic,je veux écouter Jd Pantoja,smart-speaker-fr-far,577.wav
+714,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'e', 'k', 'ɔ', 't', 'e', 'iː', 'k', 'a', 'p', 'a', 'ɾ', 'tɕ', 'iː', 'tɕ', 'iː', 'tɕ', 'iː', 'ɕ', 'i', 'k', 'ɯ', 'ɾ', 'uə']",8,PlayMusic,je veux écouter Kapasiteettiyksikkö,smart-speaker-fr-far,576.wav
+715,"['ʒ', 'ə', 'v', 'ʏ', 'd', 'ɪ', 'k', 'ɔ', 'ts', 'ɪ', 'z', 'ə', 'l', 'a', 'l', 'a', 'ts', 'iː', 'a', 'ʊ']",8,PlayMusic,je veux écouter The Panas,smart-speaker-fr-far,575.wav
+716,"['ʒ', 'ə', 'b̞', 'ɛ', 'z', 'ɪ', 'u', 'ð', 'iː', 'ɪ', 'b̞', 'ɪ', 'ʁ', 'ɛ', 'ʁ', 'a', 'm', 'uə']",8,PlayMusic,je veux écouter Ellie Drennan,smart-speaker-fr-far,574.wav
+717,"['ɪ', 'ʃ', 'ə', 'ɪ', 'z', 'i', 'k', 'ɪ', 'n', 'ð', 'ɪ', 's', 'a', 'p', 'ʁ', 'ɔ', 'ð', 's']",8,PlayMusic,je veux écouter Anfa Rose,smart-speaker-fr-far,60.wav
+718,"['ʒ', 'ə', 'v', 'ə', 'ts', 'ɪ', 'x', 'ʊ', 'n', 't', 'ə', 'a', 'b', 'o']",8,PlayMusic,je veux écouter Marango,smart-speaker-fr-far,61.wav
+719,"['ʒ', 'ə', 'ʁ', 'uə', 'iː', 'ɔ', 'tɕ', 'ɪ', 'iː', 'a', 'tʲ', 'ɒ', 'i']",8,PlayMusic,je veux écouter Eva Dahlgren,smart-speaker-fr-far,258.wav
+720,"['ʒ', 'ɛ', 'ɾ', 'ɒ', 'tɕ', 'ə', 'l', 'tɕ', 'ɪ', 'w', 'ɪ', 'a', 's']",8,PlayMusic,je veux écouter Ruusut,smart-speaker-fr-far,259.wav
+721,"['ʒ', 'ə', 'b̞', 'ɪ', 'k', 'uə', 't', 'iː', 'ɕː', 'a', 'ʁ', 'l', 'ɒ', 'd', 'ɔ', 'ʀ', 'a']",8,PlayMusic,je veux écouter Charlotte Lawrence,smart-speaker-fr-far,64.wav
+722,"['ʐ', 'ə', 'ð', 'ə', 'z', 'ɪ', 'ɡ', 'ð', 'ɪ', 't͡ʃʲ', 'ɛ', 'i', 'uə', 'a']",8,PlayMusic,je veux écouter Jai Wolf,smart-speaker-fr-far,65.wav
+723,"['ɪ', 'ʒ', 'ə', 'ɾ', 'ə', 'lʲ', 'ɪ', 'ɡ', 'u', 't', 'ɛ', 'lʲ', 'ʏ', 'ɡ', 'm', 'a', 'ә', 's', 'ɛ', 's̪']",8,PlayMusic,je veux écouter Luqman Faiz,smart-speaker-fr-far,66.wav
+724,"['ɪ', 'ʒ', 'ə', 'b̞', 'ə', 'z', 'e', 'dʲ', 'e', 'ɪ', 'k', 'n', 'a']",8,PlayMusic,je veux écouter Eric Nam,smart-speaker-fr-far,67.wav
+725,"['ɪ', 'ʒ', 'ə', 'v', 'ə', 'lʲ', 'ɪ', 'u', 'lʲ', 'ɪ', 'k', 'ɔ', 'ʁ', 'a', 'l', 'ә', 'g', 'ʁ', 'ʊ', 'ɡ']",8,PlayMusic,je veux écouter Coral Group,smart-speaker-fr-far,252.wav
+726,"['l', 'ə', 'm', 'ɪ', 'm', 'u', 'pʲ', 'iː', 'ð', 'a', 'k', 'ɪ', 'b̞', 'ɪ', 'ɾ', 'p', 'm', 'a', 't', 'uə', 'a']",8,PlayMusic,je veux écouter Jasmine Lefrancois,smart-speaker-fr-far,69.wav
+727,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'e', 'k', 'uə', 't', 'e', 'm', 'æ', 'k', 'ɔ']",8,PlayMusic,je veux écouter Meiko,smart-speaker-fr-far,250.wav
+728,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'ɪ', 'k', 'u', 't', 'ɪ', 'pʲ', 'ɛ', 'ɾ', 'ʁ']",8,PlayMusic,je veux écouter Berg,smart-speaker-fr-far,251.wav
+729,"['ʒ', 'ə', 'l', 'ɛ', 'tʲ', 'iː', 'tɕ', 'iː', 'd', 'l', 'ɤ', 'm', 'ɔ', 'ð', 'ɛ', 'uə', 'ʃ', 'ɪ', 's', 'uə', 'ɾ', 'ɪ']",8,PlayMusic,je veux écouter Los Rumberos,smart-speaker-fr-far,256.wav
+730,"['ʒ', 'iː', 'ɪ', 'u', 'ʁ', 'ɪ', 'm', 'a', 'm', 'uə']",8,PlayMusic,je veux écouter Malmö,smart-speaker-fr-far,1129.wav
+731,"['s̪', 'ʏ', 'j', 'e', 't͡ɕ', 'j', 'e', 'k', 'iː', 't͡ɕ', 'j', 'i', 'o', 't͡ɕ', 'j', 'e', 'j', 'a', 'ʁ', 'j', 'iː', 's', 'iː', 'ʃ', 'k', 'j', 'e', 'j', 'iː', 'a']",8,PlayMusic,je veux écouter Andrea Echeverri,smart-speaker-fr-far,254.wav
+732,"['ʒ', 'ə', 'ɪ', 'ʌ', 't', 'ɪ', 't', 'f', 'i', 'n', 'ɪ', 'ɕː']",8,PlayMusic,je veux écouter Timothy Auld,smart-speaker-fr-far,255.wav
+733,"['ɪ', 't', 'uː', 'ʊ', 'b̞', 'a', 'ts', 'a', 'z', 'ʊ', 'ɪ']",8,PlayMusic,je veux écouter Cesar Sampson,smart-speaker-fr-far,603.wav
+734,"['ʃ', 'ə', 'ɪ', 'ɾʲ', 'iː', 'ɕ', 'i', 'ɡ̤', 'ʁ', 'ʌ']",8,PlayMusic,je veux écouter Bianca Ryan,smart-speaker-fr-far,602.wav
+735,"['ts', 'ʊ', 'v', 'ɪ', 'k', 't', 'ɪ', 'x', 'a', 't', 'a', 'ʁ', 'ts', 'o', 'ɡ', 'ɪ', 't', 'ɛ', 's', 'a']",8,PlayMusic,je veux écouter SHY Martin,smart-speaker-fr-far,939.wav
+736,"['ʏ', 'lʲ', 'ɪ', 'x', 'ʊ', 'ɪ', 's', 't', 'a']",8,PlayMusic,je veux écouter D-Flame,smart-speaker-fr-far,731.wav
+737,"['u', 's', 'ɪ', 'ts', 'ɪ', 'ɕ', 'a', 'ɪ']",8,PlayMusic,je veux écouter G Herbo,smart-speaker-fr-far,730.wav
+738,"['ɪ', 'ɔ']",8,PlayMusic,je veux écouter K3,smart-speaker-fr-far,733.wav
+739,"['s', 'd͡ʒ̤', 'i', 's', 'ʊ', 'n', 'z', 'ɔ']",8,PlayMusic,je veux écouter Jón Jónsson,smart-speaker-fr-far,732.wav
+740,"['b̞', 'ɪ', 't', 'ɪ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Frances,smart-speaker-fr-far,735.wav
+741,"['s', 'ʃ', 'ə', 'ɪ', 'm', 'a', 'ts', 'u', 'a']",8,PlayMusic,je veux écouter Moneybagg Yo,smart-speaker-fr-far,734.wav
+742,"['ʒ', 'ə', 'm', 'ɪ', 'lʲ', 'ɪ', 'u', 't', 'e', 'm', 'ɪ', 'x', 'ɔ', 'l', 'a', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Nicolas Haelg,smart-speaker-fr-far,508.wav
+743,"['ʒ', 'ə', 'v', 'œ', 'ð', 'ɪ', 'u', 't', 'iː', 'v', 'iː', 'a', 'd', 'ʁ', 'ɔ', 'uə', 'ɕː', 'i']",8,PlayMusic,je veux écouter Lisandro Cuxi,smart-speaker-fr-far,509.wav
+744,"['ʒ', 'ə', 'ɾ', 'ə', 'z', 'i', 'k', 'ʊ', 'm', 'pʲ', 'ɛ', 'ts', 'ɔ', 'ɾ', 'ʃ', 'ʁ', 'a', 's', 't', 'ɛ', 'ɾ', 'ʌ', 's', 'ɒ']",8,PlayMusic,je veux écouter Sokrat ST,smart-speaker-fr-far,506.wav
+745,"['ʒ', 'ə', 'v', 'u', 'ts', 'ɪ', 'x', 'm', 'u', 'ɴ', 'pʲ', 'e', 'ð', 'iː', 's', 'a', 'l', 'ə', 'm', 'a', 'ʁ', 'j', 'ɔ', 'k', 'l', 'a', 'ɾ', 't', 'iː', 'k', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter El Mayor Clasico,smart-speaker-fr-far,507.wav
+746,"['ʒ', 'ə', 'ɾ', 'ə', 's', 'ɪ', 'k', 'iː', 'ə', 'a', 'l', 'a', 'l', 'ɪ', 'uə']",8,PlayMusic,je veux écouter Harlem Yu,smart-speaker-fr-far,504.wav
+747,"['ʒ', 'ə', 'm', 'u', 'z', 'ɪ', 'k', 'ʊ', 'pʲ', 'ɪ', 'v', 'ɪ', 'x', 't', 'ɔ', 'ʋ', 'n', 'ɔ', 'ʀ', 'ɛ']",8,PlayMusic,je veux écouter Viktor Norén,smart-speaker-fr-far,505.wav
+748,"['ʒ', 'ə', 'ɾ', 'u', 'z', 'ɪ', 'x', 'ɪ', 'ð', 'ɪ', 'ə', 'm', 'a', 'ɪ', 'ɡ', 'v', 'a', 'ɪ', 'ɾ', 'a', 'ɛ', 's̪', 'a', 'f']",8,PlayMusic,je veux écouter Mike Palace,smart-speaker-fr-far,502.wav
+749,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'ɪ', 'ɡ', 'iː', 'pʲ', 'ɪ', 'p', 'a', 's', 'œ', 'ʁ', 'p', 'l', 'a', 'ts']",8,PlayMusic,je veux écouter Afterklaps,smart-speaker-fr-far,503.wav
+750,"['ʒ', 'ə', 'm', 'œ', 'bʲ', 'iː', 's', 'iː', 'ɛ', 'ts', 'œ', 'n']",8,PlayMusic,je veux écouter Soni,smart-speaker-fr-far,500.wav
+751,"['ʒ', 'ə', 'ð', 'ə', 'ð', 'ɪ', 'ɡ', 'ɔ', 't', 'iː', 'd', 'ə', 'bʲ', 'ɪ', 'ʁ', 'ɒ', 'ɪ']",8,PlayMusic,je veux écouter Dayme y El High,smart-speaker-fr-far,501.wav
+752,"['iː', 'œ', 'ʊ', 't', 'ɪ', 'k̟ʲ', 'iː', 'd', 'ʊ', 'f', 'ɛ', 'n', 'ɛ']",8,PlayMusic,je veux écouter Tito Fernández,smart-speaker-fr-far,630.wav
+753,"['ʒ', 'ə', 'ts', 'œ', 'ð', 's', 'k͡p̚', 'uə', 'n', 'ɪ', 'v', 'iː']",8,PlayMusic,je veux écouter Yeezy,smart-speaker-fr-far,631.wav
+754,"['ɪ', 'm', 'ʏ', 'd', 'iː', 's', 'ə', 'ð', 'ɛ', 'n', 'i', 'a', 'ɪ', 's', 't', 'i', 'a', 'm', 'ɪ', 'n']",8,PlayMusic,je veux écouter Lilas ir Innomine,smart-speaker-fr-far,632.wav
+755,"['t', 'ts', 'ɪ', 'x', 'p']",8,PlayMusic,je veux écouter Mehdi,smart-speaker-fr-far,633.wav
+756,"['s', 'ɪ', 'k', 'iː', 'tɕ', 'œ', 'iː', 'ɛ', 'a']",8,PlayMusic,je veux écouter Robin Veela,smart-speaker-fr-far,469.wav
+757,"['ʒ', 'ə', 'lʲ', 'ɛ', 't', 'p', 'ɪ', 'k̟ʲ', 'ɪ']",8,PlayMusic,je veux écouter Bii,smart-speaker-fr-far,468.wav
+758,"['ʒ', 'ə', 'ʒ', 'ə', 'a']",8,PlayMusic,je veux écouter Joyba,smart-speaker-fr-far,636.wav
+759,"['ʒ', 'ə', 'ɪ', 'ɡ', 'iː', 'ʒ', 'ɛ', 'v', 'd', 'ɒ', 'ɔ']",8,PlayMusic,je veux écouter Jhay Cortez,smart-speaker-fr-far,637.wav
+760,"['ʔ', 'lʲ', 'iː', 'pʲ', 'ɛ', 'ɪ', 'l', 'a', 'd', 'ɨ']",8,PlayMusic,je veux écouter Clubbers,smart-speaker-fr-far,465.wav
+761,"['b', 'u', 'ɟ', 'j', 'e', 'iː', 't', 'ɒ', 'n', 's', 'i', 'j', 'iː', 'ɒ']",8,PlayMusic,je veux écouter NEW CITY,smart-speaker-fr-far,464.wav
+762,"['ɪ', 'v', 'ɛ', 't', 'a', 'ɾ', 'ɔ', 'ts', 'ɪ']",8,PlayMusic,je veux écouter Glass Animals,smart-speaker-fr-far,467.wav
+763,"['d', 'iː', 'n', 'ɛ', 'f', 'ɛ', 't', 'a', 'pʲ', 'ɛ', 'ʊ', 'tɕ', 'iː', 'l', 'ɡ', 'a', 'ɾ', 'ɔ', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter DJ Yayo,smart-speaker-fr-far,466.wav
+764,"['a', 'ɪ', 't', 'ɪ', 't', 'ə', 'v', 'ɪ', 't', 'n', 'ɪ', 'b', 'a', 'ɪ']",8,PlayMusic,je veux écouter DJ Myst,smart-speaker-fr-far,461.wav
+765,"['v', 'n', 'ɪ', 'x', 't', 'm', 'ɪ', 'n', 't', 'ɾʲ', 'ɛ', 'x', 'p', 'ʀ', 'a', 'ɾ', 'ts', 'i', 'ə', 'n', 'l', 'ɪ', 'x']",8,PlayMusic,je veux écouter K.Will,smart-speaker-fr-far,460.wav
+766,"['b̞', 'ɛ', 's', 'k', 'u', 'k', 'e', 'p', 'a', 'ð', 'iː', 'dʲ', 'j', 'ɪ', 'a', 'n', 'ә', 'a']",8,PlayMusic,je veux écouter Adrijana,smart-speaker-fr-far,463.wav
+767,"['ɪ', 'iː', 'm', 'a', 'ɾ', 'ts', 'ə', 'a']",8,PlayMusic,je veux écouter Jay Max,smart-speaker-fr-far,462.wav
+768,"['ʒ', 'ə', 'lʲ', 'ɪ', 'y', 'n', 'ð', 'ɪ', 'm', 'a', 'l', 'a', 's', 'd͡ʒ', 'ɔ', 'ʁ', 'ɾ']",8,PlayMusic,je veux écouter Vance Joy,smart-speaker-fr-far,901.wav
+769,"['ʒ', 'ə', 'ʁ', 'ɪ', 'v', 'uə', 'tʲ', 'ɪ', 'k', 'x', 's', 'ɔ̃', 'ɴ', 'ɡ', 'j', 'l', 'a', 'ɔ']",8,PlayMusic,je veux écouter Sandy Lam,smart-speaker-fr-far,168.wav
+770,"['ɾʲ', 'i', 'ts', 'ɪ', 'ɡ', 'u', 'tʲ', 'iː', 't͡ʃʲ', 'a', 'ʁ', 'a', 'm', 'a', 'ɴ', 'ɛ', 'ɕ', 'ɛ', 'ɪ', 'uə']",8,PlayMusic,je veux écouter Jordan Rakei,smart-speaker-fr-far,169.wav
+771,"['ʒ', 'ə', 'ts', 'ɪ', 'ts', 'ɪ', 'tɕ', 'iː', 'a', 'ɾ']",8,PlayMusic,je veux écouter Mavado,smart-speaker-fr-far,164.wav
+772,"['ʒ', 'ə', 'b̞', 'iː', 'uə', 'tɕ', 'ɪ', 'ɡ', 'ɪ', 'a', 'ɪ', 'a', 'ɪ', 'l', 'ʊ', 'n', 'ts']",8,PlayMusic,je veux écouter LeAnn Rimes,smart-speaker-fr-far,165.wav
+773,"['ʒ', 'uə', 'ɪ', 'pʲ', 'ɪ', 'dʲ', 'iː', 'm', 'ɔ', 'ʃ', 'i']",8,PlayMusic,je veux écouter Die Lochis,smart-speaker-fr-far,166.wav
+774,"['ʒ', 'ə', 'v', 'ɪ', 't', 'ɪ', 'i', 'd͡ʒ', 'ɻ̩', 'a', 'ð', 'ʌ', 'd', 'a']",8,PlayMusic,je veux écouter Regina Lund,smart-speaker-fr-far,167.wav
+775,"['ʒ', 'ə', 'ð', 'ə', 'ð', 'ɪ', 'ә', 'pʲ', 'e', 'ɾʲ', 'ɪ', 'ts', 'a', 'ɾ', 'ts']",8,PlayMusic,je veux écouter Zack,smart-speaker-fr-far,160.wav
+776,"['ʒ', 'ə', 'ɾ', 'u', 'lʲ', 'e', 'ɡ', 'ә', 'pʲ', 'ɪ', 'p', 'a', 'tʲ', 'ɔ', 'ɾ', 't', 'ʁ', 'ɛ', 'ts', 'ɪ', 'ɔ', 'ɡ', 'u', 'n', 'd', 'ɔ', 'ɾ', 'k', 'ɯ']",8,PlayMusic,je veux écouter Adolf Fredriks Ungdomskör,smart-speaker-fr-far,161.wav
+777,"['ʒ', 'ə', 'b̤', 'ə', 'ð', 'ɪ', 'u', 'pʲ', 'iː', 'ə', 'ð', 'ɔ', 'ɛ', 'a', 'k', 'ɛ', 'ʁ', 'm', 'ɒ', 'ɴ']",8,PlayMusic,je veux écouter Zoë Ackerman,smart-speaker-fr-far,162.wav
+778,"['ʒ', 'ə', 'v', 'ɪ', 'ts', 'ɪ', 'l', 'm', 'a', 't͡ʃʲ', 'ɔ', 'n', 'ʂ', 'ɛ']",8,PlayMusic,je veux écouter Matthew Chaim,smart-speaker-fr-far,163.wav
+779,"['ɪ', 'v', 'ə', 'n', 'd', 'iː', 'tʲ', 'iː', 'ɛ', 's', 'lʲ', 'ɔ', 'b̞', 'ɪ']",8,PlayMusic,je veux écouter Stefflon Don,smart-speaker-fr-far,964.wav
+780,"['d', 'ɪ', 'œ', 'pʲ', 'ɪ', 'm', 'ɛ', 'l', 'i', 't͡ʃʲ']",8,PlayMusic,je veux écouter MAGIC!,smart-speaker-fr-far,965.wav
+781,"['n', 'ə', 'h', 'œ', 'ɪ', 'ɡ', 'ɯ', 'dʲ', 'e', 't', 'ʁ', 'i', 'ɴ', 't͡ʃ', 'i', 'ts']",8,PlayMusic,je veux écouter FRENSHIP,smart-speaker-fr-far,966.wav
+782,"['m', 'œ', 'k', 'x', 'ɪ', 'j', 'ɪ', 'n']",8,PlayMusic,je veux écouter Years & Years,smart-speaker-fr-far,967.wav
+783,"['ts', 'u', 'h', 'ɨ', 'pʲ', 'iː', 's', 'u', 'n', 'f', 'ɛ', 'n', 'a', 'ɴ', 'ɛ']",8,PlayMusic,je veux écouter NAV,smart-speaker-fr-far,960.wav
+784,"['d', 'ə', 'ɡ', 'œ', 'e', 'ɔ', 'pʲ', 'ɛ', 'tɕ', 'i', 'ɔ', 'l', 'a', 'k']",8,PlayMusic,je veux écouter 6LACK,smart-speaker-fr-far,961.wav
+785,"['ʒ', 'ə', 'm', 'ʏ', 'tɕ', 'ɪ', 'ts', 'ɛ', 'ə']",8,PlayMusic,je veux écouter Zendaya,smart-speaker-fr-far,962.wav
+786,"['ʒ', 'ə', 'm', 'ʏ', 'tʲ', 'iː', 's', 'ɔ', 'n', 'tʲ', 'ɪ', 'ts', 'ʊ', 'ɾ', 'm', 'a', 't', 'ʁ', 'ɛ']",8,PlayMusic,je veux écouter Thomas Rhett,smart-speaker-fr-far,963.wav
+787,"['ʒ', 'ə', 'ts', 'ɪ', 'f', 'ɔ', 'iː', 'm', 'a', 't', 'ɪ']",8,PlayMusic,je veux écouter WALK THE MOON,smart-speaker-fr-far,968.wav
+788,"['ʒ', 'ə', 'n', 'ɪ', 'u', 'tɕ', 'iː', 'm', 'ɔ', 'j', 'æ']",8,PlayMusic,je veux écouter Noriel,smart-speaker-fr-far,969.wav
+789,"['ɪ', 'ts', 'ɔ', 'ɪ']",8,PlayMusic,je veux écouter Sage The Gemini,smart-speaker-fr-far,936.wav
+790,"['ð', 'ɪ', 'dʲ', 'ɪ', 'iː', 'n', 'ɛ', 'a', 'p', 'l', 'ɔ']",8,PlayMusic,je veux écouter Nengo Flow,smart-speaker-fr-far,1106.wav
+791,"['ʒ', 'ə', 'b̞', 'ɛ', 'dʲ', 'ə', 'dʲ', 'a', 'm', 'i', 'ɴ', 'i', 'b̞', 'a']",8,PlayMusic,je veux écouter Justin Bieber,smart-speaker-fr-far,1107.wav
+792,"['ʒ', 'ə', 'ɪ', 'ʊ', 'tɕ', 'i', 'tʂ', 'a', 'ʂ', 'i', 'ʁ', 'tʲ', 'a']",8,PlayMusic,je veux écouter Cashmere Cat,smart-speaker-fr-far,1104.wav
+793,"['t͡ʃʲ', 'ɻ̩', 'n', 'ɛ', 'ts', 'ɪ', 'l', 'i', 'ɔ̃']",8,PlayMusic,je veux écouter Dyo,smart-speaker-fr-far,1105.wav
+794,"['t͡ʃʲ', 'ə', 'i', 'ɪ', 'n', 'i', 'a', 'ɛ']",8,PlayMusic,je veux écouter Lenny Tavárez,smart-speaker-fr-far,1102.wav
+795,"['ə', 'z', 'ɔ', 's', 'ɻ̩', 'l', 's']",8,PlayMusic,je veux écouter Cookin' On 3 Burners,smart-speaker-fr-far,935.wav
+796,"['ʒ', 'ə', 'v', 'ɛ', 'd', 'a', 'iː', 'k̟ʲ', 'iː', 'a', 'l', 'ɪ', 'ts', 'ɪ']",8,PlayMusic,je veux écouter LSD,smart-speaker-fr-far,1100.wav
+797,"['t', 'y', 'm', 'ə', 'ɕ', 'iː', 'tʲ', 'y', 's', 'a']",8,PlayMusic,je veux écouter ALMA,smart-speaker-fr-far,1101.wav
+798,"['t͡ʃʲ', 'x', 'ʀ', 'ɔ', 'a']",8,PlayMusic,je veux écouter Michael Bublé,smart-speaker-fr-far,934.wav
+799,"['ʒ', 'ə', 'm', 'ʁ', 'ɪ', 'ð', 'i', 'm', 'ɛ']",8,PlayMusic,je veux écouter Miguel,smart-speaker-fr-far,908.wav
+800,"['ʒ', 'ə', 'ts', 'ə', 'n', 'iː', 'ts', 'ɪ', 'm', 'ɔ', 'g', 'a']",8,PlayMusic,je veux écouter The Chainsmokers,smart-speaker-fr-far,1108.wav
+801,"['ʒ', 'ə', 'b̞', 'ɪ', 'v', 'iː', 'x', 'ɛ', 'm', 'i', 'n', 'm', 'a', 'ɴ', 'a']",8,PlayMusic,je veux écouter Kendrick Lamar,smart-speaker-fr-far,1109.wav
+802,"['ʒ', 'ə', 'm', 'ɪ', 'ɴ', 'iː', 'ʒ', 'ɛ']",8,PlayMusic,je veux écouter James Bay,smart-speaker-fr-far,909.wav
+803,"['ʒ', 'iː', 'v', 'ɛ', 'ɔ', 'd', 'iː', 'g', 'ɛ', 'a', 'm', 'ɔ']",8,PlayMusic,je veux écouter Kane Brown,smart-speaker-fr-far,1096.wav
+804,"['ʒ', 'ɛ', 'b̞', 'ɛ', 'ɪ', 'ɟ', 'iː', 'ɟ', 'a', 'ts', 'i', 'n', 'tɕ', 'iː', 'ʃ']",8,PlayMusic,je veux écouter Justin Quiles,smart-speaker-fr-far,1090.wav
+805,"['ʒ', 'ʏ', 'b̤', 'ɛ', 's', 'ɪ', 'iː', 'm', 'a', 'x', 'd', 'a', 'ʁ', 'k̟ʲ', 'i']",8,PlayMusic,je veux écouter Mc Zaac,smart-speaker-fr-far,1091.wav
+806,"['ʒ', 'ə', 'm', 'i', 'ts', 'ɪ', 'm', 'ɔ', 'p', 'ɔ', 'd', 'iː']",8,PlayMusic,je veux écouter Lo Blanquito,smart-speaker-fr-far,600.wav
+807,"['tɕ', 'iː', 'm', 'ʌ', 'n', 'ɪ', 'm', 'ɪ', 'a', 'ð', 'a', 's', 'ɾ', 'a']",8,PlayMusic,je veux écouter Alok,smart-speaker-fr-far,878.wav
+808,"['v', 'ɪ', 'ð', 'a', 'ɪ', 'lʲ', 'ɪ', 'ə', 'n', 'ɔ', 'f', 'ɒ', 'a', 'ts', 'ɪ', 'n', 'uə']",8,PlayMusic,je veux écouter Lost Frequencies,smart-speaker-fr-far,879.wav
+809,"['v', 'ɪ', 'ts', 'a', 'ɪ', 'iː', 'ts', 'iː', 'l', 'a', 'ɪ', 'ɕː']",8,PlayMusic,je veux écouter Reik,smart-speaker-fr-far,876.wav
+810,"['ʒ', 'ə', 'm', 'a', 'ɪ', 'm', 'a', 'ɡ', 'ɪ']",8,PlayMusic,je veux écouter Bastille,smart-speaker-fr-far,877.wav
+811,"['n', 'ə', 'ð', 'ɪ', 'y', 'pʲ', 'iː', 'n', 'a', 'l', 'ɔ', 'b̞', 'a', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter Niall Horan,smart-speaker-fr-far,874.wav
+812,"['v', 'u', 'ɤ', 'ʁ', 'ɛ', 'x', 'ә', 'n', 'ts', 'iː', 'd', 'iː', 'l', 'a', 'm', 'a', 'ɾ', 'ts', 'uə', 'v']",8,PlayMusic,je veux écouter De La Ghetto,smart-speaker-fr-far,875.wav
+813,"['v', 'ə', 'ð', 'ə', 'ɪ', 'iː', 'ɪ', 'm', 'a', 't', 'ɔ', 'm', 'a']",8,PlayMusic,je veux écouter Matoma,smart-speaker-fr-far,872.wav
+814,"['tɕ', 'ə', 'ɪ', 'dʲ', 'iː', 'm', 'i', 'a', 'ɔ', 'ts', 'ɒ']",8,PlayMusic,je veux écouter Nyla,smart-speaker-fr-far,873.wav
+815,"['ʒ', 'ə', 'ɛ', 'ɡ', 'uə', 'tʲ', 'iː', 'ɪ', 's', 'ɪ', 'l', 'iː', 'uː', 'x', 'ɔ', 'ð', 'ɪ', 'ʒ', 'ɪ']",8,PlayMusic,je veux écouter Fuse ODG,smart-speaker-fr-far,870.wav
+816,"['ʒ', 'y', 'm', 'ə', 'ð', 'ɪ', 'mʲ', 'ɪ', 't͡ʃʲ', 'a', 'ʁ', 'l', 'i', 'iː', 's', 'ɛ', 'z', 'ɪ', 's', 'a', 'ɒ']",8,PlayMusic,je veux écouter Charli XCX,smart-speaker-fr-far,871.wav
+817,"['tɕ', 'ə', 'b̞', 'ɛ', 'ʊ', 'k', 'iː', 'j', 'a', 'ɒ', 'ʒ', 'ɻ̩', 'v', 'iː']",8,PlayMusic,je veux écouter Jon Bon Jovi,smart-speaker-fr-far,9.wav
+818,"['t͡ʃʲ', 'ɻ̩', 'b̞', 'ɪ', 'm', 'ɪ', 'i']",8,PlayMusic,je veux écouter JAY Z,smart-speaker-fr-far,890.wav
+819,"['ʒ', 'ə', 'm', 'ə', 'n', 'ɛ', 'pʲ', 'iː', 'ɾ', 's̪', 'ɔ', 'ɾ', 'd', 'iː', 'ɡ', 'i']",8,PlayMusic,je veux écouter Cosculluela,smart-speaker-fr-far,891.wav
+820,"['ʒ', 'ə', 'm', 'a', 'i', 's', 'ɪ', 'lʲ', 'ɪ', 'm', 'ɪ', 'x', 'k', 'ɔ', 'ɾ', 'ʌ', 'ð', 'ə', 'f', 'ɔ']",8,PlayMusic,je veux écouter Louis Tomlinson,smart-speaker-fr-far,892.wav
+821,"['v', 'ɪ', 'm', 'ə', 'v', 'i', 'ɡ', 'u', 'tɕ', 'iː', 's', 'a', 'd', 'a', 'ɾ', 'œ', 'ɾ']",8,PlayMusic,je veux écouter Passenger,smart-speaker-fr-far,893.wav
+822,"['v', 'u', 'ɪ', 'pʲ', 'iː', 'dʲ', 'iː', 'dʲ', 'ɪ', 'f', 'l', 'a']",8,PlayMusic,je veux écouter Lil' Kleine,smart-speaker-fr-far,894.wav
+823,"['ʒ', 'ə', 'ɾ', 'ɪ', 'pʲ', 'ɪ', 's', 'a', 'm', 'i']",8,PlayMusic,je veux écouter Fattah Amin,smart-speaker-fr-far,647.wav
+824,"['ʒ', 'ə', 'm', 'ə', 'n', 'ɪ', 'ɡ', 'iː', 'v', 'iː', 'ð', 'a']",8,PlayMusic,je veux écouter Darell,smart-speaker-fr-far,896.wav
+825,"['y', 'm', 'ə', 'b̞', 'ɪ', 'tʲ', 'iː', 'v', 'iː', 'ts', 'ɔ', 'v', 'm', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Digital Farm Animals,smart-speaker-fr-far,897.wav
+826,"['ɪ', 'm', 'ə', 'ð', 'ɪ', 'y', 'lʲ', 'ɪ', 'a', 'ð']",8,PlayMusic,je veux écouter Starley,smart-speaker-fr-far,898.wav
+827,"['ɨ', 'l', 'e', 'n', 'ð', 'ɪ', 'ts', 'a', 'm', 'ə', 'n', 'ɪ', 's', 't']",8,PlayMusic,je veux écouter Sam Hunt,smart-speaker-fr-far,899.wav
+828,"['ʒ', 'ə', 'ɪ', 'tɕ', 'iː', 'ɛ', 'm', 'ʁ', 'iː', 'd', 'ə', 'm', 'ɨ', 'm', 'ɛ', 'a', 'd']",8,PlayMusic,je veux écouter MC WM,smart-speaker-fr-far,1087.wav
+829,"['b', 'ɪ', 'ʃ', 'ə', 'm', 'ə', 'z', 'i', 'ʊ', 'ɪ', 'ts', 'ɛ', 'tɕ', 'iː', 'ə', 'd', 'a', 'ʊ', 'x']",8,PlayMusic,je veux écouter Sven-Bertil Taube,smart-speaker-fr-far,646.wav
+830,"['v', 'ɪ', 'm', 'ɪ', 'l', 'ɪ', 'ә', 'ɪ', 'x', 't', 'a', 'ʁ', 'd', 'ʊ', 'n', 'b̞', 'iː', 'ɾ']",8,PlayMusic,je veux écouter Cardi B,smart-speaker-fr-far,1116.wav
+831,"['ʒ', 'ə', 'ɪ', 'tʲ', 'iː', 'ɪ', 'ɛ', 'tɕ', 'a', 'ɔ']",8,PlayMusic,je veux écouter Moira Dela Torre,smart-speaker-fr-far,1099.wav
+832,"['ʒ', 'ə', 'v', 'ɪ', 'z', 'i', 'k', 'ɯ', 't', 'e', 'uə', 'a', 'ɴ', 'a', 'ð', 'ɛ', 'n', 'iː', 'ә', 'b', 'ɛ', 'ʁ', 'ʊ']",8,PlayMusic,je veux écouter One Avenue Band,smart-speaker-fr-far,649.wav
+833,"['ʒ', 'ə', 'b̞', 'ə', 'ð', 'ɪ', 'k', 'u', 'pʲ', 'ɛ', 'ɾ', 'b', 'ɾ', 'ɪ', 'i']",8,PlayMusic,je veux écouter Brings,smart-speaker-fr-far,648.wav
+834,"['ʒ', 'ə', 'm', 'ɪ', 'k', 'ɔ', 'pʲ', 'ɪ', 'ʌ']",8,PlayMusic,je veux écouter Luke Combs,smart-speaker-fr-far,1086.wav
+835,"['ə', 'ɪ', 'k', 'a', 's', 'f', 'ɛ', 'l']",8,PlayMusic,je veux écouter Clash,smart-speaker-fr-far,357.wav
+836,"['i', 'ɪ']",8,PlayMusic,je veux écouter KUUMAA,smart-speaker-fr-far,356.wav
+837,"['ʒ', 'ə', 'v', 'u', 'd', 'ɪ', 'k', 'y', 'tʲ', 'ɛ', 'b̞', 'w', 'a', 'ɕ', 'i', 'l', 'a', 'ɡ', 'ɔ', 'n', 'ɪ', 'tʲ', 'p', 'ɔ', 'ʁ', 'k̟ʲ', 'ɪ', 'x', 't', 'a']",8,PlayMusic,je veux écouter Royal Philharmonic Orchestra,smart-speaker-fr-far,355.wav
+838,"['ʒ', 'ə', 'v', 'ɛ', 'm', 'ɪ', 'ɡ', 'u', 'tʂ', 'ɛ', 'x', 't͡ʃʲ', 'ʊ', 'b̤', 'ɪ', 'ɴ', 'ɡ', 'ɔ', 'ɾ', 'ɕ', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter Stupid Goldfish,smart-speaker-fr-far,354.wav
+839,"['ʒ', 'ə', 'n', 'uə', 'pʲ', 'iː', 'ɡ', 'iː', 'tʲ', 'e', 'm', 'a', 'd', 'ɪ', 'x', 'ɔ̃']",8,PlayMusic,je veux écouter Maldestro,smart-speaker-fr-far,353.wav
+840,"['ʒ', 'ə', 'v', 'u', 'dʲ', 'ɪ', 's', 'iː', 'dʲ', 'iː', 'ʂ', 'ɒ', 'ɴ', 'a']",8,PlayMusic,je veux écouter Santana,smart-speaker-fr-far,352.wav
+841,"['ʒ', 'ə', 'pʲ', 'ɪ', 's', 'iː', 'tʲ', 'ɛ', 'd', 'iː', 'a', 'm', 'ә', 'n', 't̪ʰ', 'ɒ']",8,PlayMusic,je veux écouter Delilah Montagu,smart-speaker-fr-far,351.wav
+842,"['ʒ', 'ə', 'v', 'u', 'pʲ', 'ɪ', 'iː', 'tʲ', 'ɪ', 'k̟ʲ', 'i', 'l', 'a', 'm', 'ɔ', 'ʀ', 'a']",8,PlayMusic,je veux écouter Skítamórall,smart-speaker-fr-far,350.wav
+843,"['ʒ', 'ə', 'ɪ', 'dʲ', 'ɪ', 'ʐ', 'iː']",8,PlayMusic,je veux écouter Swae Lee,smart-speaker-fr-far,803.wav
+844,"['ʃ', 'ə', 'ɪ', 'a', 'n', 'd', 'ɪ', 'x', 'b̞', 'ʏ']",8,PlayMusic,je veux écouter Pitbull,smart-speaker-fr-far,802.wav
+845,"['ʒ', 'ə', 'ɾ', 'a', 'ʊ', 'n', 't', 'ɛ', 'f', 'ɪ', 'l', 't', 'a', 'ʁ', 'l', 'ɔ']",8,PlayMusic,je veux écouter Fifth Harmony,smart-speaker-fr-far,801.wav
+846,"['s', 'ʊ', 'ʁ', 'ɪ', 'ʃ', 'a', 'ʁ', 'ij', 'i']",8,PlayMusic,je veux écouter Shakira,smart-speaker-fr-far,800.wav
+847,"['ʒ', 'ə', 'ɪ', 't', 'ə', 'ɪ', 'n', 'ʂ', 'ɻ̩', 'ɾ', 'e', 'ə', 'n']",8,PlayMusic,je veux écouter Jess Glynne,smart-speaker-fr-far,807.wav
+848,"['ʒ', 'ə', 'm', 'ɔ', 'ɕ', 'ɪ', 't', 'iː', 't', 'a', 's', 'ɔ']",8,PlayMusic,je veux écouter Farruko,smart-speaker-fr-far,806.wav
+849,"['ɪ', 'ɕ', 'ɪ', 'uə']",8,PlayMusic,je veux écouter Sheryl Crow,smart-speaker-fr-far,359.wav
+850,"['a', 'iː', 's', 'ɔ']",8,PlayMusic,je veux écouter Phùng Khánh Linh,smart-speaker-fr-far,358.wav
+851,"['s', 'ə', 'ð', 'a', 'ɯ', 'ts', 'ɪ', 'tɕ', 'ɛ', 'm', 'i', 'n', 'ts', 'ɔ', 'a', 'ɪ', 'ð', 'a']",8,PlayMusic,je veux écouter Kevin Johansen,smart-speaker-fr-far,216.wav
+852,"['ʒ', 'ə', 'ð', 'a', 'ɛ', 'a', 'n', 'ɪ', 'ɡ', 'm', 'a', 'iː', 'ʁ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Kohmi Hirose,smart-speaker-fr-far,217.wav
+853,"['ʒ', 'ə', 'a', 'n', 'ɪ', 'l', 'a', 'ʃ', 'ɻ̩']",8,PlayMusic,je veux écouter Lao Che,smart-speaker-fr-far,214.wav
+854,"['j', 'ə', 'm', 'a', 'e', 'iː', 'ɪ', 'b', 'o', 'k͡p̚', 'ʌ', 'd', 'i', 'b̞', 'a']",8,PlayMusic,je veux écouter Gonzo Vizán,smart-speaker-fr-far,215.wav
+855,"['l', 'ə', 'ɔ', 'ɪ', 'u', 'ts', 'ɪ', 'x', 'b̞', 'a', 'm', 'ɔ', 'd']",8,PlayMusic,je veux écouter Dana Daoud,smart-speaker-fr-far,212.wav
+856,"['ts', 'ə', 'm', 'a', 'ɪ', 'k', 'ɔ', 'ɴ', 'ə', 'ɪ', 'ə', 'b̞', 'a']",8,PlayMusic,je veux écouter Selena,smart-speaker-fr-far,213.wav
+857,"['ts', 'ə', 'ɪ', 'u', 'lʲ', 'iː', 'a', 'm', 'a', 'ә', 'ts', 'ɛ']",8,PlayMusic,je veux écouter Dinah Washington,smart-speaker-fr-far,210.wav
+858,"['l', 'ɨ', 'n', 'a', 'e', 'k', 'u', 'tʂ', 'e', 's̪', 'p', 'a', 'ɛ', 't̪', 'uː', 'd', 'a', 'ʁ', 'uː']",8,PlayMusic,je veux écouter Fay Lovsky,smart-speaker-fr-far,211.wav
+859,"['ʒ', 'ɪ', 'd', 'ɪ', 'iː', 'ð']",8,PlayMusic,je veux écouter Rino Gaetano,smart-speaker-fr-far,762.wav
+860,"['ʒ', 'ə', 'ɪ', 'ts', 'ɪ', 'tɕ', 'ɪ', 'x', 't']",8,PlayMusic,je veux écouter Victor & Leo,smart-speaker-fr-far,763.wav
+861,"['ʒ', 'ɪ', 'x', 'ɪ', 'n', 'pʲ', 'e', 'm', 'a', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter Malique,smart-speaker-fr-far,760.wav
+862,"['ʒ', 'ʏ', 'ʁ', 'ɪ', 'ʊ', 'n', 'pʲ', 'ɪ', 'ʐ', 'i', 'ɡ', 'a', 'ʀ', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter Gigamesh,smart-speaker-fr-far,761.wav
+863,"['ʒ', 'ə', 't', 'ə', 'ɪ', 'd', 'iː', 'f', 'p', 'ɔ']",8,PlayMusic,je veux écouter Nelly Furtado,smart-speaker-fr-far,766.wav
+864,"['ɪ', 't', 'a', 's', 'a', 'ɔ', 'ɾ', 'ɪ', 'i']",8,PlayMusic,je veux écouter Behrang Miri,smart-speaker-fr-far,767.wav
+865,"['m', 'ɨ', 'ɪ', 's', 'ə', 'm', 'ɪ', 'ə', 'a', 'm', 'ɔ', 'ɾ']",8,PlayMusic,je veux écouter AKLO,smart-speaker-fr-far,218.wav
+866,"['v', 'ə', 'ð', 'ɪ', 'n', 'dʲ', 'e', 'n', 'a', 'n', 't', 'ɔ']",8,PlayMusic,je veux écouter Ninetoes,smart-speaker-fr-far,219.wav
+867,"['t͡ʃʲ', 'ɛ', 'pʲ', 'e', 'k', 'y', 't', 'e', 'ɪ', 'm', 'a', 'k', 'ɔ', 'p', 'ɛ', 'l', 'uː']",8,PlayMusic,je veux écouter Marc Anthony,smart-speaker-fr-far,957.wav
+868,"['ʒ', 'ə', 'm', 'ɪ', 't', 'ɪ', 'a', 'ɾ', 'a', 'm', 'ɪ', 'ð', 'a']",8,PlayMusic,je veux écouter Adam Levine,smart-speaker-fr-far,956.wav
+869,"['ʒ', 'ʏ', 'ɪ', 'ɡ', 'iː']",8,PlayMusic,je veux écouter Gilli,smart-speaker-fr-far,1033.wav
+870,"['ʒ', 'ə', 'm', 'ɪ', 'ɡ', 'u', 't', 'ɪ', 's', 'p', 'a', 'ð']",8,PlayMusic,je veux écouter Spooks,smart-speaker-fr-far,1078.wav
+871,"['ʃ', 'ɪ', 'ɡ', 'ə', 'l', 'ɪ', 's', 'pʲ', 'ɪ', 'a', 'v', 'ɪ']",8,PlayMusic,je veux écouter Azet,smart-speaker-fr-far,1079.wav
+872,"['ʒ', 'ə', 'ts', 'ɪ', 'v', 'ә', 'dʲ', 'ɪ', 'ʒ', 'k', 'a', 'ɾ', 'm', 'a', 'ʒ', 'ɪ']",8,PlayMusic,je veux écouter ScHoolboy Q,smart-speaker-fr-far,1076.wav
+873,"['ʒ', 'ə', 'ʁ', 'i', 'ʌ', 'pʲ', 'ɪ', 'ɕ', 'ɪ', 'a', 'ɪ']",8,PlayMusic,je veux écouter J. Davi$,smart-speaker-fr-far,1077.wav
+874,"['ʒ', 'ə', 'ts', 'ɪ', 'ts', 'ɪ', 'x', 'm', 'ɪ', 'x', 'ɛ', 'm', 'a']",8,PlayMusic,je veux écouter Tinie Tempah,smart-speaker-fr-far,1074.wav
+875,"['t͡ʃʲ', 'ə', 'b̞', 'ɪ', 'tʲ', 'ə', 'ɪ', 'm', 'a', 'd', 'ɪ', 'a', 'm', 'n', 'ɛ']",8,PlayMusic,je veux écouter Alejandro Fernandez,smart-speaker-fr-far,1075.wav
+876,"['ʒ', 'ə', 'b̞', 'ɪ', 'y', 'dʲ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter Cazzu,smart-speaker-fr-far,1072.wav
+877,"['ʒ', 'ə', 'b̞', 'ɪ', 'tɕ', 'iː', 'tɕ', 'i', 'tɕ', 'i', 'n', 'a', 'm', 'ə', 'l', 'e', 'ʀ', 'a']",8,PlayMusic,je veux écouter Christina Aguilera,smart-speaker-fr-far,1073.wav
+878,"['ʒ', 'ə', 'ts', 'ɥ', 'ə', 'lʲ', 'ɪ', 'k', 'ɔ', 'ɾ', 'm', 'i']",8,PlayMusic,je veux écouter Echosmith,smart-speaker-fr-far,1070.wav
+879,"['ʒ', 'ə', 'ts', 'ɪ', 'y', 'tʲ', 'iː', 'tʂ', 'ə', 'm', 'ɒ', 'ʁ', 'ɒ', 'n', 'ɒ', 'ɾ']",8,PlayMusic,je veux écouter Jonna Fraser,smart-speaker-fr-far,1071.wav
+880,"['ʒ', 'y', 'v', 'ɪ', 'v', 'uə', 'mʲ', 'j', 'iː', 'ɒ', 'ɕ', 'i', 'tʲ', 'ɛ']",8,PlayMusic,je veux écouter Architechs,smart-speaker-fr-far,289.wav
+881,"['i', 'iː', 'ɪ', 'iː', 'n', 'tɕ', 'e', 'ɴ', 'a', 'n', 'o']",8,PlayMusic,je veux écouter Nana,smart-speaker-fr-far,288.wav
+882,"['ʂ', 'ə', 'ɴ', 'mʲ', 'ɪ', 't', 'ɪ', 'ð', 'ɪ', 'ð', 'ɪ']",8,PlayMusic,je veux écouter Russ,smart-speaker-fr-far,1003.wav
+883,"['ʒ', 'ə', 'b̞', 'ɛ', 'tʂ', 'ɪ', 'ɕ', 'i', 's̪', 'ʌ', 'm', 'a', 'ɾ', 'ɒ']",8,PlayMusic,je veux écouter Simple Plan,smart-speaker-fr-far,4.wav
+884,"['ʒ', 'ə', 'pʲ', 'ɪ', 'tʲ', 'e', 'm', 'ɛ', 'ɴ', 'dʲ', 'i', 'ɡ', 'u']",8,PlayMusic,je veux écouter Mandy,smart-speaker-fr-far,281.wav
+885,"['ʒ', 'ə', 'u', 'n', 'ɪ', 'y', 'lʲ', 'ɪ', 'ð', 'a', 's', 'a', 'l', 'a']",8,PlayMusic,je veux écouter Los Rabanes,smart-speaker-fr-far,280.wav
+886,"['ʒ', 'ə', 'v', 'ə', 'd', 'ɪ', 'ɡ', 'tʂ', 'iː', 'j', 'ɛ', 'ɴ', 'tɕʰ', 'i', 'ɡ', 'iː', 'ɴ']",8,PlayMusic,je veux écouter Yanki Din,smart-speaker-fr-far,283.wav
+887,"['ʒ', 'ə', 'v', 'œ', 'pʲ', 'ɪ', 'ɡ', 'u', 't', 'e', 'd', 'i', 'ɾ', 'ʌ', 'tɕ', 'i', 'ŋ̟', 'dʲ', 'iː']",8,PlayMusic,je veux écouter Lidl Stingy,smart-speaker-fr-far,282.wav
+888,"['ʒ', 'ə', 'n', 'ə', 'b̞', 'iː', 'ɡ', 'iː', 'dʲ', 'iː', 'x', 'ɒ', 'm', 'ɒ', 'ɴ', 'ʂ', 'a', 'ɾ']",8,PlayMusic,je veux écouter Aman Shah,smart-speaker-fr-far,285.wav
+889,"['ʒ', 'ə', 'v', 'ə', 'v', 'ɪ', 'k', 'iː', 'tʂ', 'ɛ', 'v', 'uː', 'd͡ʒ', 'ɛ']",8,PlayMusic,je veux écouter RUGGED,smart-speaker-fr-far,284.wav
+890,"['ʒ', 'ə', 'v', 'ə', 'd', 'ɪ', 'ɡ', 'dʲ', 'iː', 'ts', 'uə', 'ɪ', 'dʲ', 'ɪ', 't͡ʃʲ', 'uː', 'm', 'ɛ', 'ɾ', 'e', 'ɾʲ', 'i', 's̪', 'uə']",8,PlayMusic,je veux écouter Swedish Red Elephant,smart-speaker-fr-far,287.wav
+891,"['ʒ', 'ə', 'v', 'ə', 'b̞', 'ɪ', 'tʲ', 'iː', 'w', 'ɛ', 'ɡ', 'ɔ', 's', 'uə', 'ts', 'ʊ']",8,PlayMusic,je veux écouter Westghosts,smart-speaker-fr-far,286.wav
+892,"['ʒ', 'ə', 'b̞', 'ɪ', 'a', 't͡ʃʲ', 'y', 'm', 'ɪ', 'k', 'ɪ', 'ɕ', 'ɪ', 'm', 'ɔ', 'ɾ', 'uə']",8,PlayMusic,je veux écouter Gue Pequeno,smart-speaker-fr-far,1094.wav
+893,"['ʒ', 'ə', 'v', 'ɛ', 'ɔ', 'tʲ', 'iː', 'ɕ', 'ɪ', 'm', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Juliander,smart-speaker-fr-far,1095.wav
+894,"['ʒ', 'ə', 'm', 'y', 'ts', 't', 'a', 'f', 'ɪ', 'ʐ', 'ɻ̩', 'k', 'a']",8,PlayMusic,je veux écouter MC G15,smart-speaker-fr-far,1083.wav
+895,"['t͡ʃʲ', 'ə', 'ɒ', 'ʁ', 'i', 'iː', 'ts', 'iː', 'a']",8,PlayMusic,je veux écouter Wham!,smart-speaker-fr-far,1097.wav
+896,"['ʒ', 'ɻ̩', 'ʁ', 'ʏ', 'uə', 'tʂ', 'iː', 'b̞', 'a', 'd', 'ɒ', 't', 'uə', 'iː', 'ð', 'a']",8,PlayMusic,je veux écouter Valentín Elizalde,smart-speaker-fr-far,678.wav
+897,"['ʒ', 'ə', 'b̞', 'œ', 'dʲ', 'ɪ', 'iː', 'ʃ', 'ɻ̩', 'm', 'ɛ', 'ɾ', 'uə']",8,PlayMusic,je veux écouter Gemello,smart-speaker-fr-far,679.wav
+898,"['ʒ', 'ə', 'l', 'ɾ', 'ɛ', 'k', 'ɔ̃', 'dʲ', 'iː', 'ʃ', 'æ', 'ɴ', 'ɪ', 'ð', 'a', 'ʁ', 'ɕ']",8,PlayMusic,je veux écouter Charly Black,smart-speaker-fr-far,1092.wav
+899,"['ʒ', 'iː', 'v', 'uə', 'ɛ', 'ts', 'u', 't', 'e', 'd', 'a', 'k', 'a', 'm', 'a', 'n']",8,PlayMusic,je veux écouter E-40,smart-speaker-fr-far,1093.wav
+900,"['ʒ', 'ə', 'œ', 'uə', 't', 'e', 'ɾ', 'ɔ', 'a', 'ɒ']",8,PlayMusic,je veux écouter Mørland,smart-speaker-fr-far,674.wav
+901,"['ʒ', 'ə', 'b̞', 'œ', 'ɪ', 'tʲ', 'iː', 'n', 'd', 'ɪ', 'd', 'ʁ', 'a', 'x', 'k̟ʲ', 'a', 'm', 'ɪ', 's̪']",8,PlayMusic,je veux écouter Debrah Scarlett,smart-speaker-fr-far,675.wav
+902,"['ʒ', 'ə', 'ɥ', 'ʏ', 'pʲ', 'iː', 'y', 'b̞', 'ɤ']",8,PlayMusic,je veux écouter Kuban,smart-speaker-fr-far,676.wav
+903,"['ʐ', 'ʏ', 'd', 'ə', 'd͡ʒ', 'a', 'ɪ', 'x']",8,PlayMusic,je veux écouter Kali,smart-speaker-fr-far,677.wav
+904,"['ʒ', 'ə', 'b̞', 'ɛ', 'ʒ', 'ɪ', 'tʂ', 'e', 'ɕ', 'i', 'n', 'a', 'n']",8,PlayMusic,je veux écouter Chinook,smart-speaker-fr-far,670.wav
+905,"['ʒ', 'ə', 'b̞', 'ɪ', 'dʲ', 'iː', 'ʒ', 'a', 'ɒ', 'ʁ', 'ɔ', 'ð']",8,PlayMusic,je veux écouter Jonne Aaron,smart-speaker-fr-far,671.wav
+906,"['tʂ', 'ə', 'ɥ', 'iː', 'tɕ', 'iː', 's̪', 'ɒ', 'm', 'a', 'ɴ', 'ɔ', 'ð', 'ɪ', 'a']",8,PlayMusic,je veux écouter Salvador Seixas,smart-speaker-fr-far,672.wav
+907,"['ʒ', 'ə', 'ɾ', 'ɪ', 'm', 'ɔ', 'tʂ', 'ɛ', 'ʒ', 'ɻ̩', 'ɕ', 'i', 'w', 'ɪ']",8,PlayMusic,je veux écouter Jessi Uribe,smart-speaker-fr-far,673.wav
+908,"['ʂ', 'ɻ̩', 'd', 'i', 'iː', 's̪', 't̪', 'e', 'd', 'ɨ', 'k͡p̚', 'ɒ']",8,PlayMusic,je veux écouter Lucah,smart-speaker-fr-far,263.wav
+909,"['ɪ', 'ʃ', 'ə', 'a', 't͡ʃʲ', 'uː', 'ʃ', 'ə', 'ɛ', 's', 'ʀ', 'a', 'ɪ', 'ə', 'n', 's', 'tʲ', 'ɪ', 'a', 'f', 'ʁ', 'k', 'ʊ', 'n', 't']",8,PlayMusic,je veux écouter Ben Stevenson,smart-speaker-fr-far,262.wav
+910,"['ʒ', 'ə', 'ɪ', 'tɕ', 'ɪ', 'd', 'a', 'ʂ', 'a']",8,PlayMusic,je veux écouter Lill Lindfors,smart-speaker-fr-far,261.wav
+911,"['ʒ', 'ə', 'l', 'ə', 'm', 'œ', 'd', 'iː', 'ʊ', 'ʁ', 'ɪ', 'ʊ', 'tʲ', 'ɒ', 'ʁ', 'l', 't͡ʃʲ', 'ɪ', 's', 'ɔ', 'a']",8,PlayMusic,je veux écouter Dario G,smart-speaker-fr-far,260.wav
+912,"['i', 'ɪ', 'ə', 'ts', 'ɪ', 'ð', 'iː', 'h', 'iː', 'a', 'm', 'a']",8,PlayMusic,je veux écouter India.Arie,smart-speaker-fr-far,267.wav
+913,"['ts', 'ə', 'n', 'iː', 'u', 'b̞', 'iː', 'tʂ', 'ɻ̩', 'a', 'l', 'm', 'a', 'n']",8,PlayMusic,je veux écouter Joe Sample,smart-speaker-fr-far,266.wav
+914,"['t͡ʃʲ', 'ʌ', 'y', 't', 'iː', 'ɪ', 'ɒ', 'ɴ', 'k', 'w', 'a', 'ɛ']",8,PlayMusic,je veux écouter Imad Royal,smart-speaker-fr-far,265.wav
+915,"['tʂ', 'ə', 'n', 'ɪ', 'pʲ', 'iː', 'l', 'a', 'ʒ', 'ɛ', 'm', 'u']",8,PlayMusic,je veux écouter Hacken Lee,smart-speaker-fr-far,264.wav
+916,"['ʒ', 'ə', 'm', 'ɛ', 'ɡ', 'uə', 'tʲ', 'ɛ', 'tʂʰ', 'ʁ', 'ɪ', 'ɴ', 'tɕʰ', 'iː', 'b̞', 'a', 'ɛ', 'v', 'ɪ', 'ʃ']",8,PlayMusic,je veux écouter 21 Savage,smart-speaker-fr-far,1121.wav
+917,"['ʒ', 'ə', 'n', 'ə', 'ɪ', 'k', 'u', 't', 'ɪ', 't͡ʃʲ', 'ɻ̩', 'ɕ', 'i', 'd', 'b̞', 'ɪ']",8,PlayMusic,je veux écouter Josylvio,smart-speaker-fr-far,1031.wav
+918,"['ʒ', 'ə', 'ɪ', 'l', 'iː', 'tʲ', 'ɪ', 'dʲ', 'iː', 'n', 'uə', 'ɔ']",8,PlayMusic,je veux écouter Yomo,smart-speaker-fr-far,269.wav
+919,"['ts', 'ə', 'ɪ', 'pʲ', 'iː', 'a', 'ts', 'u', 'ɾ', 'a', 'ɾ']",8,PlayMusic,je veux écouter Dandy Lion,smart-speaker-fr-far,268.wav
+920,"['ɪ', 'ʒ', 'ə', 'm', 'e', 'ɪ', 't', 'e', 'a', 'l', 'ɛ', 'ɴ', 'p', 'u', 'ɾ', 'm', 'y']",8,PlayMusic,je veux écouter Alex Fong,smart-speaker-fr-far,701.wav
+921,"['ʃ', 'ə', 'ɪ', 's', 'ɔ', 'm', 'v', 'iː', 'k', 'a', 'ʊ', 'n', 'ʁ', 'ɔ', 'n', 'ʀ', 'ɛ', 'n', 'ɔ', 'ʁ', 'x', 'ə', 'ɪ', 'ə', 'd͡ʒ', 'uː', 'm']",8,PlayMusic,je veux écouter Cast Of 'Brødrene Mortensens Jul',smart-speaker-fr-far,59.wav
+922,"['ts', 'ɪ', 'ð', 'ə', 'ɪ', 'x', 'ə', 'n', 'v', 'ɪ', 'u', 'm', 'a', 'd', 'uː']",8,PlayMusic,je veux écouter Nocando,smart-speaker-fr-far,58.wav
+923,"['ʒ', 'ə', 'v', 'œ', 'ɪ', 'tʲ', 'iː', 'ɪ', 't', 'a', 'ð', 'ɪ']",8,PlayMusic,je veux écouter Delta Venus,smart-speaker-fr-far,55.wav
+924,"['ʒ', 'ə', 'v', 'ɔ', 'tɕ', 'i', 'k', 'iː', 'pʲ', 'iː', 'k', 'ɔ', 'm', 'ɛ', 'ɔ']",8,PlayMusic,je veux écouter Comet Blue,smart-speaker-fr-far,54.wav
+925,"['ɪ', 's', 'iː', 'tʲ', 'iː', 't͡ʃʲ', 'ɛ', 'ʁ', 'a', 'ɔ', 'ʝ', 'a', 'ɔ', 'ә']",8,PlayMusic,je veux écouter Chiara Dello Iacovo,smart-speaker-fr-far,57.wav
+926,"['ʒ', 'ə', 'ɪ', 's', 'iː', 'k̟ʲ', 'i', 'n', 'i', 'z', 'ʊ', 'v', 'ɛ', 'ts', 'ɔ', 'ɾ', 'ɒ', 'ʃ']",8,PlayMusic,"je veux écouter Timmy Trumpet, Savage",smart-speaker-fr-far,56.wav
+927,"['ʒ', 'ə', 'ɾ', 'ɔ', 'k', 'tʲ', 'ɪ', 'dʲ', 'ɪ', 'v', 'i', 'n', 'ɪ', 'v', 'y', 'l', 'a', 'n']",8,PlayMusic,je veux écouter Rinni Wulandari,smart-speaker-fr-far,51.wav
+928,"['ʒ', 'ə', 'ɔ', 't', 'ɪ', 'n', 'a', 'ʝ', 'a', 'ʃ', 'i', 'm', 'ɪ', 'k', 'uə', 's', 'ɒ', 'ɴ', 'iː', 'd', 'ɪ', 'k', 'pʲ', 'iː', 'n', 'ɔ', 'ɡ', 'ɛ', 'n']",8,PlayMusic,je veux écouter Mariachi México 70 De Pepe López,smart-speaker-fr-far,50.wav
+929,"['ʒ', 'ə', 'ð', 'œ', 'ɪ', 's', 'iː', 'tʲ', 'ɪ', 'm', 'y', 'l', 'ʝ', 'a', 'b', 'ɔ', 'ɡ', 'a', 'ɾ']",8,PlayMusic,je veux écouter The Mulligan Brothers,smart-speaker-fr-far,53.wav
+930,"['ɪ', 'd', 'iː', 'ts', 'a', 'ʀ', 'ɔ', 'b', 'a', 'l', 'a', 'n', 'ʃ']",8,PlayMusic,je veux écouter Pharoahe Monch,smart-speaker-fr-far,52.wav
+931,"['ʒ', 'ə', 'm', 'ɪ', 's', 'tɕ', 'ɪ', 'x', 'ɡ', 'a', 'ɪ', 'l']",8,PlayMusic,je veux écouter Calin,smart-speaker-fr-far,537.wav
+932,"['ʒ', 'ə', 'v', 'œ', 'ɪ', 'ɔ', 'ɾʲ', 'ɪ', 'b̞', 'ɪ', 'l', 'zʲ', 'a', 'f', 'ɔ']",8,PlayMusic,je veux écouter Melissa Horn,smart-speaker-fr-far,536.wav
+933,"['ʒ', 'ə', 'ɾ', 'ə', 'bʲ', 'e', 'ɪ', 'a', 'm', 'ʃ', 'ɒ', 'ɾʲ', 'ɪ', 'ɕ', 'iː', 'a', 'ɾ']",8,PlayMusic,je veux écouter MGPjr,smart-speaker-fr-far,535.wav
+934,"['y', 'ʒ', 'uə', 's', 'ɪ', 'k', 'ʊ', 'dʲ', 'iː', 'm', 'ɛ', 'ɾ', 'a', 'k', 'ɔ']",8,PlayMusic,je veux écouter Mariana Nolasco,smart-speaker-fr-far,63.wav
+935,"['ʒ', 'ə', 'm', 'ɨ', 'ə', 'ɪ', 'ʊ', 'n', 'd', 'ə', 'tʂ', 'a', 'i', 'n', 'tʂ', 'ʏ', 's', 'ɛ']",8,PlayMusic,je veux écouter Prinssi Jusuf,smart-speaker-fr-far,533.wav
+936,"['ə', 'dʲ', 'iː', 'tɕ', 'm', 'iː', 'ʌ', 'm', 'ɒ', 'ɾ']",8,PlayMusic,je veux écouter Karl William,smart-speaker-fr-far,532.wav
+937,"['ʒ', 'ə', 'ɪ', 't', 'ɛ', 'd', 'i', 't͡ʃʲ', 'ɛ', 'y', 'n', 'ɛ', 'tʂ', 'uə', 'ts', 'a', 'ɔ']",8,PlayMusic,je veux écouter Lil Jon & The East Side Boyz,smart-speaker-fr-far,531.wav
+938,"['ʒ', 'ə', 'h', 'œ', 'iː', 'x', 'ɪ', 'ð', 'ɪ', 'a', 'ɪ']",8,PlayMusic,je veux écouter Abir,smart-speaker-fr-far,530.wav
+939,"['ə', 'ɔ', 'ts', 'iː', 'ɪ', 'k̟ʲ', 'ɪ', 'l', 'iː', 'm', 'a', 'ɴ', 'ә']",8,PlayMusic,je veux écouter Kenny Man,smart-speaker-fr-far,539.wav
+940,"['ʒ', 'ə', 'n', 'ə', 'ɪ', 'k', 'tʲ', 'ɪ', 'm', 'a', 'ɾ', 'a', 'ɡ', 'ɛ']",8,PlayMusic,je veux écouter Nadav Guedj,smart-speaker-fr-far,538.wav
+941,"['ʐ', 'ə', 'p', 'ɨ', 'l', 'd', 'ɪ', 'iː', 'p', 'ɔ', 't', 'ʁ', 'ɔ', 's', 'a', 's', 'ɔ', 's', 'a', 'm', 'e', 'ɒ']",8,PlayMusic,je veux écouter Ufo361,smart-speaker-fr-far,987.wav
+942,"['ʐ', 'ə', 'ʏ', 'l', 'i', 'ɡ', 'ə', 'n', 'ð', 'ɪ', 'ə', 'f', 'uə', 'w', 'a', 'tɕ', 'i', 'ʁ', 'w', 'a', 'm', 'a', 'ɪ', 'ð', 'ə', 'ð', 'ts', 'ɔ', 'l', 't']",8,PlayMusic,je veux écouter Twenty One Pilots,smart-speaker-fr-far,775.wav
+943,"['ʂ', 'ə', 'm', 'ɪ', 'ɡ', 'ə', 'n', 't', 'ə', 's', 'ɒ', 'a']",8,PlayMusic,je veux écouter Frenna,smart-speaker-fr-far,988.wav
+944,"['ʒ', 'ə', 'uə', 'i', 'pʲ', 'e', 'a']",8,PlayMusic,je veux écouter Oasis,smart-speaker-fr-far,989.wav
+945,"['ʒ', 'ə', 'ð', 'ə', 'z', 'ɪ', 'ɡ', 'uə', 't', 'e', 'ɪ', 'm', 'a', 'ʁ', 'x', 't', 'ɒ', 'g', 'a', 'ʁ', 'ɪ']",8,PlayMusic,je veux écouter Martin Garrix,smart-speaker-fr-far,774.wav
+946,"['ɪ', 'lʲ', 'ɪ', 'uː', 'ʁ', 'a', 'ə', 'ʊ', 'n']",8,PlayMusic,je veux écouter Jowell & Randy,smart-speaker-fr-far,982.wav
+947,"['ə', 'ɪ', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Phoebe Ryan,smart-speaker-fr-far,983.wav
+948,"['ɪ', 'n', 'ɪ', 'x']",8,PlayMusic,je veux écouter Ne-Yo,smart-speaker-fr-far,980.wav
+949,"['a', 'ʁ', 'ʊ', 'lʲ', 'ɪ', 'a', 'k', 'uː', 'k', 'ə', 'uə']",8,PlayMusic,je veux écouter Álvaro Soler,smart-speaker-fr-far,981.wav
+950,"['lʲ', 'ɪ', 't', 'ə', 'n', 'm', 'a', 'ɾ', 'ɪ', 'x']",8,PlayMusic,je veux écouter Noah Cyrus,smart-speaker-fr-far,986.wav
+951,"['ʒ', 'ə', 'v', 'ə', 'ts', 'ɪ', 'ɔ', 'm', 'pʲ', 'ɪ', 's', 't', 'a']",8,PlayMusic,je veux écouter ZAYN,smart-speaker-fr-far,777.wav
+952,"['b̞', 'ɪ', 'lʲ', 'ɪ', 'a', 's', 'pʲ', 'ɪ', 'ɾ', 'tʲ', 'i', 'm', 'uə']",8,PlayMusic,je veux écouter Henrique & Diego,smart-speaker-fr-far,985.wav
+953,"['ð', 'ə', 'm', 'ɛ', 'n', 't', 'e', 'm', 'e', 'l', 'i', 'ɛ', 't͡ʃʲ', 'ɒ', 'ð', 'a', 'm', 'ə', 'm']",8,PlayMusic,je veux écouter Neri Per Caso,smart-speaker-fr-far,115.wav
+954,"['ʒ', 'ə', 'v', 'ʌ', 'd', 'ɛ', 'y', 'n', 'pʲ', 'iː', 'a', 'ɔ']",8,PlayMusic,je veux écouter Ventino,smart-speaker-fr-far,114.wav
+955,"['ʁ', 'ɔ', 'ɪ', 'k', 'u', 'ts', 'ɪ', 'd', 'i', 'm', 'ɛ', 'ɔ']",8,PlayMusic,je veux écouter Lin Zheng-Zhong,smart-speaker-fr-far,117.wav
+956,"['ɾ', 'ə', 'm', 'ɤ', 'ð', 'ɛ', 'y', 'bʲ', 'ɪ', 'tɕ', 'j', 'ɴ', 'a', 'l', 'ɪ']",8,PlayMusic,je veux écouter Stina Girs,smart-speaker-fr-far,116.wav
+957,"['ʒ', 'ə', 'm', 'ə', 'ɴ', 'ɪ', 'tʂ', 'ɛ', 'ɪ', 'l', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Ella,smart-speaker-fr-far,111.wav
+958,"['v', 'u', 'ð', 'a', 'b̞', 'ɪ', 'dʲ', 'e', 'ʁ', 'a', 'n', 'ð', 'ɛ', 'i', 'dʲ', 'a', 'n', 'ɪ', 'x']",8,PlayMusic,je veux écouter Antek Smykiewicz,smart-speaker-fr-far,110.wav
+959,"['ʒ', 'ə', 'm', 'uə', 'ə', 'ɪ', 'y', 'n', 'pʲ', 'iː', 'ð', 'ɪ', 'a', 's', 'a', 'ɾ', 'ɛ', 'j', 'a']",8,PlayMusic,je veux écouter Lea Salonga,smart-speaker-fr-far,113.wav
+960,"['ʒ', 'ə', 'm', 'ə', 'ɾ', 'ɪ', 'iː', 'pʲ', 'e', 'ɡ', 'i', 'd', 'ɤ', 'a', 'm', 'iː', 'z']",8,PlayMusic,je veux écouter Idan Amedi,smart-speaker-fr-far,112.wav
+961,"['ʒ', 'ə', 'b̤', 'ə', 'ts', 'ɪ', 'k', 'ɔ', 't', 'ɛ', 'ts', 'ɛ', 'm', 'ɪ', 'x', 'tʂ', 'ɔ', 'v', 'a', 'ts', 'ә']",8,PlayMusic,je veux écouter Demi Lovato,smart-speaker-fr-far,771.wav
+962,"['s̪', 'ʌ', 'b̞', 'a', 'ɛ', 'm', 'uː', 't', 'ɪ', 'b̞', 'a', 'ʁ', 'tɕ', 'iː']",8,PlayMusic,je veux écouter Guo Ding,smart-speaker-fr-far,119.wav
+963,"['ə', 'b̞', 'a', 'ɪ', 'u', 'iː', 'ɪ', 'a', 'm', 'w', 'a', 'ʁ']",8,PlayMusic,je veux écouter AGWA,smart-speaker-fr-far,118.wav
+964,"['ʒ', 'ɪ', 'pʲ', 'ɪ', 'k', 'a']",8,PlayMusic,je veux écouter Arnar,smart-speaker-fr-far,770.wav
+965,"['ʒ', 'ə', 'm', 'ə', 'lʲ', 'ɪ', 'x', 'u', 'pʲ', 'iː', 'a', 'lʲ', 'ɤ̆', 'zʲ', 'i', 'k', 'a', 'ʁ', 'a']",8,PlayMusic,je veux écouter Alessia Cara,smart-speaker-fr-far,773.wav
+966,"['ʒ', 'ə', 'z', 'ɪ', 'k', 'u', 'pʲ', 'ɪ', 'ts', 'ɛ']",8,PlayMusic,je veux écouter Zedd,smart-speaker-fr-far,772.wav
+967,"['t͡ʃʲ', 'ə', 'n', 'iː', 'ʌ', 't', 'e', 'ð', 'ɪ', 'm', 'iː', 'v', 'ɔ']",8,PlayMusic,je veux écouter Zac Efron,smart-speaker-fr-far,953.wav
+968,"['ʒ', 'ə', 'l', 'ɔ', 'ɪ', 'dʲ', 'iː']",8,PlayMusic,je veux écouter LEE HI,smart-speaker-fr-far,429.wav
+969,"['ʒ', 'ɪ', 'i', 'd', 'iː', 'f', 'ɔ']",8,PlayMusic,je veux écouter Grimes,smart-speaker-fr-far,428.wav
+970,"['ʒ', 'ə', 'n', 'ɪ', 'u', 'd', 'iː', 'k̟ʲ', 'ɛ', 'a', 'ə', 'p', 'a', 'm', 'ɔ']",8,PlayMusic,je veux écouter Giang Pham,smart-speaker-fr-far,534.wav
+971,"['ʒ', 'ə', 'ð', 'ɪ', 'ɡ', 'uə', 'ɪ', 'pʲ', 'iː']",8,PlayMusic,je veux écouter P!nk,smart-speaker-fr-far,919.wav
+972,"['ʐ', 'ə', 'b̞', 'ə', 'z', 'i', 'ɡ', 'ə', 'n', 'ð', 'ɪ', 'x', 'ʀ', 'a', 'ɪ', 'ð', 'a', 'ð', 'ə', 'ɪ', 'n']",8,PlayMusic,je veux écouter Skylar Grey,smart-speaker-fr-far,918.wav
+973,"['m', 'ʏ', 'ə', 'n', 'tʲ', 'ə', 'k', 'j', 'ə', 'h', 'ɛ']",8,PlayMusic,je veux écouter Tia Ray,smart-speaker-fr-far,421.wav
+974,"['ʒ', 'ə', 'v', 'ð', 'ə', 'iː', 'k', 'ɔ', 't', 'iː', 'k̟ʲ', 'iː', 'ts', 'a']",8,PlayMusic,je veux écouter Pinkfong,smart-speaker-fr-far,420.wav
+975,"['ʒ', 'ə', 'v', 'iː', 'ts', 'ɪ', 'f', 'ɪ', 'k', 'ə', 'a', 'ɡ', 'iː', 'm', 'a', 'ʊ', 'n', 'd͡ʒ', 'a', 'l', 'ə', 'n', 'a', 'ʊ', 'x', 'ɪ', 't', 'a', 'l̪', 'a']",8,PlayMusic,je veux écouter Clayton-Hamilton Jazz Orchestra,smart-speaker-fr-far,423.wav
+976,"['ʐ', 'ə', 'm', 'ə', 'b̞', 'ɪ', 'tʲ', 'iː', 'lʲ', 'iː', 'a']",8,PlayMusic,je veux écouter Bustamante,smart-speaker-fr-far,422.wav
+977,"['ʒ', 'ə', 'i', 'n', 'pʲ', 'iː', 'ɕ', 'a', 'ɒ', 'ð', 'ə', 'uə']",8,PlayMusic,je veux écouter Sam-E,smart-speaker-fr-far,425.wav
+978,"['ə', 'ð', 'iː', 'ɕ', 'i', 'm', 'ɪ', 'iː']",8,PlayMusic,je veux écouter Simon Erics,smart-speaker-fr-far,424.wav
+979,"['ʒ', 'ə', 'ɪ', 't', 'ɪ', 'n', 'g']",8,PlayMusic,je veux écouter Clara,smart-speaker-fr-far,427.wav
+980,"['ʒ', 'ə', 'u', 'tɕ', 'i', 'p', 'ɔ', 'ʁ', 'lʲ', 'i', 'a', 'ɪ', 'l', 'ts', 'ɔ', 'ð']",8,PlayMusic,je veux écouter Olivia Eliasson,smart-speaker-fr-far,426.wav
+981,"['ʒ', 'iː', 'ɪ', 'zʲ', 'ɪ', 'm', 'ʌ', 'n', 'uə', 'ʁ', 'm', 'i', 'n', 'a']",8,PlayMusic,je veux écouter Renzo Rubino,smart-speaker-fr-far,308.wav
+982,"['ɾ', 'ə', 'm', 'ɛ', 'd', 'ɪ', 'ʒ', 'a', 'ɒ', 'ɴ', 'ʐ', 'ɔ']",8,PlayMusic,je veux écouter Jona Camacho,smart-speaker-fr-far,309.wav
+983,"['ʒ', 'ə', 'lʲ', 'ɪ', 'p', 'uə', 't', 'e', 'm', 'iː', 'n', 'iː', 'm', 'a', 'ʁ', 'a', 'ð', 'a']",8,PlayMusic,je veux écouter Rudimental,smart-speaker-fr-far,855.wav
+984,[],8,PlayMusic,je veux écouter Helen,smart-speaker-fr-far,300.wav
+985,"['tʂ', 'ɻ̩', 'b̞', 'ɪ', 'l', 'uə', 'n', 'tɕ', 'ɪ', 's', 'iː', 't', 'ɛ', 'p', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter Todiefor,smart-speaker-fr-far,301.wav
+986,"['tʂ', 'ɨ', 'ð', 'j', 'e', 'ɡ', 'iː', 'm', 'u', 'tɕ', 'j', 'e', 'j', 'k', 'ɛ', 'ɳ', 'ɴ', 'iː', 'ɕ', 'æ']",8,PlayMusic,je veux écouter K. Michelle,smart-speaker-fr-far,302.wav
+987,"['ʒ', 'ə', 'm', 'ɪ', 'tʲ', 'iː', 'a', 'ɴ', 'ɪ', 's', 'uə', 'b̞', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Agnes Obel,smart-speaker-fr-far,303.wav
+988,"['tʂ', 'ə', 'ts', 'ɪ', 'dʲ', 'ɪ', 'iː', 'ɕ', 'ɛ', 'a']",8,PlayMusic,je veux écouter X JAPAN,smart-speaker-fr-far,304.wav
+989,"['ʒ', 'ə', 'ð', 'ɪ', 'ð', 'ɪ', 'ɡ', 'iː', 'ʌ']",8,PlayMusic,je veux écouter Syd Youth,smart-speaker-fr-far,305.wav
+990,"['ʒ', 'ə', 'b̞', 'ɪ', 'l', 'ɛ', 'tɕ', 'iː', 'l', 'a', 'f', 'ɔ']",8,PlayMusic,je veux écouter Angelina Cruz,smart-speaker-fr-far,306.wav
+991,"['tɕ', 'i', 'ð', 'ɒ', 'm', 'a', 't͡ɕ', 'a', 'tʂ', 'ɪ']",8,PlayMusic,je veux écouter Carlos Cid,smart-speaker-fr-far,307.wav
+992,"['v', 'ɪ', 'm', 'ɤ', 'n', 'ɪ', 'u', 'lʲ', 'ɪ', 'tɕ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter Sigala,smart-speaker-fr-far,895.wav
+993,"['ʂ', 'ə', 'ɪ', 'l', 'ɪ', 'tɕ', 'iː', 'ɡ', 'a']",8,PlayMusic,je veux écouter Grey,smart-speaker-fr-far,825.wav
+994,"['t͡ʃ', 'a', 'n', 'ɪ', 's', 't', 'ɪ', 't', 'ə', 'n', 'tʲ', 'ɪ', 's', 'p', 'i', 'a', 'm', 'a', 'ɪ', 'tʲ', 'ɪ', 'n', 'ɪ', 'x']",8,PlayMusic,je veux écouter Julia Michaels,smart-speaker-fr-far,824.wav
+995,"['ʒ', 'ə', 'ɪ', 'k', 'ɪ', 'k', 'iː', 't', 'a', 'tɕ', 'j', 'i', 'ɔ']",8,PlayMusic,je veux écouter Piso 21,smart-speaker-fr-far,827.wav
+996,"['ʒ', 'ə', 'm', 'ɪ', 'm', 'ɪ', 'ʃ', 'ɪ']",8,PlayMusic,je veux écouter Lauv,smart-speaker-fr-far,847.wav
+997,"['ʒ', 'ə', 'b̞', 'ɪ', 'dʲ', 'ɪ', 'ʁ', 'a', 'k', 'a']",8,PlayMusic,je veux écouter RAF Camora,smart-speaker-fr-far,846.wav
+998,"['ʒ', 'ə', 'm', 'ə', 'ʒ', 'ɪ', 'ð', 'ɪ', 'm', 'a', 'm', 'ɔ', 'n', 'ʒ', 'iː', 'ɪ', 'uə', 'ɾ']",8,PlayMusic,je veux écouter Mambo Kingz,smart-speaker-fr-far,845.wav
+999,"['ʒ', 'ə', 'v', 'ɪ', 'k', 'ɪ', 'tɕ', 'iː', 'k', 'ɔ', 'd', 'ɪ', 't', 'ә']",8,PlayMusic,je veux écouter Offset,smart-speaker-fr-far,826.wav
+1000,"['ʒ', 'ə', 'b̞', 'ə', 'ɪ', 'iː', 'dʲ', 'iː', 't͡ʃʲ', 'y', 'ʁ', 'ʒ', 'iː', 'd', 'ɪ', 't͡ʃʲ', 'k', 'ɒ', 'm', 'iː', 'ð', 'ɔ']",8,PlayMusic,je veux écouter Childish Gambino,smart-speaker-fr-far,843.wav
+1001,"['ʒ', 'ə', 'm', 'ɛ', 'ә', 'dʲ', 'iː', 'l', 'a', 'ɾ', 'a', 'tɕʰ']",8,PlayMusic,je veux écouter Galantis,smart-speaker-fr-far,842.wav
+1002,"['ʒ', 'ə', 'm', 'a', 'tʲ', 'ɪ', 'ә', 'dʲ', 'iː', 'tʲ', 'ɪ', 'b̞', 'uə']",8,PlayMusic,je veux écouter CNCO,smart-speaker-fr-far,841.wav
+1003,"['ʒ', 'ə', 'ә', 'ɪ', 'i', 'dʲ', 'ɪ', 'a', 'l', 'ɪ', 'z', 'ɔ']",8,PlayMusic,je veux écouter Alesso,smart-speaker-fr-far,840.wav
+1004,"['ʊ', 'tɕ', 'ɪ', 'ə', 'ɪ', 'ts', 'ɪ', 'ð', 'ə', 'zʲ', 'a', 'd']",8,PlayMusic,je veux écouter Felix Jaehn,smart-speaker-fr-far,821.wav
+1005,"['ʒ', 'ə', 'v', 'ɪ', 'ts', 'ɪ', 'a', 's', 'uə', 'ɛ', 'ә', 'm', 'ɔ', 'z']",8,PlayMusic,je veux écouter Axwell /\ Ingrosso,smart-speaker-fr-far,853.wav
+1006,"['ʒ', 'ə', 'b̞', 'ɪ', 'i', 'tɕ', 'ɪ', 'ð', 'a', 'ð']",8,PlayMusic,je veux écouter Lorde,smart-speaker-fr-far,849.wav
+1007,"['ʒ', 'ɻ̩', 'ɪ', 'tɕ', 'iː', 'v', 'a', 'ɪ', 'tʲ', 'ɪ', 'v', 'a', 'ɾ', 'k']",8,PlayMusic,je veux écouter OneRepublic,smart-speaker-fr-far,820.wav
+1008,"['ʒ', 'ə', 's', 'ɪ', 'tɕ', 'iː', 'j', 'a', 'ɪ']",8,PlayMusic,je veux écouter Beyoncé,smart-speaker-fr-far,823.wav
+1009,"['t͡ʃʲ', 'ɛ', 'v', 'ʏ', 'ɾ', 'k', 'a', 'tʲ', 'ɒ', 'k', 'ɔ', 'tɕ', 'ɛ', 'l', 'a', 'ɕː', 'ɛ']",8,PlayMusic,je veux écouter One Direction,smart-speaker-fr-far,822.wav
+1010,"['ɪ', 'iː', 't', 'ɪ', 'tɕ', 'iː', 'ɪ', 'l', 'a', 'm']",8,PlayMusic,je veux écouter Joey Montana,smart-speaker-fr-far,954.wav
+1011,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'e', 'lʲ', 'ɪ', 'ʊ', 'n', 'd', 'ɪ', 'y', 'p', 'ɔ', 'lʲ', 'ɪ', 'ɡ', 'a']",8,PlayMusic,je veux écouter Kollegah,smart-speaker-fr-far,1034.wav
+1012,"['tɕ', 'ɪ', 'v̞ʲ', 'ɪ', 'd', 'iː', 'm', 'a', 'ʁ', 'a', 'ts', 'ɛ']",8,PlayMusic,je veux écouter Zara Larsson,smart-speaker-fr-far,1127.wav
+1013,"['ʒ', 'ə', 'm', 'ə', 'dʲ', 'ɪ', 'a', 'm', 'a']",8,PlayMusic,je veux écouter Verdine White,smart-speaker-fr-far,1068.wav
+1014,"['ʒ', 'ə', 'v', 'ʏ', 'i', 'k', 'uə', 't', 'ɪ', 's', 'ʁ', 'a', 'ɴ', 'n', 'ɪ']",8,PlayMusic,je veux écouter Rombai,smart-speaker-fr-far,1038.wav
+1015,"['ʒ', 'ə', 'n', 'ə', 'n', 'ɪ', 'x', 'iː', 't', 'ɪ', 'ɕː', 'a', 'ʁ', 'ʊ', 'ɴ', 'æ']",8,PlayMusic,je veux écouter Showtek,smart-speaker-fr-far,1039.wav
+1016,"['ʐ', 'ɻ̩', 'b̞', 'œ', 'v', 'ɪ', 'k', 'ɪ', 't', 'e', 'a', 'd', 'uə', 's', 'ɻ̩', 'l', 'i', 'ɕ', 'j', 'a', 'ts', 'ʊ']",8,PlayMusic,je veux écouter MC Fioti,smart-speaker-fr-far,1046.wav
+1017,"['n', 'œ', 'ɪ', 'n', 'ɪ', 'x', 'ts', 'uə', 'ɕː', 'ɻ̩', 'ʁ']",8,PlayMusic,je veux écouter Too $hort,smart-speaker-fr-far,568.wav
+1018,"['ɯ', 'ə', 'ɪ', 's', 't', 'n', 'd', 'ɪ', 'x', 't͡ʃʲ', 'ɛ', 'ɪ', 'ts', 'a', 'n', 'a']",8,PlayMusic,je veux écouter Clarice Falcão,smart-speaker-fr-far,569.wav
+1019,"['ʒ', 'ə', 'ð', 'œ', 'ɪ', 'tʲ', 'ɪ', 'ʒ', 'ə', 't', 'a', 'k', 'w', 'ɪ']",8,PlayMusic,je veux écouter Jota Quest,smart-speaker-fr-far,751.wav
+1020,"['d', 'y', 'ð', 'œ', 't̪ʰ', 'ɪ', 'ʁ', 'j', 'ɔ', 'ts', 'ɛ', 'z', 'j', 'ɔ']",8,PlayMusic,je veux écouter Rio Febrian,smart-speaker-fr-far,750.wav
+1021,"['m', 'ɨ', 'ɪ', 'k', 'u', 'tʲ', 'ɪ', 'ts', 'ɪ', 's', 'tʲ', 'a', 'tʂ', 'ɔ', 'ʁ', 'd', 'ɒ']",8,PlayMusic,je veux écouter The Saturdays,smart-speaker-fr-far,757.wav
+1022,"['b̞', 'ɪ', 'tɕ', 'ɪ', 'ɔ', 'ɾ', 'a']",8,PlayMusic,je veux écouter Solar,smart-speaker-fr-far,737.wav
+1023,"['ʒ', 'ə', 'm', 'œ', 'v', 'ɪ', 'k', 'ʊ', 'm', 'e', 'f', 'œ', 'ɾ', 's̪', 'ɔ', 's', 'm', 'ɪ', 'n', 'ɛ']",8,PlayMusic,je veux écouter Cosmo's Midnight,smart-speaker-fr-far,755.wav
+1024,"['ʒ', 'ə', 'h', 'œ', 'ɪ', 'p', 'uə', 'lʲ', 'ɪ', 'a', 'l', 'a', 'ɳ', 'ɪ', 'm', 'tʲ']",8,PlayMusic,je veux écouter Alphabeat,smart-speaker-fr-far,754.wav
+1025,"['ʒ', 'ə', 'b̞', 'ɪ', 'pʲ', 'ɪ', 'ə', 'ʝ', 'a', 't̪ʰ', 'a', 'm', 'i']",8,PlayMusic,je veux écouter Elliott Yamin,smart-speaker-fr-far,560.wav
+1026,"['ə', 'ð', 'ɪ', 'ð', 'iː', 'n', 'iː', 'ʒ', 'uə', 'ij', 'a', 'b̞', 'ɒ', 'a']",8,PlayMusic,je veux écouter Ñejo & Dalmata,smart-speaker-fr-far,561.wav
+1027,"['ʒ', 'ə', 'ɪ', 'n', 'ɪ', 'iː', 'j', 'a']",8,PlayMusic,je veux écouter Juulia,smart-speaker-fr-far,562.wav
+1028,"['ʒ', 'ə', 'm', 'u', 'v', 'ɪ', 'l', 'a', 'ɪ', 'm', 'ɛ']",8,PlayMusic,je veux écouter Samo,smart-speaker-fr-far,563.wav
+1029,"['ʒ', 'ə', 'm', 'œ', 'ɪ', 'k', 'ɔ', 'm', 'ɪ', 'm', 'a']",8,PlayMusic,je veux écouter Maxe,smart-speaker-fr-far,564.wav
+1030,"['ɪ', 'ts', 'ɪ', 'm', 'ɪ', 'iː', 'm', 'ɪ', 'ɾ', 'ɔ']",8,PlayMusic,je veux écouter Mikko,smart-speaker-fr-far,565.wav
+1031,"['ʒ', 'ə', 'm', 'œ', 'ɪ', 'm', 'a', 'lʲ', 'ɛ', 'ɾ', 'tɕ', 'iː', 'uə']",8,PlayMusic,je veux écouter Madalen Duke,smart-speaker-fr-far,566.wav
+1032,"['ʒ', 'ə', 'm', 'œ', 'iː', 's', 'k', 'u', 'ɾʲ', 'iː', 'h', 'a', 'ð', 'a', 'b̞', 'w', 'a']",8,PlayMusic,je veux écouter La Reserva,smart-speaker-fr-far,567.wav
+1033,"['ʒ', 'ə', 'm', 'a']",8,PlayMusic,je veux écouter Marvin Brooks,smart-speaker-fr-far,739.wav
+1034,"['d', 'ə', 'm', 'ɪ', 'pʲ', 'iː', 'i', 'zʲ', 'a', 'p', 'ɒ']",8,PlayMusic,je veux écouter Chapper,smart-speaker-fr-far,229.wav
+1035,"['ts', 'u', 'mʲ', 'ɪ', 'ts', 'ɪ', 'ə', 'a', 'n', 'ð', 'ə', 'f', 'a', 'ɔ', 'ð']",8,PlayMusic,je veux écouter Annika Aakjær,smart-speaker-fr-far,228.wav
+1036,"['ʒ', 'ə', 'ɪ', 't', 'iː', 'ð', 'a', 'ʊ']",8,PlayMusic,je veux écouter Bae Fong,smart-speaker-fr-far,227.wav
+1037,"['ʒ', 'ə', 'n', 'ə', 'iː', 's', 'ɪ', 'm', 'i', 'j', 'œ', 'l', 'ɪ']",8,PlayMusic,je veux écouter Milion+,smart-speaker-fr-far,226.wav
+1038,"['v', 'ɨ', 'm', 'ə', 'pʲ', 'iː', 's', 'ɪ', 'tʲ', 'ɪ', 'm', 'ɔ']",8,PlayMusic,je veux écouter Eivør,smart-speaker-fr-far,225.wav
+1039,"['ʒ', 'iː', 'h', 'ɪ', 'ɯ', 'f', 'ɪ', 'm', 'iː', 't͡ʃ', 'ɛ', 'p', 'a']",8,PlayMusic,je veux écouter Micael,smart-speaker-fr-far,224.wav
+1040,"['d', 'ə', 'm', 'ʏ', 's', 'u', 'ɕː', 'ɪ', 'ɟ', 'a', 'ɕ', 'p', 'a', 'k', 'ɒ', 'f', 'ɔ']",8,PlayMusic,je veux écouter GAZIROVKA,smart-speaker-fr-far,223.wav
+1041,"['v', 'ə', 'v', 'ɪ', 'tʲ', 'iː', 'x', 'ɔ', 'd', 'ɪ', 'x', 's', 'ɛ', 'ʁ', 'n', 'a']",8,PlayMusic,je veux écouter Infernal,smart-speaker-fr-far,222.wav
+1042,"['ʒ', 'ə', 'v', 'ɪ', 'f', 'uə', 'ð', 'ɛ', 'ɪ', 'm', 'e', 'ɾ']",8,PlayMusic,je veux écouter Wings,smart-speaker-fr-far,221.wav
+1043,"['ʒ', 'ə', 'h', 'ə', 'ɪ', 'tʲ', 'iː', 'tɕ', 'a', 'b', 'a', 'g', 'lʲ', 'ɛ']",8,PlayMusic,je veux écouter Jeff Buckley,smart-speaker-fr-far,220.wav
+1044,"['ʒ', 'ə', 'ʁ', 'ə', 'l', 'iː', 'ts', 'ɪ', 'ɕ', 'ɪ', 'm', 'ɒ', 't͡ʃʲ', 'ɻ̩']",8,PlayMusic,je veux écouter Chino & Nacho,smart-speaker-fr-far,1001.wav
+1045,"['ʒ', 'ə', 'ɪ', 'v', 'u', 'tɕ', 'iː', 'dʲ', 'y', 'ʁ', 'd', 'a', 'l', 'ɛ']",8,PlayMusic,je veux écouter Murda Beatz,smart-speaker-fr-far,1024.wav
+1046,"['ʒ', 'ə', 'l', 'ə', 'ɾʲ', 'ɪ', 'x', 'u', 't', 'ɪ', 'ɛ', 'n', 'ɪ', 'x', 'a', 'ɾ', 'ɪ', 'ts', 'b̞', 'y', 'ɾ']",8,PlayMusic,je veux écouter Panic! At The Disco,smart-speaker-fr-far,1027.wav
+1047,"['t͡ʃʲ', 'ə', 'v', 'e', 'uə', 'ts', 'iː', 'n', 'ɛ', 'p', 'w', 'ɔ', 'ɾ', 'a', 'k', 'ɔ̃']",8,PlayMusic,je veux écouter Ina Wroldsen,smart-speaker-fr-far,1026.wav
+1048,"['ɪ', 'ɕ', 'ə', 'a']",8,PlayMusic,je veux écouter Lookas,smart-speaker-fr-far,1021.wav
+1049,"['s', 'ɻ̩', 'd', 'ɪ', 'z', 'ɪ', 'n', 'ʂ', 'a', 'ɪ']",8,PlayMusic,je veux écouter PnB Rock,smart-speaker-fr-far,1020.wav
+1050,"['l', 'ɪ', 's', 'a', 's', 't', 'a', 't̪', 'a']",8,PlayMusic,je veux écouter Jack & Jack,smart-speaker-fr-far,1023.wav
+1051,"['ʊ', 's', 'ɪ', 'ts', 'ɪ', 's', 'ə', 'f', 'a']",8,PlayMusic,je veux écouter Capo Plaza,smart-speaker-fr-far,1022.wav
+1052,"['ʒ', 'ə', 'v', 'ə', 'z', 'ɪ', 'ɡ', 'uə', 't', 'ɪ', 'm', 'ɪ', 'ʋ', 'm', 'ɛ', 'n']",8,PlayMusic,je veux écouter Meek Mill,smart-speaker-fr-far,1036.wav
+1053,"['m', 'ə', 'm', 'ɪ', 'b̞', 'ɪ', 'i', 'ð', 'ɔ', 'l', 'ə']",8,PlayMusic,je veux écouter Migos,smart-speaker-fr-far,1115.wav
+1054,"['ʒ', 'ʏ', 'ʒ', 'œ', 'ð', 'ɪ', 'x', 'u', 'tɕ', 'iː', 'ð', 'w', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter Bryant Myers,smart-speaker-fr-far,1029.wav
+1055,"['ʒ', 'ɛ', 'v', 'ə', 'l', 'ə', 'ɕ', 'ɒ', 'ɴ', 'p', 'a', 'b', 'a']",8,PlayMusic,je veux écouter Schwesta Ewa,smart-speaker-fr-far,391.wav
+1056,"['ʒ', 'ə', 'm', 'ə', 'ts', 'ɪ', 'u', 'lʲ', 'ɪ', 's', 'lʲ', 'ɪ', 't͡ʃʲ', 'k̟ʲ', 'ɪ', 's', 'iː', 'ɟ', 'iː', 'j']",8,PlayMusic,je veux écouter Slim Jxmmi,smart-speaker-fr-far,1037.wav
+1057,"['ʒ', 'ə', 'b̞', 'œ', 'v', 'ɪ', 's', 't', 'ɪ', 'l', 'a', 'j', 'ʝ', 'a', 'dʲ', 'iː', 'ts', 'u']",8,PlayMusic,je veux écouter Playa Limbo,smart-speaker-fr-far,726.wav
+1058,"['ʒ', 'ə', 'h', 'œ', 'ɪ', 'k', 'uə', 'pʲ', 'iː', 'k', 'ɛ', 'h', 'ɒ', 'z']",8,PlayMusic,je veux écouter Kenay,smart-speaker-fr-far,727.wav
+1059,"['ʂ', 'ə', 'pʲ', 'ɪ', 'iː', 'l', 'ɛ', 'n', 'i']",8,PlayMusic,je veux écouter Ezad Lazim,smart-speaker-fr-far,724.wav
+1060,"['ʒ', 'ə', 'b̞', 'ɛ', 'ts', 'ɪ', 'k', 'u', 'dʲ', 'ɪ', 'ʁ', 'w', 'a', 'ɡ', 'iː']",8,PlayMusic,je veux écouter Houari,smart-speaker-fr-far,390.wav
+1061,"['ʒ', 'ə', 'œ', 'dʲ', 'ɪ', 'ʁ', 'i', 'tɕ', 'iː', 'n', 'ɔ', 'ʁ', 'm', 'j', 'a', 'n', 'a']",8,PlayMusic,je veux écouter Siti Nordiana,smart-speaker-fr-far,722.wav
+1062,"['ʒ', 'ə', 'ɤ', 'ɪ', 'ɔ', 'n', 'ə', 'm', 'uə', 'ɡ', 'i']",8,PlayMusic,je veux écouter The Mowgli's,smart-speaker-fr-far,723.wav
+1063,"['ʒ', 'ə', 'ð', 'ɛ', 'ɯ', 'tɕ', 'iː', 'x', 'w', 'a', 'ә', 'u']",8,PlayMusic,je veux écouter Quadron,smart-speaker-fr-far,720.wav
+1064,"['ʝ', 'ə', 'œ', 'ɪ', 't', 'n', 'ts', 'ɪ', 'x', 'ɛ', 'n', 'zʲ', 'i', 'ə', 'a', 'ʃ']",8,PlayMusic,je veux écouter Mc Th,smart-speaker-fr-far,721.wav
+1065,"['ʒ', 'ə', 'v', 'ə', 'ts', 'ɪ', 'uə', 'pʲ', 'iː', 'pʲ', 'iː', 'tɕ', 'ɪ', 'p', 'l', 'a', 'b̞', 'ɔ']",8,PlayMusic,je veux écouter benny blanco,smart-speaker-fr-far,1035.wav
+1066,"['d͡ʒ', 'y', 'm', 'ð', 'œ', 'iː', 'dʲ', 'iː', 'o', 'm', 'ɛ', 't', 'a', 's', 'iː']",8,PlayMusic,je veux écouter Ömer Topçu,smart-speaker-fr-far,728.wav
+1067,"['d', 'ʏ', 'm', 'ɪ', 'x', 't', 'pʲ', 'iː', 's', 't̪', 'a', 'ɾ', 'ts', 'a', 'ɪ', 'ɾ']",8,PlayMusic,je veux écouter Southside,smart-speaker-fr-far,729.wav
+1068,"['ʒ', 'ə', 'v', 'œ', 'k', 'ɪ', 'tʲ', 'iː', 'h', 'ɒ', 'ɾ', 'ә']",8,PlayMusic,je veux écouter Ravi,smart-speaker-fr-far,151.wav
+1069,"['ʒ', 'ʏ', 'œ', 'ɪ', 'iː', 'b̞', 'ɪ', 'm', 'a', 'ɕ', 'i', 'a', 'ɾ', 'ʊ', 'a', 'ʁ', 't', 'uə', 's', 'a', 'p', 'ʀ']",8,PlayMusic,je veux écouter Mike,smart-speaker-fr-far,150.wav
+1070,"['ʒ', 'ʏ', 'ð', 'œ', 'ɾ', 'ɪ', 'iː', 'lʲ', 'ɪ', 'w', 'a', 'ʀ', 'ә', 'ts', 'i', 'ɪ']",8,PlayMusic,je veux écouter W.A.R.I.S,smart-speaker-fr-far,153.wav
+1071,"['l', 'ə', 'œ', 'ɪ', 'dʲ', 'iː', 't', 'm', 'ɛ']",8,PlayMusic,je veux écouter Nate,smart-speaker-fr-far,152.wav
+1072,"['ʒ', 'ə', 'm', 'œ', 'ʊ', 'pʲ', 'ɪ', 'dʲ', 'iː', 't', 'a', 'ɡ', 'iː', 's', 'u']",8,PlayMusic,je veux écouter Stanly Hsu,smart-speaker-fr-far,155.wav
+1073,"['ʒ', 'ə', 'ð', 'ɪ', 'ə', 'g', 'l', 'ɪ', 'n', 'i', 'x', 'a', 'b̞', 'a', 'l', 'a']",8,PlayMusic,je veux écouter Tegan and Sara,smart-speaker-fr-far,154.wav
+1074,"['ʒ', 'ə', 'ð', 'ə', 'lʲ', 'ɪ', 'lʲ', 'ɪ', 'n', 'k', 'ɾ', 'w', 'a', 'ɾ']",8,PlayMusic,je veux écouter Cry,smart-speaker-fr-far,157.wav
+1075,"['ʒ', 'ə', 'b̞', 'ə', 'ð', 'ɪ', 'ɡ', 'u', 'pʲ', 'ɪ', 's', 'ɒ', 'l', 'ɪ']",8,PlayMusic,je veux écouter Sam Lee,smart-speaker-fr-far,156.wav
+1076,"['ɪ', 'ʃ', 'ə', 'ɾ', 'ʏ', 'z', 'ɪ', 'k', 'ə', 'n', 't', 'ɪ', 'x', 'ʝ', 'a', 'n', 'ð', 'ɪ', 's', 't͡ʃʲ', 'a', 'n', 'd']",8,PlayMusic,je veux écouter Young the Giant,smart-speaker-fr-far,159.wav
+1077,"['ʒ', 'ə', 'b̞', 'ə', 'lʲ', 'ɪ', 'iː', 't', 'ɪ', 'x', 'd', 'i', 'b̞', 'w', 'a', 'ɒ', 't', 'a', 'ɾ']",8,PlayMusic,je veux écouter Miwata,smart-speaker-fr-far,158.wav
+1078,"['ʒ', 'ɪ', 'ð', 'ə', 'd', 'ɪ', 'ʐ', 'a']",8,PlayMusic,je veux écouter Jare,smart-speaker-fr-far,609.wav
+1079,"['ʒ', 'ə', 't͡ʃʲ', 'y', 'k', 'u', 'pʲ', 'ɛ', 'tɕʰ', 'i', 'ɪ', 'f', 'j', 'uə']",8,PlayMusic,je veux écouter Philip Emilio,smart-speaker-fr-far,608.wav
+1080,"['ɻ̩', 'uː', 'tɕ', 'ɪ', 'a', 's']",8,PlayMusic,je veux écouter A$AP Ferg,smart-speaker-fr-far,976.wav
+1081,"['ʒ', 'ə', 'ɪ', 'u', 'tʲ', 'iː', 'd͡ʒ', 'y', 'l', 'j', 'a', 'u']",8,PlayMusic,je veux écouter Julia Wu,smart-speaker-fr-far,634.wav
+1082,"['ʒ', 'ə', 'ɪ', 'tɕ', 'iː', 'v', 'a', 'ɟ', 'ɥ', 'iː']",8,PlayMusic,je veux écouter OT,smart-speaker-fr-far,399.wav
+1083,"['ʒ', 'ə', 'dʲ', 'iː', 't͡ɕ', 'a', 'm', 'ɛ']",8,PlayMusic,je veux écouter K$upreme,smart-speaker-fr-far,635.wav
+1084,"['ɪ', 'v', 'ɪ', 'l', 'ɪ', 's', 'pʲ', 'ɛ', 'm', 'ɪ', 'ɾ', 'ə', 'n', 'ɪ', 'x', 'ʁ', 'ɔ']",8,PlayMusic,je veux écouter Meryl Streep,smart-speaker-fr-far,749.wav
+1085,"['ʒ', 'ə', 'm', 'ʏ', 'pʲ', 'iː', 'ɪ', 'tʲ', 'ɛ', 'ʝ', 'ɔ', 'g', 'ɛ', 'n', 'z', 'ә']",8,PlayMusic,je veux écouter Yo Gotti,smart-speaker-fr-far,958.wav
+1086,"['t͡ʃʲ', 'y', 'ɪ', 'u', 'dʲ', 'iː', 'ʀ', 'ɔ', 't͡ʃʲ', 'ɻ̩', 'k', 'ɛ', 'p', 'ɔ']",8,PlayMusic,je veux écouter Rocío Garcel,smart-speaker-fr-far,398.wav
+1087,"['d͡ʒ', 'ʏ', 'm', 'ə', 'pʲ', 'iː', 'ɪ', 'n', 'ɔ', 'ɾ', 'ɛ', 'iː', 'ɛ']",8,PlayMusic,je veux écouter NOK FTF,smart-speaker-fr-far,48.wav
+1088,"['d', 'ə', 'm', 'ʏ', 'k', 'u', 'dʲ', 'iː', 'b', 'ɪ', 'ɛ', 's', 'ɛ']",8,PlayMusic,je veux écouter BFL,smart-speaker-fr-far,49.wav
+1089,"['h', 'ɨ', 'ɪ', 's', 't', 'ɪ', 'n', 'v', 'ɛ', 'a', 'tʲ', 'ɛ', 'ɔ']",8,PlayMusic,je veux écouter Kayla Diamond,smart-speaker-fr-far,46.wav
+1090,"['d', 'v', 'œ', 'ә', 'pʲ', 'ɪ', 'zʲ', 'a', 'ɴ', 'ɛ', 'ɔ']",8,PlayMusic,je veux écouter Anevo,smart-speaker-fr-far,47.wav
+1091,"['ʒ', 'ə', 'ɛ', 'ɪ', 's', 'k', 'u', 't', 'ɪ', 'ʒ', 'ɛ', 'tɕ', 'i', 'n', 'a', 'ɾ', 'ʂ', 'ɥ', 'i']",8,PlayMusic,je veux écouter Justyna Święs,smart-speaker-fr-far,44.wav
+1092,"['ʒ', 'ə', 'ð', 'œ', 'b̞', 'ɪ', 'iː', 'b̞', 'a', 'd', 'ɪ', 'n', 'ɪ', 'zʲ']",8,PlayMusic,je veux écouter Vanrip,smart-speaker-fr-far,45.wav
+1093,"['ts', 'ə', 'pʲ', 'ɪ', 'dʲ', 'iː', 'ʂ', 'a', 'ɲ', 'ə']",8,PlayMusic,je veux écouter SOYEON,smart-speaker-fr-far,42.wav
+1094,"['ts', 'ə', 'n', 'pʲ', 'ɪ', 'tɕ', 'iː', 'm', 'ɛ', 's', 'a', 'tʲ', 'a', 'ɔ', 'ә']",8,PlayMusic,je veux écouter Berry Sakharof,smart-speaker-fr-far,43.wav
+1095,"['ʒ', 'ə', 'v̞ʲ', 'a', 'pʲ', 'ɪ', 'ә', 't', 'e', 'f', 'i', 'n', 'ɪ']",8,PlayMusic,je veux écouter SinB,smart-speaker-fr-far,40.wav
+1096,"['ʒ', 'ə', 'ɛ', 'ɪ', 'tʲ', 'ɪ', 'f', 'ɛ', 'ʒ']",8,PlayMusic,je veux écouter SEULGI,smart-speaker-fr-far,41.wav
+1097,"['ʂ', 'ɻ̩', 'n', 'e', 'ɕ', 'y', 'x', 'tʲ', 'e', 'm', 'iː', 'ʝ', 'i', 'm', 'i', 'n', 'a', 'ʒ']",8,PlayMusic,je veux écouter Nicki Minaj,smart-speaker-fr-far,1111.wav
+1098,"['ə', 'ɪ', 'ts', 'ɪ', 'd͡ʒ', 'ɯ', 'ɔ', 'ә', 'ɡ', 'a']",8,PlayMusic,je veux écouter Juhn Allstar,smart-speaker-fr-far,638.wav
+1099,"['d͡ʒ', 'ə', 'b̞', 'ɪ', 'n', 'dʲ', 'ɪ', 'iː', 't͡ʃʲ', 'iː', 'ð', 'ɔ']",8,PlayMusic,je veux écouter Future,smart-speaker-fr-far,1113.wav
+1100,"['tʂ', 'ʏ', 'ð', 'ɪ', 'iː', 'tʂ', 'iː', 's', 'ɪ', 'iː', 'ɴ', 'a', 'ɡ', 'ʌ', 'b̞', 'ɛ']",8,PlayMusic,je veux écouter Selena Gomez,smart-speaker-fr-far,1112.wav
+1101,"['tʂ', 'ə', 'b̞', 'ɪ', 'ɡ', 'n', 'ts', 'ɪ', 'ɕ', 'i', 'ɒ']",8,PlayMusic,je veux écouter Chillouh,smart-speaker-fr-far,5.wav
+1102,"['ɪ', 'u', 'pʲ', 'iː', 'a', 'ɴ', 'ɪ', 'a', 'tɕ', 'ɪ']",8,PlayMusic,je veux écouter Major Lazer,smart-speaker-fr-far,1114.wav
+1103,"['ʒ', 'ə', 'ɾ', 'œ', 'ɛ', 'p', 'u', 't', 'e', 'd', 'w', 'ʏ', 'n', 'ɔ', 'b̞', 'ɒ', 's']",8,PlayMusic,je veux écouter Bruno Mars,smart-speaker-fr-far,1117.wav
+1104,"['ʒ', 'ə', 'ð', 'ə', 'b̤', 'æ', 'v', 'ɪ', 'm', 'ɛ', 'ʒ', 'ɪ']",8,PlayMusic,je veux écouter Lionel Richie,smart-speaker-fr-far,639.wav
+1105,"['ʒ', 'ə', 'l', 'u', 'ʁ', 't', 'e', 'ʃ', 'a', 'ә', 'p', 'œ']",8,PlayMusic,je veux écouter Charlie Puth,smart-speaker-fr-far,1119.wav
+1106,"['ʒ', 'ə', 'ʁ', 'ɛ', 'p', 'uə', 'tʂ', 'ɪ', 's', 'tʲ', 'ɒ', 's̪', 'ɔ']",8,PlayMusic,je veux écouter Sam Smith,smart-speaker-fr-far,1118.wav
+1107,"['ʒ', 'ə', 'v', 'tʲ', 'iː', 's', 'ɒ', 'k', 'ʌ', 'a', 'n', 'ɪ', 'ɡ', 'iː']",8,PlayMusic,je veux écouter Cem Belevi,smart-speaker-fr-far,489.wav
+1108,"['ʒ', 'ə', 'v', 'ɪ', 't', 'ə', 'n', 'ts', 'ɪ', 'ə', 'n', 'ə', 'ɾ', 'ɪ', 'k', 'a', 's', 'ɾ', 'ɛ', 'ɾ', 'x']",8,PlayMusic,je veux écouter Nabila Razali,smart-speaker-fr-far,488.wav
+1109,"['ʒ', 'ə', 'm', 'ɪ', 'k', 'u', 't', 'iː', 'm', 'a', 'ɾ', 'ɛ', 'ɕ', 'ɛ', 'l']",8,PlayMusic,je veux écouter Wellhello,smart-speaker-fr-far,487.wav
+1110,"['ʒ', 'iː', 'm', 'ɪ', 'd', 'iː', 'ð', 'ə', 'v', 'ɛ', 'k', 'ʂ', 'a', 'ð', 'ɪ']",8,PlayMusic,je veux écouter Savage Garden,smart-speaker-fr-far,486.wav
+1111,"['ɪ', 'ts', 'ɪ', 'ʊ', 'tɕ', 'iː', 'i', 'm', 'ɔ', 't', 'uə', 'ʐ', 'ɻ̩', 'l', 'a', 'ɾ']",8,PlayMusic,je veux écouter Mikko Pohjola,smart-speaker-fr-far,485.wav
+1112,"['ʒ', 'ɪ', 'm', 'ɪ', 't', 'ts', 'iː', 'ts', 'ɪ', 'x', 'tʲ', 'iː', 'm', 'v', 'ɛ', 'ɾ']",8,PlayMusic,je veux écouter Pepe Willberg,smart-speaker-fr-far,484.wav
+1113,"['ʒ', 'ə', 'ɪ', 'pʲ', 'iː', 'd͡ʒ', 'n', 'p', 'ɔ', 'p', 'a', 'ɾ', 'd', 'a', 'ɾ', 'a', 'n', 'ʃ']",8,PlayMusic,je veux écouter Jay 305,smart-speaker-fr-far,483.wav
+1114,"['ʒ', 'ə', 'm', 'ɪ', 't', 'ə', 'ts', 'ɪ', 'ʃ', 'a', 'm', 'ә', 'f', 'ɔ', 'ʁ', 't', 'œ', 'ɾ']",8,PlayMusic,je veux écouter Charming Horses,smart-speaker-fr-far,482.wav
+1115,"['ʒ', 'ə', 'ɪ', 'tɕ', 'ɪ', 'ʒ', 'a', 'ts', 'ɔ', 'm']",8,PlayMusic,je veux écouter Julia Stone,smart-speaker-fr-far,481.wav
+1116,"['ʒ', 'ə', 'm', 'ə', 'ts', 'ɪ', 'x', 'u', 'e', 'a', 'ɡ', 'i', 'ʌ']",8,PlayMusic,je veux écouter Aliyah,smart-speaker-fr-far,480.wav
+1117,"['ʒ', 'ə', 'm', 'ɪ', 'ð', 'ə', 'ʁ', 'e', 'ɪ', 'm', 'ɛ', 't͡ʃʲ', 'ɻ̩', 'a']",8,PlayMusic,je veux écouter Hugh Jackman,smart-speaker-fr-far,955.wav
+1118,"['ʒ', 'ə', 'b̞', 'ə', 'ts', 'ɪ', 'k', 'u', 'pʲ', 'iː', 'a', 'ә', 'tɕʰ', 'iː', 'm', 'ɛ']",8,PlayMusic,je veux écouter Altimet,smart-speaker-fr-far,472.wav
+1119,"['ʒ', 'ə', 'v', 'ʏ', 'ð', 'ɪ', 'k', 'uə', 't', 'e', 'y', 'n', 'm', 'iː', 'ɾ', 'ɔ', 'ɴ', 'a', 'b̤', 'ɪ', 'ɔ̃']",8,PlayMusic,je veux écouter Millonario,smart-speaker-fr-far,473.wav
+1120,"['ɪ', 'ð', 'ɪ', 'ʐ', 'œ', 'a', 's', 'a', 'ɾ']",8,PlayMusic,je veux écouter James Morrison,smart-speaker-fr-far,470.wav
+1121,"['ʒ', 'ə', 'ɾ', 'ə', 'ð', 'ɪ', 'ә', 'pʲ', 'ɪ', 'g', 'ʁ', 'a', 'ts', 'ɪ', 'iː', 'k', 'w', 'a', 'ʌ']",8,PlayMusic,je veux écouter Grady Guan,smart-speaker-fr-far,471.wav
+1122,"['ʐ', 'ʏ', 'z', 'i', 'ɡ', 'ə', 'n', 'ts', 'ɪ', 'ə', 'a', 'n', 'ə', 'a', 'n', 't', 'ɔ', 'x', 'o', 'm', 't͡ʃʲ', 'ə', 'ð', 'a']",8,PlayMusic,je veux écouter Ana Torroja,smart-speaker-fr-far,476.wav
+1123,"['ʒ', 'ə', 'ɾ', 'ə', 'lʲ', 'ɪ', 'k', 'u', 't', 'ɛ', 'uə', 't', 'a', 'ɾ']",8,PlayMusic,je veux écouter Gutta,smart-speaker-fr-far,477.wav
+1124,"['ʒ', 'ə', 'n', 'ə', 'lʲ', 'i', 'ɡ', 'ə', 'n', 'dʲ', 'iː', 'd', 'œ', 'ts', 'ɔ', 'm', 'ʊ', 'n', 't͡ʃʲ', 'a', 'l']",8,PlayMusic,je veux écouter Bird Thongchai,smart-speaker-fr-far,474.wav
+1125,"['ʒ', 'ə', 'v', 'ə', 'ð', 'ɪ', 'k', 'u', 'pʲ', 'ɛ', 'pʲ', 'iː', 'tɕʰ', 'iː', 'ɒ', 'ɔ', 'ʁ']",8,PlayMusic,je veux écouter DJ Arow,smart-speaker-fr-far,475.wav
+1126,"['ʒ', 'ə', 'ɾ', 'ə', 'ts', 'ɪ', 'k', 'u', 't', 'iː', 'p', 'a', 'ʁ', 'e', 'ə', 'ʁ', 'a', 'd', 'ә', 'm', 'uə', 't', 'ɒ', 'ʁ']",8,PlayMusic,je veux écouter Andre Hehanussa,smart-speaker-fr-far,478.wav
+1127,"['ʒ', 'ə', 'm', 'ə', 'z', 'ɪ', 'ɡ', 'u', 'dʲ', 'iː', 'ɪ', 'ʁ', 'a']",8,PlayMusic,je veux écouter Skrapz,smart-speaker-fr-far,479.wav
