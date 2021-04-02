@@ -1,0 +1,10 @@
+id,label
+0,navigation
+1,set_destination
+2,cancel_navigation
+3,play_music
+4,music_by_singer
+5,play_video
+6,video_by_person
+7,recommend_video
+8,request_weather
