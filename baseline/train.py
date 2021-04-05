@@ -6,29 +6,26 @@ from torch.utils.data import Dataset, DataLoader
 import json
 import time
 from lscn import LSCNsClassifier
-from phoneset import PhoneDataset
+from phoneset import PhoneDataset, load_phone_idx
+import os
 
 import argparse
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--epochs', type=int, default=120)
+    parser.add_argument('--epochs', type=int, default=20)
+    parser.add_argument('--lr', type=float, default=1e-4)
+    parser.add_argument('--dir', type=str, required=True) # ex: "memory/enfr/en"
+    parser.add_argument('--save_model_path', type=str, default="best_model/en_best.pt")
     return parser.parse_args()
 
 args = get_args()
 
+# Reproducibility
+torch.manual_seed(123)
+np.random.seed(123)
 
 
-TRAIN_EN_X = "../memory/enfr/en/train_x.npy"
-TRAIN_EN_Y = "../memory/enfr/en/train_y.npy"
-VALID_EN_X = "../memory/enfr/en/valid_x.npy"
-VALID_EN_Y = "../memory/enfr/en/valid_y.npy"
-
-
-
-def load_phone_idx(file_path="../memory/enfr/en/phone_idx.json"):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
 
 def train_epoch(model, train_loader, criterion, optimizer, device):
     model.train()
@@ -68,7 +65,7 @@ def valid_epoch(model, valid_loader, criterion, device):
         total_predictions = 0
         correct_predictions = 0
     
-        for batch_idx, (x_padded, x_lengths, target) in enumerate(train_loader):
+        for batch_idx, (x_padded, x_lengths, target) in enumerate(valid_loader):
             x_padded = x_padded.to(device)
             target = target.to(device)
             outputs = model(x_padded, x_lengths)
@@ -79,7 +76,7 @@ def valid_epoch(model, valid_loader, criterion, device):
             running_loss += loss.item()
     
     end_time = time.time()
-    running_loss /= len(train_loader)
+    running_loss /= len(valid_loader)
     accuracy = (correct_predictions/total_predictions) * 100.0
     print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
     print("Validation Accuracy", accuracy, "%")
@@ -88,18 +85,24 @@ def valid_epoch(model, valid_loader, criterion, device):
 
 
 def main():
-    train_x = np.load(TRAIN_EN_X, allow_pickle=True)
-    train_y = np.load(TRAIN_EN_Y, allow_pickle=True)
-    valid_x = np.load(VALID_EN_X, allow_pickle=True)
-    valid_y = np.load(VALID_EN_Y, allow_pickle=True)
-    phone2idx = load_phone_idx()
+    train_x = np.load(os.path.join(args.dir, "train_x.npy"), allow_pickle=True)
+    train_y = np.load(os.path.join(args.dir, "train_y.npy"), allow_pickle=True)
+    valid_x = np.load(os.path.join(args.dir, "dev_x.npy"), allow_pickle=True)
+    valid_y = np.load(os.path.join(args.dir, "dev_y.npy"), allow_pickle=True)
+    phone2idx = load_phone_idx(os.path.join(args.dir, "phone_idx.json"))
 
+    # labels in english dataset are [0, 1, 2, 3, 4, 5, 8], change 8 to 6
+    # In chinese, they are [0,1, ..., 8], and will be unchanged
+    max_label = np.max(train_y)
+    train_y[train_y == max_label] = len(np.unique(train_y)) - 1
+    valid_y[valid_y == max_label] = len(np.unique(valid_y)) - 1
+    
     train_dataset = PhoneDataset(train_x, train_y)
     valid_dataset = PhoneDataset(valid_x, valid_y)
     train_loader = DataLoader(train_dataset, shuffle=True, batch_size=32, num_workers=8, collate_fn=PhoneDataset.collate_fn)
     valid_loader = DataLoader(valid_dataset, shuffle=False, batch_size=32, collate_fn=PhoneDataset.collate_fn)
 
-    vocab_size =  len(phone2idx)
+    vocab_size = len(phone2idx)
     num_classes = len(np.unique(train_y))
 
     model = LSCNsClassifier(vocab_size, num_classes)
@@ -110,13 +113,24 @@ def main():
     model.to(device)
     print(model)
 
-    num_epochs = 120
+    num_epochs = args.epochs
+    
+    best_model_dict = None
+    best_acc = 0
 
     for epoch in range(1, num_epochs + 1):
         train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device)
         valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device)
         print("Epoch {} finished.".format(epoch))
         print('='*20)
+        
+        if valid_acc > best_acc:
+            best_model_dict = model.state_dict()
+            best_acc = valid_acc
+    if best_model_dict is not None:
+        torch.save(best_model_dict, args.save_model_path)
+    print("Best validation accuracy: ", best_acc, "%")
+        
 
 if __name__ == "__main__":
     main()
