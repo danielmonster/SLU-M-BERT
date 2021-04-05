@@ -26,6 +26,8 @@ python3 baseline/train.py --epochs=50 --lr=1e-4 --dir=memory/enfr/en \
 
 This gives best validation accuracy of 57.22%.
 
+To evaluate on the test set,
+
 ```
 python3 baseline/eval.py --test_dir=memory/enfr/en --model=best_model/en_best.pt
 ```
