@@ -21,7 +21,7 @@ in `preprocess/preprocess_data_Chinese.ipynb`.
 ### Train/test a model for English dataset
 
 ```
-python3 baseline/train.py --epochs=50 --lr=1e-4 --dir=memory/enfr/en \
+python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/enfr/en \
 --save_model_path=best_model/en_best.pt
 ```
 
