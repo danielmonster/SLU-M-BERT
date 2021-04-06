@@ -28,6 +28,7 @@ class LSCNsClassifier(nn.Module):
 
         self.convA = nn.Conv1d(embedding_dim, num_filters, 3, padding=1)
         self.convB = nn.Conv1d(embedding_dim, num_filters, 5, padding=2)
+        self.bn = nn.BatchNorm1d(num_filters * 2)
         self.lstm = nn.LSTM(256, lstm_hidden, batch_first=True)
         self.linear = nn.Linear(lstm_hidden, num_classes)
     
@@ -38,6 +39,7 @@ class LSCNsClassifier(nn.Module):
         A = self.convA(out) # (bs, num_filters, seq_len)
         B = self.convB(out) # (bs, num_filters, seq_len)
         out = torch.cat((A, B), 1) # (bs, 2 * num_filters, seq_len)
+        out = self.bn(out)
         out = out.transpose(1, 2) # (bs, seq_len, 2 * num_filters)
         out = pack_padded_sequence(out, x_lengths, batch_first=True, enforce_sorted=False)
         packed_out, _ = self.lstm(out) # (bs, seq_len, lstm_hidden)
