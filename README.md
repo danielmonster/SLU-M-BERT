@@ -5,6 +5,7 @@
 ### To preprocess the English dataset
 
 ```
+mkdir memory
 cd preprocess
 python3 preprocess/preprocess_enfr.py --lang=en
 ```
@@ -24,7 +25,7 @@ python3 baseline/train.py --epochs=50 --lr=1e-4 --dir=memory/enfr/en \
 --save_model_path=best_model/en_best.pt
 ```
 
-This gives best validation accuracy of 57.22%.
+This gives best validation accuracy of 60.03%.
 
 To evaluate on the test set,
 
@@ -36,11 +37,11 @@ python3 baseline/eval.py --test_dir=memory/enfr/en --model=best_model/en_best.pt
 ### Train/test a model for Chinese dataset
 
 ```
-python3 baseline/train.py --epochs=110 --lr=1e-4 --dir=memory/cn/ \
+python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/cn/ \
 --save_model_path=best_model/cn_best.pt
 ```
 
-This gives best validation accuracy of 46.766%.
+This gives best validation accuracy of 68.12%.
 
 Test labels for CN dataset are not given.
 
