@@ -21,8 +21,8 @@ class LSCNsClassifier(nn.Module):
     '''
 
 
-    def __init__(self, vocab_size, num_classes, embedding_dim=128, 
-                    num_filters=128, lstm_hidden=128):
+    def __init__(self, vocab_size, num_classes, embedding_dim, 
+                    num_filters, lstm_hidden):
         super(LSCNsClassifier, self).__init__()
         self.embed = nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
 
@@ -30,7 +30,7 @@ class LSCNsClassifier(nn.Module):
         self.convB = nn.Conv1d(embedding_dim, num_filters, 5, padding=2)
         self.bn = nn.BatchNorm1d(num_filters * 2)
         self.relu = nn.ReLU()
-        self.lstm = nn.LSTM(256, lstm_hidden, batch_first=True)
+        self.lstm = nn.LSTM(num_filters * 2, lstm_hidden, batch_first=True)
         self.linear = nn.Linear(lstm_hidden, num_classes)
     
     def forward(self, x, x_lengths):

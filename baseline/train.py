@@ -3,6 +3,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
+from torch.optim.lr_scheduler import ReduceLROnPlateau
 import json
 import time
 from lscn import LSCNsClassifier
@@ -13,8 +14,11 @@ import argparse
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--epochs', type=int, default=20)
-    parser.add_argument('--lr', type=float, default=1e-4)
+    parser.add_argument('--epochs', type=int, default=50)
+    parser.add_argument('--lr', type=float, default=1e-3)
+    parser.add_argument('--embed_dim', type=int, default=128)
+    parser.add_argument('--num_filters', type=int, default=128)
+    parser.add_argument('--lstm_hidden', type=int, default=128)
     parser.add_argument('--dir', type=str, required=True) # ex: "memory/enfr/en"
     parser.add_argument('--save_model_path', type=str, default="best_model/en_best.pt")
     return parser.parse_args()
@@ -104,14 +108,21 @@ def main():
 
     vocab_size = len(phone2idx)
     num_classes = len(np.unique(train_y))
-
-    model = LSCNsClassifier(vocab_size, num_classes)
+    
+    embed_dim = args.embed_dim
+    num_filters = args.num_filters
+    lstm_hidden = args.lstm_hidden
+    model = LSCNsClassifier(vocab_size, num_classes, embed_dim, num_filters, lstm_hidden)
 
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
     device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
     model.to(device)
     print(model)
+
+    scheduler = ReduceLROnPlateau(optimizer, factor=0.3, patience=2, 
+                                    verbose=True)
+
 
     num_epochs = args.epochs
     
@@ -121,6 +132,7 @@ def main():
     for epoch in range(1, num_epochs + 1):
         train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device)
         valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device)
+        scheduler.step(valid_loss)
         print("Epoch {} finished.".format(epoch))
         print('='*20)
         
