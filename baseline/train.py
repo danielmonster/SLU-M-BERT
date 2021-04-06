@@ -108,7 +108,7 @@ def main():
     model = LSCNsClassifier(vocab_size, num_classes)
 
     criterion = nn.CrossEntropyLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
+    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr)
     device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
     model.to(device)
     print(model)

@@ -24,11 +24,12 @@ class LSCNsClassifier(nn.Module):
     def __init__(self, vocab_size, num_classes, embedding_dim=128, 
                     num_filters=128, lstm_hidden=128):
         super(LSCNsClassifier, self).__init__()
-        self.embed = nn.Embedding(vocab_size, embedding_dim)
+        self.embed = nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
 
         self.convA = nn.Conv1d(embedding_dim, num_filters, 3, padding=1)
         self.convB = nn.Conv1d(embedding_dim, num_filters, 5, padding=2)
         self.bn = nn.BatchNorm1d(num_filters * 2)
+        self.relu = nn.ReLU()
         self.lstm = nn.LSTM(256, lstm_hidden, batch_first=True)
         self.linear = nn.Linear(lstm_hidden, num_classes)
     
@@ -40,12 +41,13 @@ class LSCNsClassifier(nn.Module):
         B = self.convB(out) # (bs, num_filters, seq_len)
         out = torch.cat((A, B), 1) # (bs, 2 * num_filters, seq_len)
         out = self.bn(out)
+        out = self.relu(out)
         out = out.transpose(1, 2) # (bs, seq_len, 2 * num_filters)
         out = pack_padded_sequence(out, x_lengths, batch_first=True, enforce_sorted=False)
-        packed_out, _ = self.lstm(out) # (bs, seq_len, lstm_hidden)
+        packed_out, (ht, ct) = self.lstm(out) # (bs, seq_len, lstm_hidden)
         # Unpack output
-        out, _ = pad_packed_sequence(packed_out, batch_first=True)
+#         out, _ = pad_packed_sequence(packed_out, batch_first=True) # (bs, seq_len, lstm_hidden)
         # Get the output of the last time step since this is many-to-one
-        out = out[:, -1, :] # (bs, lstm_hidden)
-        out = self.linear(out) # (bs, num_classes)
+#         out = out[:, -1, :] # (bs, lstm_hidden)
+        out = self.linear(ht[-1]) # (bs, num_classes)
         return out
