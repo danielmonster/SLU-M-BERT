@@ -22,7 +22,7 @@ in `preprocess/preprocess_data_Chinese.ipynb`.
 
 ```
 python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/enfr/en \
---num_filters=128 --lstm_hidden=128 --embed_dim=128
+--num_filters=128 --lstm_hidden=128 --embed_dim=128 \
 --save_model_path=best_model/en_best.pt
 ```
 
@@ -39,11 +39,11 @@ python3 baseline/eval.py --test_dir=memory/enfr/en --model=best_model/en_best.pt
 
 ```
 python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/cn/ \
---num_filters=128--lstm_hidden=128 --embed_dim=128
+--num_filters=128--lstm_hidden=128 --embed_dim=128 \
 --save_model_path=best_model/cn_best.pt
 ```
 
-This gives best validation accuracy of 59.55%.
+This gives best validation accuracy of 65.07%.
 
 Test labels for CN dataset are not given.
 

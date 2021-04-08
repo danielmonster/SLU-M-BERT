@@ -95,11 +95,6 @@ def main():
     valid_y = np.load(os.path.join(args.dir, "dev_y.npy"), allow_pickle=True)
     phone2idx = load_phone_idx(os.path.join(args.dir, "phone_idx.json"))
 
-    # labels in english dataset are [0, 1, 2, 3, 4, 5, 8], change 8 to 6
-    # In chinese, they are [0,1, ..., 8], and will be unchanged
-    max_label = np.max(train_y)
-    train_y[train_y == max_label] = len(np.unique(train_y)) - 1
-    valid_y[valid_y == max_label] = len(np.unique(valid_y)) - 1
     
     train_dataset = PhoneDataset(train_x, train_y)
     valid_dataset = PhoneDataset(valid_x, valid_y)
