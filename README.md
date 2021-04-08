@@ -5,15 +5,21 @@
 ### To preprocess the English dataset
 
 ```
-mkdir memory
+mkdir -p memory/enfr/en
 cd preprocess
 python3 preprocess/preprocess_enfr.py --lang=en
 ```
 This will save `train*.npy`, `dev*.npy`, and `test*.npy` 
 in the `memory` directory.
 
-Similar steps are done for Chinese dataset 
-in `preprocess/preprocess_data_Chinese.ipynb`.
+### To preprocess the Chinese dataset
+
+```
+mkdir -p memory/cn
+cd preprocess
+python3 preprocess/preprocess_cn.py
+```
+
 
 
 ## Training and testing
