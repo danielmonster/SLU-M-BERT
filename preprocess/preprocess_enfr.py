@@ -85,6 +85,12 @@ def save_numpy_data(data, filename):
 def main():
     df_light_en, df_speaker_en, df_speaker_fr = load_df()
     df_en_all = pd.concat([df_light_en, df_speaker_en], ignore_index=True)
+    
+    # labels in english dataset are [0, 1, 2, 3, 4, 5, 8], change 8 to 6
+    mask = (df_en_all['label'] == df_en_all['label'].max())
+    newval = len(df_en_all['label'].unique()) - 1
+    df_en_all['label'].mask(mask, newval, inplace=True)
+
     # Build mapping of phone->index
     phone2idx = build_phone_vocab(df_en_all)
     memory_path = os.path.join(args.memory_dir, args.lang)
