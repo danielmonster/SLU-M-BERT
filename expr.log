@@ -1,0 +1,472 @@
+Testing English dataset
+
+lm_epochs = 0
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  65.66757493188011 %
+lm_epochs = 50
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  66.4850136239782 %
+lm_epochs = 100
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  67.30245231607628 %
+lm_epochs = 150
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  67.8474114441417 %
+
+
+num_filters = 64
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 64, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 64, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(128, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  66.21253405994551 %
+num_filters = 128
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  68.39237057220708 %
+num_filters = 256
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 256, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(512, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  64.85013623978202 %
+num_filters = 512
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 512, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 512, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(1024, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  62.67029972752044 %
+
+
+lstm_hidden = 128
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  69.20980926430518 %
+lstm_hidden = 256
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 256)
+  (lstm): LSTM(256, 256, batch_first=True)
+  (linear_LM): Linear(in_features=256, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=256, out_features=7, bias=True)
+)
+Best validation accuracy:  68.93732970027247 %
+lstm_hidden = 512
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 512)
+  (lstm): LSTM(256, 512, batch_first=True)
+  (linear_LM): Linear(in_features=512, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=512, out_features=7, bias=True)
+)
+Best validation accuracy:  65.12261580381471 %
+lstm_hidden = 1024
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 1024)
+  (lstm): LSTM(256, 1024, batch_first=True)
+  (linear_LM): Linear(in_features=1024, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=1024, out_features=7, bias=True)
+)
+Best validation accuracy:  62.39782016348774 %
+
+
+num_lstm_layers = 1
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  69.48228882833789 %
+num_lstm_layers = 2
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, num_layers=2, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  66.4850136239782 %
+num_lstm_layers = 3
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, num_layers=3, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  61.58038147138964 %
+
+
+embed_dim = 128
+LSCNsClassifier(
+  (embed): Embedding(122, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  70.29972752043598 %
+embed_dim = 512
+LSCNsClassifier(
+  (embed): Embedding(122, 512, padding_idx=0)
+  (convA): Conv1d(512, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(512, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(512, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=512, bias=True)
+  (output_LM): Linear(in_features=512, out_features=122, bias=True)
+  (linear): Linear(in_features=128, out_features=7, bias=True)
+)
+Best validation accuracy:  67.30245231607628 %
+
+
+Testing Chinese dataset
+
+lm_epochs = 0
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  64.1044776119403 %
+lm_epochs = 100
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  64.02985074626866 %
+
+
+num_filters = 64
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 64, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 64, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(128, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  60.149253731343286 %
+num_filters = 128
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  62.76119402985074 %
+num_filters = 256
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 256, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(512, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  61.64179104477612 %
+num_filters = 512
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 512, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 512, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(1024, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  63.059701492537314 %
+
+
+lstm_hidden = 128
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  61.34328358208955 %
+lstm_hidden = 256
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 256)
+  (lstm): LSTM(256, 256, batch_first=True)
+  (linear_LM): Linear(in_features=256, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=256, out_features=4, bias=True)
+)
+Best validation accuracy:  61.64179104477612 %
+lstm_hidden = 512
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 512)
+  (lstm): LSTM(256, 512, batch_first=True)
+  (linear_LM): Linear(in_features=512, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=512, out_features=4, bias=True)
+)
+Best validation accuracy:  63.208955223880594 %
+lstm_hidden = 1024
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 1024)
+  (lstm): LSTM(256, 1024, batch_first=True)
+  (linear_LM): Linear(in_features=1024, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=1024, out_features=4, bias=True)
+)
+Best validation accuracy:  61.268656716417915 %
+
+
+num_lstm_layers = 1
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  64.02985074626866 %
+num_lstm_layers = 2
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, num_layers=2, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  63.582089552238806 %
+num_lstm_layers = 3
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, num_layers=3, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  65.5223880597015 %
+
+
+embed_dim = 128
+LSCNsClassifier(
+  (embed): Embedding(127, 128, padding_idx=0)
+  (convA): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(128, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(128, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=128, bias=True)
+  (output_LM): Linear(in_features=128, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  65.0 %
+embed_dim = 512
+LSCNsClassifier(
+  (embed): Embedding(127, 512, padding_idx=0)
+  (convA): Conv1d(512, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+  (convB): Conv1d(512, 128, kernel_size=(5,), stride=(1,), padding=(2,))
+  (bn): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU()
+  (lstm_LM): LSTM(512, 128)
+  (lstm): LSTM(256, 128, batch_first=True)
+  (linear_LM): Linear(in_features=128, out_features=512, bias=True)
+  (output_LM): Linear(in_features=512, out_features=127, bias=True)
+  (linear): Linear(in_features=128, out_features=4, bias=True)
+)
+Best validation accuracy:  61.11940298507462 %
+
+

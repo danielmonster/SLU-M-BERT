@@ -56,3 +56,7 @@ This gives best validation accuracy of 60.29%.
 Test labels for CN dataset are not given.
 
 
+## Experiment results
+
+Experiment results are in `expr.log` and scripts for experiments are expr*.sh
+

@@ -25,6 +25,7 @@ def get_args():
     parser.add_argument('--weight_tying', type=int, default=0)
     parser.add_argument('--dir', type=str, required=True) # ex: "memory/enfr/en"
     parser.add_argument('--save_model_path', type=str, default="best_model/en_best.pt")
+    parser.add_argument('--verbose', type=int, default=1)
     return parser.parse_args()
 
 
@@ -33,7 +34,7 @@ torch.manual_seed(123)
 np.random.seed(123)
 
 
-def train_epoch_lm(model, train_loader, criterion, optimizer, device):
+def train_epoch_lm(model, train_loader, criterion, optimizer, device, verbose):
     model.train()
     running_loss = 0.0
     start_time = time.time()
@@ -51,11 +52,12 @@ def train_epoch_lm(model, train_loader, criterion, optimizer, device):
 
     end_time = time.time()
     running_loss /= len(train_loader)
-    print("Training loss for LM: ", running_loss, "Time: ", end_time - start_time, 's')
+    if verbose:
+        print("Training loss for LM: ", running_loss, "Time: ", end_time - start_time, 's')
     return running_loss
 
 
-def train_epoch(model, train_loader, criterion, optimizer, device):
+def train_epoch(model, train_loader, criterion, optimizer, device, verbose):
     model.train()
     running_loss = 0.0
     total_predictions = 0
@@ -80,12 +82,13 @@ def train_epoch(model, train_loader, criterion, optimizer, device):
     end_time = time.time()
     running_loss /= len(train_loader)
     accuracy = (correct_predictions/total_predictions) * 100.0
-    print("Training loss: ", running_loss, "Time: ", end_time - start_time, 's')
-    print("Training Accuracy", accuracy, "%")
+    if verbose:
+        print("Training loss: ", running_loss, "Time: ", end_time - start_time, 's')
+        print("Training Accuracy", accuracy, "%")
     return running_loss, accuracy
 
 
-def valid_epoch(model, valid_loader, criterion, device):
+def valid_epoch(model, valid_loader, criterion, device, verbose):
     start_time = time.time()
     with torch.no_grad():
         model.eval()
@@ -106,8 +109,9 @@ def valid_epoch(model, valid_loader, criterion, device):
     end_time = time.time()
     running_loss /= len(valid_loader)
     accuracy = (correct_predictions/total_predictions) * 100.0
-    print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
-    print("Validation Accuracy", accuracy, "%")
+    if verbose:
+        print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
+        print("Validation Accuracy", accuracy, "%")
     return running_loss, accuracy
 
 
@@ -148,27 +152,30 @@ def main(args):
     device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
     model.to(device)
     print(model)
+    verbose = args.verbose
 
     # Train LM model
     for epoch in range(args.lm_epochs):
-        train_loss = train_epoch_lm(model, train_loader_LM, criterion, optimizer, device)
-        print("Epoch {} finished.".format(epoch))
-        print('='*20)
+        train_loss = train_epoch_lm(model, train_loader_LM, criterion, optimizer, device, verbose)
+        if verbose:
+            print("Epoch {} finished.".format(epoch))
+            print('='*20)
 
     # Train the validate the actual model
     scheduler = ReduceLROnPlateau(optimizer, factor=0.3, patience=2, 
-                                    verbose=True)
+                                    verbose=verbose)
     num_epochs = args.epochs
     
     best_model_dict = None
     best_acc = 0
 
     for epoch in range(1, num_epochs + 1):
-        train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device)
-        valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device)
+        train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device, verbose)
+        valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device, verbose)
         scheduler.step(valid_loss)
-        print("Epoch {} finished.".format(epoch))
-        print('='*20)
+        if verbose:
+            print("Epoch {} finished.".format(epoch))
+            print('='*20)
         
         if valid_acc > best_acc:
             best_model_dict = model.state_dict()
