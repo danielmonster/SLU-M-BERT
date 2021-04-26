@@ -15,9 +15,9 @@ import csv
 # ---------------------- Global Vars -------------------------
 # path
 root_dir = "./"
-domain = "smart-lights"                         # smart-speaker
-lang = "en"                                     # fr
-mode = "close"                                  # far
+domain = "smart-speaker"                         # smart-speaker
+lang = "fr"                                      # fr
+mode = "far"                                   # close
 type = "%s-%s-%s" %(domain, lang, mode)
 data_dir = "%s%s-%s-%s-field" % (root_dir, domain, lang, mode)
 print(data_dir)
@@ -34,7 +34,7 @@ CLASSES_light = ["DecreaseBrightness",
             "SwitchLightOn",]
 CLASSES_light_to_LABEL = {CLASSES_light[i]: i for i in range(len(CLASSES_light))}
 
-# smart-speaker label mapping:
+# eng-smart-speaker label mapping:
 CLASSES_speaker =["NextSong",       
             "PreviousSong" ,
             "SpeakerInterrupt" ,
@@ -44,7 +44,19 @@ CLASSES_speaker =["NextSong",
             "VolumeSet",
             "GetInfos", 
             "PlayMusic"]
-CLASSES_speaker_to_LABEL = {CLASSES_speaker[i]: i for i in range(len(CLASSES_speaker))}
+
+# fr-smart-speaker label mapping:
+CLASSES_speaker_fr =["NextSong",       
+            "PreviousSong" ,
+            "SpeakerInterrupt" ,
+            "ResumeMusic",
+            "VolumeShift",
+            "PLACEHOLDER",                  # PLACEHOLDER: so that VolumeSet, GetInfos, PlayMusic
+            "VolumeSet",                    #              receive same labels as English-speaker-mapping
+            "GetInfos", 
+            "PlayMusic"]
+
+CLASSES_speaker_to_LABEL = {CLASSES_speaker_fr[i]: i for i in range(len(CLASSES_speaker_fr))}
 
 # domain mapping
 CLASSES = {"smart-lights": CLASSES_light_to_LABEL, "smart-speaker": CLASSES_speaker_to_LABEL}
@@ -57,6 +69,9 @@ def parse_convert_file(idx, file_path):
     
     # get intent, text, label
     info = dataset.get_labels_from_wav(file_name)
+    if info is None:
+        print("%s does not have label_info" % file_name)
+        return []
     intent, text = info['intent'], info['text']
     label = CLASSES[domain][intent]
 
@@ -86,10 +101,14 @@ if __name__ == '__main__':
 
     for s, wav_file in iteritems(dataset.audio_corpus):
         row = parse_convert_file(i, wav_file)
-        rows.append(row)
+        if row:
+            rows.append(row)
+            i += 1
+
         if i % 10 == 0:
             print("i=%d" % i)
-        i += 1
+        
+
 
     
     save_file(rows, output_path)
