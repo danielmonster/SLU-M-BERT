@@ -6,11 +6,13 @@ into training data.
 The restructuring is done in hope to balance data of different intents, while
 preserving sufficient data for testing.
 
-Current distribution of the four intents in training data is: 
-Navigation 2358
-Music 1524
-Video 1004
-Weather 1463
+Current distribution of the four intents in training / development / test data is: 
+Navigation 2934 | 666 | 1109
+Music 1524 | 251 | 463
+Video 1004 | 163 | 487 
+Weather 1463 | 211 | 417
+
+
 
 Steps to rerun the preprocessing are listed below:
 1. Create empty /processed directory under ~/catslu_test/data & ~/catslu_traindev/data
