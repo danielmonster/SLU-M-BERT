@@ -16,8 +16,8 @@ def get_args():
 
 def main(args):
     df1 = pd.read_csv(os.path.join(args.dir, "partition_A.csv"))
-    df2 = pd.read_csv(os.path.join(args.dir, "partition_A.csv"))
-    df3 = pd.read_csv(os.path.join(args.dir, "partition_A.csv"))
+    df2 = pd.read_csv(os.path.join(args.dir, "partition_B.csv"))
+    df3 = pd.read_csv(os.path.join(args.dir, "partition_C.csv"))
     data = pd.concat([df1, df2, df3], ignore_index=True)
     df_phones = data['phones'].apply(lambda x: literal_eval(x))
     phones_samples = df_phones.to_numpy()
