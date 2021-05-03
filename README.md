@@ -78,12 +78,30 @@ python3 roberta/train_lm.py --data=memory/cn_lm.npy --tokenizer=tokenizer/ipa_to
 ### Preprocess labelled CN dataset for finetuning
 
 ```
-python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/ --memory_dir=memory/roberta/
+mkdir -p memory/roberta/cn
+python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/ --memory_dir=memory/roberta/cn
 ```
 
-### Finetune
+### Finetune on CN
 
 ```
-python3 roberta/finetune.py --data_dir=memory/roberta/  --pretrained=roberta/logs --tokenizer=tokenizer/ipa_tokenizer.json \
-                   --save_model_path=best_model/roberta.pt --scheduler=1
+python3 roberta/finetune.py --data_dir=memory/roberta/cn  --tokenizer=tokenizer/ipa_tokenizer.json \
+                    --save_model_path=best_model/roberta_cn.pt --scheduler=1
+```
+
+
+
+### Preprocess labelled EN dataset for training
+
+```
+mkdir -p memory/roberta/en
+python3 roberta/preprocess_en.py --data_dir=Datasets/smart-devices-en-fr/ \
+        --memory_dir=memory/roberta/en
+```
+
+### Directly train on EN (without pretraining)
+
+```
+python3 roberta/finetune.py --data_dir=memory/roberta/en  --tokenizer=tokenizer/ipa_tokenizer.json \
+                    --save_model_path=best_model/roberta_en.pt --scheduler=1
 ```
