@@ -136,10 +136,9 @@ def valid_epoch(model, valid_loader, verbose, print_report=False):
     accuracy = (correct_predictions/total_predictions) * 100.0
     if verbose:
         print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
-    
-    f1_macro, f1_micro, acc, report = report_acc_f1(preds_all, labels_all)
-    print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
-    print("Accuracy: {}".format(acc))
+        f1_macro, f1_micro, acc, report = report_acc_f1(preds_all, labels_all)
+        print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
+        print("Accuracy: {}".format(acc))
     
     if print_report:
         print(report)
@@ -205,9 +204,10 @@ def main(args):
     if best_model_dict and args.save_model_path:
         torch.save(best_model_dict, args.save_model_path)
     
+
     model.load_state_dict(best_model_dict)
     print("Evaluate on validation using the best model")
-    valid_epoch(model, valid_loader, verbose, print_report=True)
+    valid_epoch(model, valid_loader, True, print_report=True)
     print("Best validation accuracy: ", best_acc, "%")
 
 

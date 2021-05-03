@@ -1,0 +1,272 @@
+Testing Chinese dataset with Roberta
+
+heads = 1
+Evaluate on validation using the best model
+Validation loss:  1.8694344542243264 Time:  2.2378170490264893 s
+F1 Macro: 0.5000413723249733, F1 Micro: 0.5802948021722265
+Accuracy: 0.5802948021722265
+              precision    recall  f1-score   support
+
+           0       0.75      0.70      0.73       665
+           1       0.38      0.37      0.38       251
+           2       0.32      0.32      0.32       162
+           3       0.53      0.64      0.58       211
+
+    accuracy                           0.58      1289
+   macro avg       0.49      0.51      0.50      1289
+weighted avg       0.59      0.58      0.58      1289
+
+Best validation accuracy:  62.91698991466252 %
+heads = 6
+Evaluate on validation using the best model
+Validation loss:  2.0588900934566152 Time:  2.2797889709472656 s
+F1 Macro: 0.5126372519874092, F1 Micro: 0.5865011636927852
+Accuracy: 0.5865011636927852
+              precision    recall  f1-score   support
+
+           0       0.76      0.71      0.73       665
+           1       0.39      0.39      0.39       251
+           2       0.30      0.38      0.34       162
+           3       0.58      0.61      0.60       211
+
+    accuracy                           0.59      1289
+   macro avg       0.51      0.52      0.51      1289
+weighted avg       0.60      0.59      0.59      1289
+
+Best validation accuracy:  62.684251357641585 %
+heads = 12
+Evaluate on validation using the best model
+Validation loss:  2.2040455883199517 Time:  2.3394970893859863 s
+F1 Macro: 0.5007165981041062, F1 Micro: 0.5725368502715283
+Accuracy: 0.5725368502715283
+              precision    recall  f1-score   support
+
+           0       0.74      0.69      0.72       665
+           1       0.35      0.37      0.36       251
+           2       0.30      0.37      0.33       162
+           3       0.59      0.59      0.59       211
+
+    accuracy                           0.57      1289
+   macro avg       0.50      0.51      0.50      1289
+weighted avg       0.59      0.57      0.58      1289
+
+Best validation accuracy:  63.22730799069046 %
+heads = 24
+Evaluate on validation using the best model
+Validation loss:  2.1554779464548286 Time:  2.581305503845215 s
+F1 Macro: 0.5139895895362174, F1 Micro: 0.5888285492629945
+Accuracy: 0.5888285492629945
+              precision    recall  f1-score   support
+
+           0       0.74      0.72      0.73       665
+           1       0.40      0.34      0.37       251
+           2       0.31      0.40      0.35       162
+           3       0.60      0.63      0.61       211
+
+    accuracy                           0.59      1289
+   macro avg       0.51      0.52      0.51      1289
+weighted avg       0.59      0.59      0.59      1289
+
+Best validation accuracy:  64.3134212567882 %
+
+
+num_layers= 1
+Evaluate on validation using the best model
+Validation loss:  1.4046144756403836 Time:  0.4088172912597656 s
+F1 Macro: 0.5146091801147388, F1 Micro: 0.5934833204034135
+Accuracy: 0.5934833204034135
+              precision    recall  f1-score   support
+
+           0       0.73      0.72      0.72       665
+           1       0.43      0.47      0.45       251
+           2       0.31      0.30      0.30       162
+           3       0.58      0.58      0.58       211
+
+    accuracy                           0.59      1289
+   macro avg       0.51      0.52      0.51      1289
+weighted avg       0.60      0.59      0.59      1289
+
+Best validation accuracy:  62.684251357641585 %
+num_layers= 3
+Evaluate on validation using the best model
+Validation loss:  2.0478745915673 Time:  1.1605682373046875 s
+F1 Macro: 0.5076407596224095, F1 Micro: 0.5841737781225756
+Accuracy: 0.5841737781225756
+              precision    recall  f1-score   support
+
+           0       0.75      0.71      0.73       665
+           1       0.39      0.35      0.37       251
+           2       0.31      0.38      0.34       162
+           3       0.55      0.64      0.59       211
+
+    accuracy                           0.58      1289
+   macro avg       0.50      0.52      0.51      1289
+weighted avg       0.59      0.58      0.59      1289
+
+Best validation accuracy:  63.847944142746314 %
+num_layers= 6
+Evaluate on validation using the best model
+Validation loss:  2.2040455883199517 Time:  2.474915027618408 s
+F1 Macro: 0.5007165981041062, F1 Micro: 0.5725368502715283
+Accuracy: 0.5725368502715283
+              precision    recall  f1-score   support
+
+           0       0.74      0.69      0.72       665
+           1       0.35      0.37      0.36       251
+           2       0.30      0.37      0.33       162
+           3       0.59      0.59      0.59       211
+
+    accuracy                           0.57      1289
+   macro avg       0.50      0.51      0.50      1289
+weighted avg       0.59      0.57      0.58      1289
+
+Best validation accuracy:  63.22730799069046 %
+
+
+
+Testing English dataset with Roberta
+
+heads = 1
+Evaluate on validation using the best model
+Validation loss:  1.5580528179804485 Time:  0.4089226722717285 s
+F1 Macro: 0.4810806311455789, F1 Micro: 0.6321525885558583
+Accuracy: 0.6321525885558583
+              precision    recall  f1-score   support
+
+           0       0.44      0.43      0.43        42
+           1       0.29      0.30      0.29        33
+           2       0.55      0.66      0.60        35
+           3       0.47      0.45      0.46        38
+           4       0.39      0.29      0.33        38
+           5       0.38      0.31      0.34        26
+           6       0.88      0.94      0.91       155
+
+    accuracy                           0.63       367
+   macro avg       0.49      0.48      0.48       367
+weighted avg       0.62      0.63      0.62       367
+
+Best validation accuracy:  63.21525885558583 %
+heads = 6
+Evaluate on validation using the best model
+Validation loss:  1.599235971768697 Time:  0.41228175163269043 s
+F1 Macro: 0.5075315511786874, F1 Micro: 0.6539509536784741
+Accuracy: 0.6539509536784741
+              precision    recall  f1-score   support
+
+           0       0.43      0.50      0.46        42
+           1       0.48      0.39      0.43        33
+           2       0.50      0.60      0.55        35
+           3       0.44      0.45      0.44        38
+           4       0.34      0.29      0.31        38
+           5       0.43      0.38      0.41        26
+           6       0.95      0.95      0.95       155
+
+    accuracy                           0.65       367
+   macro avg       0.51      0.51      0.51       367
+weighted avg       0.65      0.65      0.65       367
+
+Best validation accuracy:  65.39509536784742 %
+heads = 12
+Evaluate on validation using the best model
+Validation loss:  1.7120673656463623 Time:  0.4444546699523926 s
+F1 Macro: 0.48606918077984995, F1 Micro: 0.6403269754768393
+Accuracy: 0.6403269754768393
+              precision    recall  f1-score   support
+
+           0       0.39      0.36      0.38        42
+           1       0.47      0.42      0.44        33
+           2       0.48      0.60      0.53        35
+           3       0.41      0.39      0.40        38
+           4       0.39      0.37      0.38        38
+           5       0.36      0.31      0.33        26
+           6       0.93      0.95      0.94       155
+
+    accuracy                           0.64       367
+   macro avg       0.49      0.49      0.49       367
+weighted avg       0.63      0.64      0.63       367
+
+Best validation accuracy:  64.03269754768392 %
+heads = 24
+Evaluate on validation using the best model
+Validation loss:  1.823606053988139 Time:  0.43006086349487305 s
+F1 Macro: 0.4741471223590465, F1 Micro: 0.6294277929155313
+Accuracy: 0.6294277929155313
+              precision    recall  f1-score   support
+
+           0       0.42      0.36      0.38        42
+           1       0.38      0.39      0.39        33
+           2       0.49      0.49      0.49        35
+           3       0.49      0.53      0.51        38
+           4       0.29      0.26      0.28        38
+           5       0.35      0.35      0.35        26
+           6       0.91      0.95      0.93       155
+
+    accuracy                           0.63       367
+   macro avg       0.48      0.47      0.47       367
+weighted avg       0.62      0.63      0.62       367
+
+Best validation accuracy:  63.48773841961853 %
+
+
+num_layers= 1
+Evaluate on validation using the best model
+Validation loss:  1.4713068803151448 Time:  0.06623601913452148 s
+F1 Macro: 0.41656249233839887, F1 Micro: 0.5967302452316077
+Accuracy: 0.5967302452316077
+              precision    recall  f1-score   support
+
+           0       0.36      0.21      0.27        42
+           1       0.36      0.45      0.40        33
+           2       0.38      0.43      0.40        35
+           3       0.38      0.34      0.36        38
+           4       0.39      0.24      0.30        38
+           5       0.23      0.31      0.26        26
+           6       0.89      0.97      0.93       155
+
+    accuracy                           0.60       367
+   macro avg       0.43      0.42      0.42       367
+weighted avg       0.58      0.60      0.58       367
+
+Best validation accuracy:  61.85286103542234 %
+num_layers= 3
+Evaluate on validation using the best model
+Validation loss:  1.707432508468628 Time:  0.2177720069885254 s
+F1 Macro: 0.4327920498436306, F1 Micro: 0.6049046321525886
+Accuracy: 0.6049046321525886
+              precision    recall  f1-score   support
+
+           0       0.30      0.26      0.28        42
+           1       0.32      0.36      0.34        33
+           2       0.50      0.54      0.52        35
+           3       0.42      0.42      0.42        38
+           4       0.33      0.24      0.28        38
+           5       0.23      0.27      0.25        26
+           6       0.93      0.95      0.94       155
+
+    accuracy                           0.60       367
+   macro avg       0.43      0.44      0.43       367
+weighted avg       0.60      0.60      0.60       367
+
+Best validation accuracy:  61.58038147138964 %
+num_layers= 6
+Evaluate on validation using the best model
+Validation loss:  1.7120673656463623 Time:  0.41968226432800293 s
+F1 Macro: 0.48606918077984995, F1 Micro: 0.6403269754768393
+Accuracy: 0.6403269754768393
+              precision    recall  f1-score   support
+
+           0       0.39      0.36      0.38        42
+           1       0.47      0.42      0.44        33
+           2       0.48      0.60      0.53        35
+           3       0.41      0.39      0.40        38
+           4       0.39      0.37      0.38        38
+           5       0.36      0.31      0.33        26
+           6       0.93      0.95      0.94       155
+
+    accuracy                           0.64       367
+   macro avg       0.49      0.49      0.49       367
+weighted avg       0.63      0.64      0.63       367
+
+Best validation accuracy:  64.03269754768392 %
+
+
