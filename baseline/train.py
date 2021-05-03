@@ -9,6 +9,7 @@ import time
 from lscn import LSCNsClassifier
 from phoneset import LMDataset, PhoneDataset, load_phone_idx
 import os
+from eval import report_acc_f1
 
 import argparse
 
@@ -88,8 +89,10 @@ def train_epoch(model, train_loader, criterion, optimizer, device, verbose):
     return running_loss, accuracy
 
 
-def valid_epoch(model, valid_loader, criterion, device, verbose):
+def valid_epoch(model, valid_loader, criterion, device, verbose, print_report=False):
     start_time = time.time()
+    preds_all = []
+    labels_all = []
     with torch.no_grad():
         model.eval()
         running_loss = 0.0
@@ -101,17 +104,25 @@ def valid_epoch(model, valid_loader, criterion, device, verbose):
             target = target.to(device)
             outputs = model(x_padded, x_lengths)
             _, predicted = torch.max(outputs.data, 1)
+            preds_all += predicted.cpu().numpy().tolist()
+            labels_all += target.cpu().numpy().tolist()
             total_predictions += target.size(0)
             correct_predictions += (predicted == target).sum().item()
             loss = criterion(outputs, target).detach()
             running_loss += loss.item()
-    
+
     end_time = time.time()
     running_loss /= len(valid_loader)
     accuracy = (correct_predictions/total_predictions) * 100.0
     if verbose:
         print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
         print("Validation Accuracy", accuracy, "%")
+    f1_macro, f1_micro, acc, report = report_acc_f1(preds_all, labels_all)
+    print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
+    print("Accuracy: {}".format(acc))
+    
+    if print_report:
+        print(report)
     return running_loss, accuracy
 
 
@@ -182,6 +193,10 @@ def main(args):
             best_acc = valid_acc
     if best_model_dict is not None:
         torch.save(best_model_dict, args.save_model_path)
+
+    model.load_state_dict(best_model_dict)
+    print("Evaluate on validation using the best model")
+    valid_epoch(model, valid_loader, criterion, device, verbose, print_report=True)
     print("Best validation accuracy: ", best_acc, "%")
         
 

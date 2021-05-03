@@ -4,7 +4,7 @@ import os
 from ast import literal_eval
 import argparse
 
-# python3 preprocess/preprocess_cn_lm.py --dir=Datasets/chinese_LM_data --outpath=memory/cn_lm.npy
+# python3 roberta/preprocess_cn_lm.py --dir=Datasets/chinese_LM_data --outpath=memory/cn_lm.npy
 
 def get_args():
     parser = argparse.ArgumentParser()

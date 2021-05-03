@@ -4,7 +4,7 @@ from torch.utils.data import Dataset, DataLoader
 from lscn import LSCNsClassifier
 from phoneset import PhoneDataset, load_phone_idx
 import os
-
+from sklearn.metrics import f1_score, accuracy_score, classification_report
 
 import argparse
 
@@ -14,7 +14,15 @@ def get_args():
     parser.add_argument('--model', type=str, default="best_model/en_best.pt")
     return parser.parse_args()
 
-args = get_args()
+
+
+def report_acc_f1(y_pred, y_true):
+    f1_macro = f1_score(y_true, y_pred, average='macro')
+    f1_micro = f1_score(y_true, y_pred, average='micro')
+    accuracy = accuracy_score(y_true, y_pred)
+    report = classification_report(y_true, y_pred)
+    return f1_macro, f1_micro, accuracy, report
+
 
 
 
@@ -39,7 +47,7 @@ def evaluate(model, device, test_loader):
     return accuracy
     
 
-def main():
+def main(args):
     test_x = np.load(os.path.join(args.test_dir, "test_x.npy"), allow_pickle=True)
     test_y = np.load(os.path.join(args.test_dir, "test_y.npy"), allow_pickle=True)
     phone2idx = load_phone_idx(os.path.join(args.test_dir, "phone_idx.json"))
@@ -60,4 +68,5 @@ def main():
     evaluate(model, device, test_loader)
 
 if __name__ == '__main__':
-    main()
+    args = get_args()
+    main(args)

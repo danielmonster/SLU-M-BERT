@@ -6,7 +6,7 @@ import json
 import argparse
 
 
-CN_dir = "../Datasets/catslu_v2/preprocessed"
+CN_dir = "../Datasets/catslu_v2/preprocessed/audio"
 
 
 def get_args():
