@@ -4,8 +4,9 @@ import os
 import argparse
 
 
-
-# python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/ --memory_dir=memory/roberta/
+# mkdir -p memory/roberta/cn
+# python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/  \
+# --memory_dir=memory/roberta/cn/
 
 def get_args():
     parser = argparse.ArgumentParser()

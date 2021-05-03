@@ -9,10 +9,17 @@ import argparse
 import os
 import time
 from transformers import AdamW
+from sklearn.metrics import f1_score, accuracy_score, classification_report
 
 
-# python3 roberta/finetune.py --data_dir=memory/roberta/  --pretrained=roberta/logs --tokenizer=tokenizer/ipa_tokenizer.json \
-#                    --save_model_path=best_model/roberta.pt --scheduler=1
+# python3 roberta/finetune.py --data_dir=memory/roberta/cn  --pretrained=roberta/logs --tokenizer=tokenizer/ipa_tokenizer.json \
+#                    --save_model_path=best_model/roberta_cn.pt --scheduler=1
+
+# python3 roberta/finetune.py --data_dir=memory/roberta/cn  --tokenizer=tokenizer/ipa_tokenizer.json \
+#                    --save_model_path=best_model/roberta_cn.pt --scheduler=1
+
+# python3 roberta/finetune.py --data_dir=memory/roberta/en  --tokenizer=tokenizer/ipa_tokenizer.json \
+#                    --save_model_path=best_model/roberta_en.pt --scheduler=1
 
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
@@ -34,6 +41,9 @@ def get_args():
     parser.add_argument('--scheduler', type=int, default=0)
     parser.add_argument('--epochs', type=int, default=20)
     parser.add_argument('--save_model_path', type=str, default=None)
+
+    parser.add_argument('--heads', type=int, default=12)
+    parser.add_argument('--num_layers', type=int, default=6)
     return parser.parse_args()
 
 
@@ -54,7 +64,16 @@ class PhoneRobertaDataset(Dataset):
     def __getitem__(self, i):
         # We’ll pad at the batch level.
         return self.input_ids[i], self.attention_mask[i], self.labels[i]
-    
+
+
+def report_acc_f1(y_pred, y_true):
+    f1_macro = f1_score(y_true, y_pred, average='macro')
+    f1_micro = f1_score(y_true, y_pred, average='micro')
+    accuracy = accuracy_score(y_true, y_pred)
+    report = classification_report(y_true, y_pred)
+    return f1_macro, f1_micro, accuracy, report
+
+
 
 def train_epoch(model, train_loader, optimizer, verbose):
     model.train()
@@ -88,8 +107,10 @@ def train_epoch(model, train_loader, optimizer, verbose):
     return running_loss, accuracy
 
 
-def valid_epoch(model, valid_loader, verbose):
+def valid_epoch(model, valid_loader, verbose, print_report=False):
     start_time = time.time()
+    preds_all = []
+    labels_all = []
     with torch.no_grad():
         model.eval()
         running_loss = 0.0
@@ -100,10 +121,12 @@ def valid_epoch(model, valid_loader, verbose):
             input_ids = input_ids.to(device)
             attention_mask = attention_mask.to(device)
             labels = labels.to(device)
-            outputs = model(input_ids, attention_mask=attention_mask)       
-
+            outputs = model(input_ids, attention_mask=attention_mask)
+  
             loss = F.cross_entropy(outputs.logits, labels)
             _, predicted = torch.max(outputs.logits, 1)
+            preds_all += predicted.cpu().numpy().tolist()
+            labels_all += labels.cpu().numpy().tolist() 
             total_predictions += labels.size(0)
             correct_predictions += (predicted == labels).sum().item()
             running_loss += loss.item()
@@ -113,7 +136,14 @@ def valid_epoch(model, valid_loader, verbose):
     accuracy = (correct_predictions/total_predictions) * 100.0
     if verbose:
         print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
-        print("Validation Accuracy", accuracy, "%")
+    
+    f1_macro, f1_micro, acc, report = report_acc_f1(preds_all, labels_all)
+    print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
+    print("Accuracy: {}".format(acc))
+    
+    if print_report:
+        print(report)
+
     return running_loss, accuracy
 
 
@@ -144,8 +174,8 @@ def main(args):
         config = RobertaConfig(
         vocab_size=tokenizer.vocab_size,
         max_position_embeddings=514,
-        num_attention_heads=12,
-        num_hidden_layers=6,
+        num_attention_heads=args.heads, # default 12
+        num_hidden_layers=args.num_layers, # default 6
         type_vocab_size=1,
         num_labels=num_classes
          )
@@ -174,6 +204,10 @@ def main(args):
             
     if best_model_dict and args.save_model_path:
         torch.save(best_model_dict, args.save_model_path)
+    
+    model.load_state_dict(best_model_dict)
+    print("Evaluate on validation using the best model")
+    valid_epoch(model, valid_loader, verbose, print_report=True)
     print("Best validation accuracy: ", best_acc, "%")
 
 
