@@ -56,7 +56,34 @@ This gives best validation accuracy of 60.29%.
 Test labels for CN dataset are not given.
 
 
-## Experiment results
+### Baseline Experiment results
 
 Experiment results are in `expr.log` and scripts for experiments are expr*.sh
 
+
+## Roberta Language Model
+
+### Preprocess unlabelled CN large dataset for Masked LM
+
+```
+python3 roberta/preprocess_cn_mlm.py --dir=Datasets/chinese_LM_data --outpath=memory/cn_lm.npy
+```
+
+### Pretrain our roberta LM using CN large dataset
+
+```
+python3 roberta/train_lm.py --data=memory/cn_lm.npy --tokenizer=tokenizer/ipa_tokenizer.json --output_dir=roberta/logs
+```
+
+### Preprocess labelled CN dataset for finetuning
+
+```
+python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/ --memory_dir=memory/roberta/
+```
+
+### Finetune
+
+```
+python3 roberta/finetune.py --data_dir=memory/roberta/  --pretrained=roberta/logs --tokenizer=tokenizer/ipa_tokenizer.json \
+                   --save_model_path=best_model/roberta.pt --scheduler=1
+```
