@@ -10,6 +10,7 @@ do
     echo "heads = $i" >> expr.log
     python3 roberta/finetune.py --data_dir=memory/roberta/cn  --tokenizer=tokenizer/ipa_tokenizer.json \
         --heads=$i --save_model_path=best_model/roberta_cn.pt --scheduler=1 --verbose=0 >> expr.log
+    echo "" >> expr.log
 done
 
 echo "" >> expr.log
@@ -21,6 +22,7 @@ do
     echo "num_layers= $i" >> expr.log
     python3 roberta/finetune.py --data_dir=memory/roberta/cn  --tokenizer=tokenizer/ipa_tokenizer.json \
         --num_layer=$i --save_model_path=best_model/roberta_cn.pt --scheduler=1 --verbose=0 >> expr.log
+    echo "" >> expr.log
 done
 
 

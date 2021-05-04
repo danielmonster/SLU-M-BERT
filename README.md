@@ -27,13 +27,13 @@ python3 preprocess_cn.py
 ### Train/test a model for English dataset
 
 ```
-python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/enfr/en \
---lm_epochs=150 --epochs=20 --batch_size=128 --num_filters=128 \
+python3 baseline/train.py --epochs=20 --lr=1e-3 --dir=memory/enfr/en \
+--lm_epochs=150  --batch_size=128 --num_filters=128 \
 --num_lstm_layers=1 --lstm_hidden=128 --embed_dim=128 \
 --weight_tying=1 --save_model_path=best_model/en_best.pt
 ```
 
-This gives best validation accuracy of 67.02%.
+This gives best validation accuracy of 67.57%.
 
 To evaluate on the test set,
 
@@ -45,13 +45,13 @@ python3 baseline/eval.py --test_dir=memory/enfr/en --model=best_model/en_best.pt
 ### Train/test a model for Chinese dataset
 
 ```
-python3 baseline/train.py --epochs=50 --lr=1e-3 --dir=memory/cn/ \
---lm_epochs=0 --epochs=30 --batch_size=64 --num_filters=128 \
+python3 baseline/train.py --epochs=30 --lr=1e-3 --dir=memory/cn/ \
+--lm_epochs=0 --batch_size=64 --num_filters=128 \
 --num_lstm_layers=1 --lstm_hidden=128 --embed_dim=128 \
 --weight_tying=0 --save_model_path=best_model/cn_best.pt
 ```
 
-This gives best validation accuracy of 60.29%.
+This gives best validation accuracy of 60.97%.
 
 Test labels for CN dataset are not given.
 
@@ -104,4 +104,13 @@ python3 roberta/preprocess_en.py --data_dir=Datasets/smart-devices-en-fr/ \
 ```
 python3 roberta/finetune.py --data_dir=memory/roberta/en  --tokenizer=tokenizer/ipa_tokenizer.json \
                     --save_model_path=best_model/roberta_en.pt --scheduler=1
+```
+
+
+### Ablation studies for Roberta
+
+```
+rm -rf expr.log
+bash roberta/expr_en.sh
+bash roberta/expr_cn.sh
 ```

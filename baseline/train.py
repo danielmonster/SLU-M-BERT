@@ -89,7 +89,7 @@ def train_epoch(model, train_loader, criterion, optimizer, device, verbose):
     return running_loss, accuracy
 
 
-def valid_epoch(model, valid_loader, criterion, device, verbose, print_report=False):
+def valid_epoch(model, valid_loader, criterion, device, verbose):
     start_time = time.time()
     preds_all = []
     labels_all = []
@@ -117,13 +117,14 @@ def valid_epoch(model, valid_loader, criterion, device, verbose, print_report=Fa
     if verbose:
         print("Validation loss: ", running_loss, "Time: ", end_time - start_time, 's')
         print("Validation Accuracy", accuracy, "%")
-    f1_macro, f1_micro, acc, report = report_acc_f1(preds_all, labels_all)
+    return preds_all, labels_all, running_loss, accuracy
+
+
+def evaluate(y_pred, y_true):
+    f1_macro, f1_micro, acc, report = report_acc_f1(y_pred, y_true)
     print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
     print("Accuracy: {}".format(acc))
-    
-    if print_report:
-        print(report)
-    return running_loss, accuracy
+    print(report)
 
 
 
@@ -179,10 +180,11 @@ def main(args):
     
     best_model_dict = None
     best_acc = 0
+    best_preds = None
 
     for epoch in range(1, num_epochs + 1):
         train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device, verbose)
-        valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device, verbose)
+        y_preds, y_true, valid_loss, valid_acc = valid_epoch(model, valid_loader, criterion, device, verbose)
         scheduler.step(valid_loss)
         if verbose:
             print("Epoch {} finished.".format(epoch))
@@ -191,12 +193,13 @@ def main(args):
         if valid_acc > best_acc:
             best_model_dict = model.state_dict()
             best_acc = valid_acc
+            best_preds = y_preds
     if best_model_dict is not None:
         torch.save(best_model_dict, args.save_model_path)
 
-    model.load_state_dict(best_model_dict)
+
     print("Evaluate on validation using the best model")
-    valid_epoch(model, valid_loader, criterion, device, verbose, print_report=True)
+    evaluate(best_preds, y_true)
     print("Best validation accuracy: ", best_acc, "%")
         
 
