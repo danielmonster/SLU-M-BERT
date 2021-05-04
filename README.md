@@ -51,14 +51,11 @@ python3 baseline/train.py --epochs=30 --lr=1e-3 --dir=memory/cn/ \
 --weight_tying=0 --save_model_path=best_model/cn_best.pt
 ```
 
-This gives best validation accuracy of 60.97%.
+This gives best validation accuracy of 60.82%.
 
 Test labels for CN dataset are not given.
 
 
-### Baseline Experiment results
-
-Experiment results are in `expr.log` and scripts for experiments are expr*.sh
 
 
 ## Roberta Language Model
