@@ -16,9 +16,10 @@ def get_args():
     parser.add_argument('--split_ratio', type=float, default=0.25)
     parser.add_argument('--lang', type=str, required=True, help="Either 'en' (english) or 'fr' (french)")
     parser.add_argument('--memory_dir', type=str, default="../memory/enfr")
+    parser.add_argument('--no_speaker', type=int, default=0)
     return parser.parse_args()
 
-args = get_args()
+
 
 
 # Ignore all the "*-far.csv" files because of low audio quality
@@ -82,14 +83,17 @@ def save_numpy_data(data, filename):
 
 
 
-def main():
+def main(args):
+    no_speaker = True if args.no_speaker else False
     df_light_en, df_speaker_en, df_speaker_fr = load_df()
-    df_en_all = pd.concat([df_light_en, df_speaker_en], ignore_index=True)
-    
-    # labels in english dataset are [0, 1, 2, 3, 4, 5, 8], change 8 to 6
-    mask = (df_en_all['label'] == df_en_all['label'].max())
-    newval = len(df_en_all['label'].unique()) - 1
-    df_en_all['label'].mask(mask, newval, inplace=True)
+    if no_speaker:
+        df_en_all = df_light_en
+    else:
+        df_en_all = pd.concat([df_light_en, df_speaker_en], ignore_index=True)
+        # labels in english dataset are [0, 1, 2, 3, 4, 5, 8], change 8 to 6
+        mask = (df_en_all['label'] == df_en_all['label'].max())
+        newval = len(df_en_all['label'].unique()) - 1
+        df_en_all['label'].mask(mask, newval, inplace=True)
 
     # Build mapping of phone->index
     phone2idx = build_phone_vocab(df_en_all)
@@ -124,4 +128,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    args = get_args()
+    main(args)
