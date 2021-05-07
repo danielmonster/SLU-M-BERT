@@ -60,16 +60,16 @@ Test labels for CN dataset are not given.
 
 ## Roberta Language Model
 
-### Preprocess unlabelled CN large dataset for Masked LM
+Below we describe the training pipeline of RoBERTa on our datasets.
+First we desciribe the steps for the Chinese dataset.
+We first pre-train our RoBERTa using a large un-labelled Chinese corpus from `Datasets/chinese_LM_data/`.
+We then fine-tune RoBERTa for intent classification on a labelled Chinese dataset from `Datasets/smart-devices-en-fr/`.
+We also provide a way to directly train RoBERTa for intent classification without any pre-training.
+
+### Preprocess unlabelled CN LM dataset for Masked LM
 
 ```
 python3 roberta/preprocess_cn_mlm.py --dir=Datasets/chinese_LM_data --outpath=memory/cn_lm.npy
-```
-
-### Pretrain our roberta LM using CN large dataset
-
-```
-python3 roberta/train_lm.py --data=memory/cn_lm.npy --tokenizer=tokenizer/ipa_tokenizer.json --output_dir=roberta/logs
 ```
 
 ### Preprocess labelled CN dataset for finetuning
@@ -79,13 +79,38 @@ mkdir -p memory/roberta/cn
 python3 roberta/preprocess_cn.py --data_dir=Datasets/catslu_v2/preprocessed/audio/ --memory_dir=memory/roberta/cn
 ```
 
-### Finetune on CN
+
+### Pretrain RoBERTa with MLM
+
+```
+mkdir -p roberta/logs
+python3 roberta/train_lm.py --data=memory/cn_lm.npy --tokenizer=tokenizer/ipa_tokenizer.json --output_dir=roberta/logs
+```
+
+### Intent classification using pretrained RoBERTa (Finetuning)
+
+```
+python3 roberta/finetune.py --data_dir=memory/roberta/cn  --pretrained=roberta/logs --tokenizer=tokenizer/ipa_tokenizer.json \
+                   --save_model_path=best_model/roberta_cn.pt --scheduler=1
+```
+
+### Intent classification directly (no pretraining)
 
 ```
 python3 roberta/finetune.py --data_dir=memory/roberta/cn  --tokenizer=tokenizer/ipa_tokenizer.json \
                     --save_model_path=best_model/roberta_cn.pt --scheduler=1
 ```
 
+
+The similar training steps for English dataset are also provided below.
+
+
+
+### Preprocess unlabelled EN LM dataset for Masked LM
+
+```
+python3 roberta/preprocess_en_mlm.py --dir=Datasets/en_LM_data --outpath=memory/en_lm.npy
+```
 
 
 ### Preprocess labelled EN dataset for training
@@ -96,7 +121,21 @@ python3 roberta/preprocess_en.py --data_dir=Datasets/smart-devices-en-fr/ \
         --memory_dir=memory/roberta/en
 ```
 
-### Directly train on EN (without pretraining)
+### Pretrain RoBERTa with MLM
+
+```
+mkdir -p roberta/logs-en
+python3 roberta/train_lm.py --data=memory/en_lm.npy --tokenizer=tokenizer/ipa_tokenizer.json --output_dir=roberta/logs-en
+```
+
+### Intent classification using pretrained RoBERTa (Finetuning)
+
+```
+python3 roberta/finetune.py --data_dir=memory/roberta/en  --pretrained=roberta/logs-en --tokenizer=tokenizer/ipa_tokenizer.json \
+                   --save_model_path=best_model/roberta_en.pt --scheduler=1
+```
+
+### Intent classification directly (no pretraining)
 
 ```
 python3 roberta/finetune.py --data_dir=memory/roberta/en  --tokenizer=tokenizer/ipa_tokenizer.json \

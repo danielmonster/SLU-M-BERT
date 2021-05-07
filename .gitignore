@@ -2,3 +2,6 @@ __pycache__/
 .ipynb_checkpoints
 best_model/
 memory/
+roberta/logs
+roberta/logs-en
+roberta/*.ipynb

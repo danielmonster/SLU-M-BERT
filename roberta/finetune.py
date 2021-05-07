@@ -21,6 +21,9 @@ from sklearn.metrics import f1_score, accuracy_score, classification_report
 # python3 roberta/finetune.py --data_dir=memory/roberta/en  --tokenizer=tokenizer/ipa_tokenizer.json \
 #                    --save_model_path=best_model/roberta_en.pt --scheduler=1
 
+# python3 roberta/finetune.py --data_dir=memory/roberta/en --data2_dir=memory/roberta/cn --tokenizer=tokenizer/ipa_tokenizer.json \
+#                    --save_model_path=best_model/roberta_encn.pt --scheduler=1
+
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
 
@@ -33,6 +36,7 @@ np.random.seed(11785)
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_dir", type=str, required=True)
+    parser.add_argument("--data2_dir", type=str, default=None, help="If provided train a multilingual model")
     parser.add_argument("--pretrained", type=str, default=None)
     parser.add_argument("--tokenizer", type=str, required=True)
     parser.add_argument('--verbose', type=int, default=1)
@@ -41,6 +45,7 @@ def get_args():
     parser.add_argument('--scheduler', type=int, default=0)
     parser.add_argument('--epochs', type=int, default=20)
     parser.add_argument('--save_model_path', type=str, default=None)
+    parser.add_argument('--log_acc', type=int, default=0)
 
     parser.add_argument('--heads', type=int, default=12)
     parser.add_argument('--num_layers', type=int, default=6)
@@ -147,12 +152,42 @@ def evaluate(y_pred, y_true):
     print("Accuracy: {}".format(acc))
     print(report)
 
+# Evaluate separately for two languages
+def evaluate_separate(y_pred, y_true, num_classes1):
+    y_pred = np.array(y_pred)
+    y_true = np.array(y_true)
+    indices = (y_true < num_classes1)
+    y_pred_a = y_pred[indices]
+    y_true_a = y_true[indices]
+    y_pred_b = y_pred[~indices]
+    y_true_b = y_true[~indices]
+    print("Evaluate on the first language")
+    evaluate(y_pred_a, y_true_a)
+    print("Evaluate on the second language")
+    evaluate(y_pred_b, y_true_b)
+    
 
+def load_xy(data_dir):
+    train_x = np.load(os.path.join(data_dir, "train_x.npy"), allow_pickle=True)
+    train_y = np.load(os.path.join(data_dir, "train_y.npy"), allow_pickle=True)
+    valid_x = np.load(os.path.join(data_dir, "dev_x.npy"), allow_pickle=True)
+    valid_y = np.load(os.path.join(data_dir, "dev_y.npy"), allow_pickle=True)
+    return train_x, train_y, valid_x, valid_y
+    
+    
+    
 def main(args):
-    train_x = np.load(os.path.join(args.data_dir, "train_x.npy"), allow_pickle=True)
-    train_y = np.load(os.path.join(args.data_dir, "train_y.npy"), allow_pickle=True)
-    valid_x = np.load(os.path.join(args.data_dir, "dev_x.npy"), allow_pickle=True)
-    valid_y = np.load(os.path.join(args.data_dir, "dev_y.npy"), allow_pickle=True)
+    train_x, train_y, valid_x, valid_y = load_xy(args.data_dir)
+    num_classes1 = len(np.unique(train_y))
+    if args.data2_dir is not None:
+        train_x2, train_y2, valid_x2, valid_y2 = load_xy(args.data2_dir)
+        train_y2 += num_classes1
+        valid_y2 += num_classes1
+        train_x = np.concatenate((train_x, train_x2), axis=0)
+        train_y = np.concatenate((train_y, train_y2), axis=0)
+        valid_x = np.concatenate((valid_x, valid_x2), axis=0)
+        valid_y = np.concatenate((valid_y, valid_y2), axis=0)
+    num_classes = len(np.unique(train_y))
     
     tokenizer_path = args.tokenizer
     tokenizer = PreTrainedTokenizerFast(tokenizer_file=tokenizer_path, max_len=512, mask_token="<mask>", pad_token="<pad>")
@@ -161,7 +196,7 @@ def main(args):
     valid_dataset = PhoneRobertaDataset(valid_x, valid_y, tokenizer)
     valid_loader = DataLoader(valid_dataset, batch_size=args.batch_size, shuffle=False)
     
-    num_classes = len(np.unique(train_y))
+
     
     lr = args.lr
     num_epochs = args.epochs
@@ -181,6 +216,7 @@ def main(args):
         model = RobertaForSequenceClassification(config)
         
     model.to(device)
+    print(model)
     optimizer = AdamW(model.parameters(), lr=lr)
     scheduler = ReduceLROnPlateau(optimizer, factor=0.5, patience=3, 
                                     verbose=verbose)
@@ -188,10 +224,12 @@ def main(args):
     best_model_dict = None
     best_acc = 0
     best_preds = None
+    acc_logs = []
     
     for epoch in range(1, num_epochs + 1):
         train_loss, train_acc = train_epoch(model, train_loader, optimizer, verbose)
         y_preds, y_true, valid_loss, valid_acc = valid_epoch(model, valid_loader, verbose)
+        acc_logs.append(valid_acc)
         if verbose:
             print("Epoch {} finished.".format(epoch))
             print('='*20)
@@ -207,9 +245,14 @@ def main(args):
         torch.save(best_model_dict, args.save_model_path)
     
 
-    print("Evaluate on validation using the best model")
+    print("Evaluate on aggreagate validation using the best model")
     evaluate(best_preds, y_true)
+    if args.data2_dir is not None:
+        print("Evaluate on separate validation using the best model")
+        evaluate_separate(best_preds, y_true, num_classes1)
     print("Best validation accuracy: ", best_acc, "%")
+    if args.log_acc:
+        np.save("roberta/logs/log_acc.npy", np.array(acc_logs))
 
 
 if __name__ == "__main__":
