@@ -5,3 +5,4 @@ memory/
 roberta/logs
 roberta/logs-en
 roberta/*.ipynb
+Datasets/*.png
