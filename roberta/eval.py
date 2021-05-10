@@ -4,7 +4,7 @@ from torch.utils.data import Dataset, DataLoader
 from transformers import RobertaForSequenceClassification, AdamW, PreTrainedTokenizerFast, RobertaConfig
 import os
 from sklearn.metrics import f1_score, accuracy_score, classification_report
-from finetune import PhoneRobertaDataset
+from finetune import PhoneRobertaDataset, evaluate_separate
 
 import argparse
 
@@ -14,6 +14,7 @@ import argparse
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--test_dir", type=str, required=True)
+    parser.add_argument("--test2_dir", type=str, default=None, help="If provided evaluate a multilingual model")
     parser.add_argument('--model', type=str, required=True)
     parser.add_argument("--tokenizer", type=str, required=True)
     parser.add_argument('--heads', type=int, default=12)
@@ -53,11 +54,21 @@ def evaluate(model, device, test_loader):
     print("F1 Macro: {}, F1 Micro: {}".format(f1_macro, f1_micro))
     print("Accuracy: {}".format(acc))
     print(report)
+    return preds_all, labels_all
     
 
 def main(args):
     test_x = np.load(os.path.join(args.test_dir, "test_x.npy"), allow_pickle=True)
     test_y = np.load(os.path.join(args.test_dir, "test_y.npy"), allow_pickle=True)
+    num_classes1 = len(np.unique(test_y))
+
+    if args.test2_dir is not None:
+        test_x2 = np.load(os.path.join(args.test2_dir, "test_x.npy"), allow_pickle=True)
+        test_y2 = np.load(os.path.join(args.test2_dir, "test_y.npy"), allow_pickle=True)
+        test_y2 += num_classes1
+        test_x = np.concatenate((test_x, test_x2), axis=0)
+        test_y = np.concatenate((test_y, test_y2), axis=0)
+
     num_classes = len(np.unique(test_y))
     
     tokenizer_path = args.tokenizer
@@ -78,7 +89,11 @@ def main(args):
     model = RobertaForSequenceClassification(config)  
     device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
     model.load_state_dict(torch.load(args.model))
-    evaluate(model, device, test_loader)
+    preds_all, labels_all = evaluate(model, device, test_loader)
+    
+    if args.test2_dir is not None:
+        print("Evaluate on separate validation using the best model")
+        evaluate_separate(preds_all, labels_all, num_classes1)
 
 if __name__ == '__main__':
     args = get_args()
