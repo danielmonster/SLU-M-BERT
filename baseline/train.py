@@ -178,7 +178,7 @@ def main(args):
                                     verbose=verbose)
     num_epochs = args.epochs
     
-    best_model_dict = None
+#     best_model_dict = None
     best_acc = 0
     best_preds = None
 
@@ -191,11 +191,11 @@ def main(args):
             print('='*20)
         
         if valid_acc > best_acc:
-            best_model_dict = model.state_dict()
+            torch.save(model.state_dict(), args.save_model_path)
             best_acc = valid_acc
             best_preds = y_preds
-    if best_model_dict is not None:
-        torch.save(best_model_dict, args.save_model_path)
+#     if best_model_dict is not None:
+#         torch.save(best_model_dict, args.save_model_path)
 
 
     print("Evaluate on validation using the best model")

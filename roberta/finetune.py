@@ -221,7 +221,7 @@ def main(args):
     scheduler = ReduceLROnPlateau(optimizer, factor=0.5, patience=3, 
                                     verbose=verbose)
     
-    best_model_dict = None
+#     best_model_dict = None
     best_acc = 0
     best_preds = None
     acc_logs = []
@@ -237,12 +237,12 @@ def main(args):
             scheduler.step(valid_loss)
         
         if valid_acc > best_acc:
-            best_model_dict = model.state_dict()
+            torch.save(model.state_dict(), args.save_model_path)
             best_acc = valid_acc
             best_preds = y_preds
             
-    if best_model_dict and args.save_model_path:
-        torch.save(best_model_dict, args.save_model_path)
+#     if best_model_dict and args.save_model_path:
+#         torch.save(best_model_dict, args.save_model_path)
     
 
     print("Evaluate on aggreagate validation using the best model")
