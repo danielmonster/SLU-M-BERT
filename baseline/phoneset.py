@@ -2,13 +2,17 @@ from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
 import torch
 import json
-
+import os
 
 def load_phone_idx(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-
+def save_phone_idx(phone2idx, save_dir):
+    with open(os.path.join(save_dir, "phone_idx.json"), 'w', encoding='utf-8') as f:
+        json.dump(phone2idx, f)
+    
+    
 class PhoneDataset(Dataset):
     def __init__(self, X, Y):
         self.X = X

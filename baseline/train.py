@@ -7,7 +7,8 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 import json
 import time
 from lscn import LSCNsClassifier
-from phoneset import LMDataset, PhoneDataset, load_phone_idx
+from phoneset import LMDataset, PhoneDataset, load_phone_idx, save_phone_idx
+from ast import literal_eval
 import os
 from eval import report_acc_f1
 
@@ -25,6 +26,7 @@ def get_args():
     parser.add_argument('--num_lstm_layers', type=int, default=1)
     parser.add_argument('--weight_tying', type=int, default=0)
     parser.add_argument('--dir', type=str, required=True) # ex: "memory/enfr/en"
+    parser.add_argument('--lm_dir', type=str, default=None) # ex: "Datasets/en_LM_data"
     parser.add_argument('--save_model_path', type=str, default="best_model/en_best.pt")
     parser.add_argument('--verbose', type=int, default=1)
     return parser.parse_args()
@@ -126,6 +128,16 @@ def evaluate(y_pred, y_true):
     print("Accuracy: {}".format(acc))
     print(report)
 
+    
+def read_lm(dir):
+    data = None
+    lm_files = next(os.walk(dir))[-1]
+    for lm_file in lm_files:
+        df = pd.read_csv(os.path.join(dir, lm_file))
+        data = pd.concat([data, df], ignore_index=True)
+    df_phones = data['phones'].apply(lambda x: literal_eval(x))
+    return df_phones.to_numpy()
+    
 
 
 def main(args):
@@ -134,7 +146,15 @@ def main(args):
     valid_x = np.load(os.path.join(args.dir, "dev_x.npy"), allow_pickle=True)
     valid_y = np.load(os.path.join(args.dir, "dev_y.npy"), allow_pickle=True)
     phone2idx = load_phone_idx(os.path.join(args.dir, "phone_idx.json"))
-
+    
+    if args.lm_dir:
+        lm_x = read_lm(args.lm_dir)
+        for sample in lm_x:
+            for phone in sample:
+                if phone not in phone2idx:
+                    phone2idx[phone] = len(phone2idx)
+    
+    save_phone_idx(phone2idx, args.dir)
     eos_index = len(phone2idx)
     vocab_size = len(phone2idx) + 1
     train_dataset_LM = LMDataset(train_x, eos_index)

@@ -32,7 +32,12 @@ python3 baseline/train.py --epochs=20 --lr=1e-3 --dir=memory/enfr/en \
 --num_lstm_layers=1 --lstm_hidden=128 --embed_dim=128 \
 --weight_tying=1 --save_model_path=best_model/en_best.pt
 ```
+The above command sets `-lm_epochs` to 0, so no LM will be done.
+If you want to do pre-training with LM and then fine-tuning, please set the following arguments
 
+```
+--lm_epochs=30 --lm_dir=Datasets/en_LM_data --save_model_path=best_model/en_lm_best.pt
+```
 
 To evaluate on the test set,
 
@@ -48,6 +53,11 @@ python3 baseline/train.py --epochs=20 --lr=1e-3 --dir=memory/cn/ \
 --lm_epochs=0 --batch_size=64 --num_filters=128 \
 --num_lstm_layers=1 --lstm_hidden=128 --embed_dim=128 \
 --weight_tying=1 --save_model_path=best_model/cn_best.pt
+```
+
+Or with lm:
+```
+--lm_epochs=30 --lm_dir=Datasets/chinese_LM_data --save_model_path=best_model/cn_lm_best.pt
 ```
 
 
